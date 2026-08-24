@@ -23,3 +23,4 @@ Budget sum: ~6,100-9,550 words.
 - Concepts covered: 25/25
 - TODO removed: yes
 - mkdocs build --strict: pass
+Amended: expanded ADHD In Adulthood (Ray worked example) and Late Diagnosis (is-it-worth-it-at-my-age).
