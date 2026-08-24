@@ -1,0 +1,3690 @@
+{
+  "metadata": {
+    "title": "Understanding ADHD: A Guidebook for People with ADHD and the People Who Care for Them",
+    "description": "A comprehensive, evidence-based intelligent textbook on ADHD written for two readers at once: the person with ADHD and their caregivers \u2014 parents, partners, siblings, and friends. Covers the science, diagnosis, treatment, daily skills, emotional life, school and work, and family dynamics of ADHD, with emphasis on late diagnosis and ADHD in women.",
+    "creator": "Arun Batchu",
+    "date": "2026-08-24",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "FOUND": {
+      "classifierName": "ADHD Foundations",
+      "color": "SteelBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "BRAIN": {
+      "classifierName": "Brain Science",
+      "color": "DarkGreen",
+      "font": {
+        "color": "white"
+      }
+    },
+    "PRES": {
+      "classifierName": "Presentations And Traits",
+      "color": "DodgerBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "LIFE": {
+      "classifierName": "Lifespan And Late Diagnosis",
+      "color": "Teal",
+      "font": {
+        "color": "white"
+      }
+    },
+    "DIAG": {
+      "classifierName": "Diagnosis And Evaluation",
+      "color": "DarkSlateBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "COMO": {
+      "classifierName": "Co-occurring Conditions",
+      "color": "DarkRed",
+      "font": {
+        "color": "white"
+      }
+    },
+    "MED": {
+      "classifierName": "Medication",
+      "color": "Crimson",
+      "font": {
+        "color": "white"
+      }
+    },
+    "TREAT": {
+      "classifierName": "Treatment Beyond Medication",
+      "color": "OliveDrab",
+      "font": {
+        "color": "white"
+      }
+    },
+    "SKILL": {
+      "classifierName": "Daily Systems And Skills",
+      "color": "Gold",
+      "font": {
+        "color": "black"
+      }
+    },
+    "EMO": {
+      "classifierName": "Emotional Life And Identity",
+      "color": "MediumPurple",
+      "font": {
+        "color": "white"
+      }
+    },
+    "EDU": {
+      "classifierName": "School And Work",
+      "color": "Orange",
+      "font": {
+        "color": "black"
+      }
+    },
+    "REL": {
+      "classifierName": "Family And Caregivers",
+      "color": "HotPink",
+      "font": {
+        "color": "black"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Attention",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 1869
+    },
+    {
+      "id": 2,
+      "label": "Attention Regulation",
+      "group": "FOUND",
+      "cis": 916
+    },
+    {
+      "id": 3,
+      "label": "Hyperactivity",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 1103
+    },
+    {
+      "id": 4,
+      "label": "Impulsivity",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 924
+    },
+    {
+      "id": 5,
+      "label": "Inattention",
+      "group": "FOUND",
+      "cis": 934
+    },
+    {
+      "id": 6,
+      "label": "Neurodevelopmental Disorder",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 1231
+    },
+    {
+      "id": 7,
+      "label": "ADHD",
+      "group": "FOUND",
+      "cis": 913
+    },
+    {
+      "id": 8,
+      "label": "Neurodiversity",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 9,
+      "label": "Neurotypical Brain",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 10,
+      "label": "ADHD Prevalence",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 11,
+      "label": "History Of ADHD",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 12,
+      "label": "ADD Vs ADHD Terminology",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 13,
+      "label": "DSM-5 Definition Of ADHD",
+      "group": "FOUND",
+      "cis": 188
+    },
+    {
+      "id": 14,
+      "label": "ADHD Myths",
+      "group": "FOUND",
+      "cis": 70
+    },
+    {
+      "id": 15,
+      "label": "Laziness Myth",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 16,
+      "label": "Willpower Myth",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 17,
+      "label": "ADHD As Regulation Difference",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 18,
+      "label": "ADHD And Intelligence",
+      "group": "FOUND",
+      "cis": 12
+    },
+    {
+      "id": 19,
+      "label": "Causes Of ADHD",
+      "group": "FOUND",
+      "cis": 4
+    },
+    {
+      "id": 20,
+      "label": "Genetics Of ADHD",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 21,
+      "label": "Environmental Risk Factors",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 22,
+      "label": "ADHD Stigma",
+      "group": "FOUND",
+      "cis": 45
+    },
+    {
+      "id": 23,
+      "label": "Media Portrayals Of ADHD",
+      "group": "FOUND",
+      "cis": 11
+    },
+    {
+      "id": 24,
+      "label": "ADHD Misinformation",
+      "group": "FOUND",
+      "cis": 10
+    },
+    {
+      "id": 25,
+      "label": "Evidence-Based Information",
+      "group": "FOUND",
+      "cis": 6
+    },
+    {
+      "id": 26,
+      "label": "Brain Development",
+      "group": "BRAIN",
+      "cis": 315
+    },
+    {
+      "id": 27,
+      "label": "Prefrontal Cortex",
+      "group": "BRAIN",
+      "cis": 200
+    },
+    {
+      "id": 28,
+      "label": "Brain Networks",
+      "group": "BRAIN",
+      "cis": 4
+    },
+    {
+      "id": 29,
+      "label": "Default Mode Network",
+      "group": "BRAIN",
+      "cis": 2
+    },
+    {
+      "id": 30,
+      "label": "Executive Function",
+      "group": "BRAIN",
+      "cis": 199
+    },
+    {
+      "id": 31,
+      "label": "Working Memory",
+      "group": "BRAIN",
+      "cis": 123
+    },
+    {
+      "id": 32,
+      "label": "Response Inhibition",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 33,
+      "label": "Cognitive Flexibility",
+      "group": "BRAIN",
+      "cis": 2
+    },
+    {
+      "id": 34,
+      "label": "Planning And Prioritizing",
+      "group": "BRAIN",
+      "cis": 6
+    },
+    {
+      "id": 35,
+      "label": "Task Initiation",
+      "group": "BRAIN",
+      "cis": 23
+    },
+    {
+      "id": 36,
+      "label": "Self-Monitoring",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 37,
+      "label": "Dopamine",
+      "group": "BRAIN",
+      "cis": 29
+    },
+    {
+      "id": 38,
+      "label": "Norepinephrine",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 39,
+      "label": "Reward System",
+      "group": "BRAIN",
+      "cis": 23
+    },
+    {
+      "id": 40,
+      "label": "Interest-Based Nervous System",
+      "group": "BRAIN",
+      "cis": 3
+    },
+    {
+      "id": 41,
+      "label": "Motivation And ADHD",
+      "group": "BRAIN",
+      "cis": 18
+    },
+    {
+      "id": 42,
+      "label": "Delay Aversion",
+      "group": "BRAIN",
+      "cis": 9
+    },
+    {
+      "id": 43,
+      "label": "Arousal Regulation",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 44,
+      "label": "Sleep And The ADHD Brain",
+      "group": "BRAIN",
+      "cis": 7
+    },
+    {
+      "id": 45,
+      "label": "ADHD Brain Maturation Lag",
+      "group": "BRAIN",
+      "cis": 72
+    },
+    {
+      "id": 46,
+      "label": "Neuroimaging Findings",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 47,
+      "label": "Heritability Research",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 48,
+      "label": "ADHD And Memory",
+      "group": "BRAIN",
+      "cis": 1
+    },
+    {
+      "id": 49,
+      "label": "Prospective Memory",
+      "group": "BRAIN",
+      "cis": 41
+    },
+    {
+      "id": 50,
+      "label": "Cognitive Load",
+      "group": "BRAIN",
+      "cis": 9
+    },
+    {
+      "id": 51,
+      "label": "Inattentive Presentation",
+      "group": "PRES",
+      "cis": 2
+    },
+    {
+      "id": 52,
+      "label": "Hyperactive-Impulsive Type",
+      "group": "PRES",
+      "cis": 3
+    },
+    {
+      "id": 53,
+      "label": "Combined Presentation",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 54,
+      "label": "Symptom Criteria",
+      "group": "PRES",
+      "cis": 182
+    },
+    {
+      "id": 55,
+      "label": "Symptom Thresholds",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 56,
+      "label": "Situational Variability",
+      "group": "PRES",
+      "cis": 28
+    },
+    {
+      "id": 57,
+      "label": "Hyperfocus",
+      "group": "PRES",
+      "cis": 2
+    },
+    {
+      "id": 58,
+      "label": "Time Blindness",
+      "group": "PRES",
+      "cis": 7
+    },
+    {
+      "id": 59,
+      "label": "Distractibility",
+      "group": "PRES",
+      "cis": 18
+    },
+    {
+      "id": 60,
+      "label": "Mind Wandering",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 61,
+      "label": "Internal Restlessness",
+      "group": "PRES",
+      "cis": 185
+    },
+    {
+      "id": 62,
+      "label": "Fidgeting",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 63,
+      "label": "Excessive Talking",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 64,
+      "label": "Interrupting",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 65,
+      "label": "Forgetfulness",
+      "group": "PRES",
+      "cis": 39
+    },
+    {
+      "id": 66,
+      "label": "Losing Things",
+      "group": "PRES",
+      "cis": 4
+    },
+    {
+      "id": 67,
+      "label": "Task Switching Difficulty",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 68,
+      "label": "Procrastination",
+      "group": "PRES",
+      "cis": 7
+    },
+    {
+      "id": 69,
+      "label": "Decision Paralysis",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 70,
+      "label": "Sensory Sensitivity",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 71,
+      "label": "Restlessness In Adults",
+      "group": "PRES",
+      "cis": 183
+    },
+    {
+      "id": 72,
+      "label": "Performance Inconsistency",
+      "group": "PRES",
+      "cis": 3
+    },
+    {
+      "id": 73,
+      "label": "Masking",
+      "group": "PRES",
+      "cis": 24
+    },
+    {
+      "id": 74,
+      "label": "Compensation Strategies",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 75,
+      "label": "Boredom Intolerance",
+      "group": "PRES",
+      "cis": 1
+    },
+    {
+      "id": 76,
+      "label": "ADHD In Childhood",
+      "group": "LIFE",
+      "cis": 71
+    },
+    {
+      "id": 77,
+      "label": "ADHD In Adolescence",
+      "group": "LIFE",
+      "cis": 51
+    },
+    {
+      "id": 78,
+      "label": "ADHD In College Years",
+      "group": "LIFE",
+      "cis": 33
+    },
+    {
+      "id": 79,
+      "label": "ADHD In Adulthood",
+      "group": "LIFE",
+      "cis": 182
+    },
+    {
+      "id": 80,
+      "label": "ADHD In Older Adults",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 81,
+      "label": "Late Diagnosis",
+      "group": "LIFE",
+      "cis": 142
+    },
+    {
+      "id": 82,
+      "label": "ADHD In Girls",
+      "group": "LIFE",
+      "cis": 4
+    },
+    {
+      "id": 83,
+      "label": "ADHD In Women",
+      "group": "LIFE",
+      "cis": 13
+    },
+    {
+      "id": 84,
+      "label": "Late Diagnosis In Women",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 85,
+      "label": "Gender Diagnosis Gap",
+      "group": "LIFE",
+      "cis": 2
+    },
+    {
+      "id": 86,
+      "label": "Internalized Symptoms",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 87,
+      "label": "High Achievement Masking",
+      "group": "LIFE",
+      "cis": 5
+    },
+    {
+      "id": 88,
+      "label": "Hormones And ADHD",
+      "group": "LIFE",
+      "cis": 4
+    },
+    {
+      "id": 89,
+      "label": "Menstrual Cycle Effects",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 90,
+      "label": "Pregnancy And ADHD",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 91,
+      "label": "Menopause And ADHD",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 92,
+      "label": "Academic Transitions",
+      "group": "LIFE",
+      "cis": 16
+    },
+    {
+      "id": 93,
+      "label": "Transition To College",
+      "group": "LIFE",
+      "cis": 4
+    },
+    {
+      "id": 94,
+      "label": "Transition To Work",
+      "group": "LIFE",
+      "cis": 14
+    },
+    {
+      "id": 95,
+      "label": "Independent Living Skills",
+      "group": "LIFE",
+      "cis": 2
+    },
+    {
+      "id": 96,
+      "label": "Driving And ADHD",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 97,
+      "label": "Money Management With ADHD",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 98,
+      "label": "ADHD Across Cultures",
+      "group": "LIFE",
+      "cis": 1
+    },
+    {
+      "id": 99,
+      "label": "Adult Diagnosis Journey",
+      "group": "LIFE",
+      "cis": 140
+    },
+    {
+      "id": 100,
+      "label": "Reframing Your Past",
+      "group": "LIFE",
+      "cis": 21
+    },
+    {
+      "id": 101,
+      "label": "Diagnostic Evaluation",
+      "group": "DIAG",
+      "cis": 149
+    },
+    {
+      "id": 102,
+      "label": "Clinical Interview",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 103,
+      "label": "ADHD Rating Scales",
+      "group": "DIAG",
+      "cis": 2
+    },
+    {
+      "id": 104,
+      "label": "Self-Report Questionnaires",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 105,
+      "label": "Collateral Information",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 106,
+      "label": "Childhood History Requirement",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 107,
+      "label": "Neuropsychological Testing",
+      "group": "DIAG",
+      "cis": 2
+    },
+    {
+      "id": 108,
+      "label": "Continuous Performance Tests",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 109,
+      "label": "Differential Diagnosis",
+      "group": "DIAG",
+      "cis": 7
+    },
+    {
+      "id": 110,
+      "label": "Age Of Onset Criterion",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 111,
+      "label": "Impairment Criterion",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 112,
+      "label": "Who Can Diagnose ADHD",
+      "group": "DIAG",
+      "cis": 8
+    },
+    {
+      "id": 113,
+      "label": "Psychiatrists",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 114,
+      "label": "Psychologists",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 115,
+      "label": "Primary Care Providers",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 116,
+      "label": "Finding A Clinician",
+      "group": "DIAG",
+      "cis": 4
+    },
+    {
+      "id": 117,
+      "label": "Preparing For An Evaluation",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 118,
+      "label": "Evaluation Report",
+      "group": "DIAG",
+      "cis": 120
+    },
+    {
+      "id": 119,
+      "label": "Misdiagnosis",
+      "group": "DIAG",
+      "cis": 2
+    },
+    {
+      "id": 120,
+      "label": "Underdiagnosis",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 121,
+      "label": "Overdiagnosis Debate",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 122,
+      "label": "Telehealth Evaluations",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 123,
+      "label": "Cost And Insurance",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 124,
+      "label": "Second Opinions",
+      "group": "DIAG",
+      "cis": 1
+    },
+    {
+      "id": 125,
+      "label": "What A Diagnosis Means",
+      "group": "DIAG",
+      "cis": 118
+    },
+    {
+      "id": 126,
+      "label": "Comorbidity",
+      "group": "COMO",
+      "cis": 21
+    },
+    {
+      "id": 127,
+      "label": "Anxiety Disorders",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 128,
+      "label": "Depression",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 129,
+      "label": "Learning Disabilities",
+      "group": "COMO",
+      "cis": 2
+    },
+    {
+      "id": 130,
+      "label": "Dyslexia",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 131,
+      "label": "Autism And ADHD",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 132,
+      "label": "Sleep Disorders",
+      "group": "COMO",
+      "cis": 4
+    },
+    {
+      "id": 133,
+      "label": "Delayed Sleep Phase Syndrome",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 134,
+      "label": "Substance Use Risk",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 135,
+      "label": "Disordered Eating",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 136,
+      "label": "Bipolar Disorder Distinction",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 137,
+      "label": "Oppositional Defiant Disorder",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 138,
+      "label": "Tic Disorders",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 139,
+      "label": "Trauma And ADHD",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 140,
+      "label": "Chronic Stress Effects",
+      "group": "COMO",
+      "cis": 4
+    },
+    {
+      "id": 141,
+      "label": "ADHD Burnout",
+      "group": "COMO",
+      "cis": 3
+    },
+    {
+      "id": 142,
+      "label": "Screening For Comorbidities",
+      "group": "COMO",
+      "cis": 3
+    },
+    {
+      "id": 143,
+      "label": "Treatment Order Decisions",
+      "group": "COMO",
+      "cis": 2
+    },
+    {
+      "id": 144,
+      "label": "Integrated Treatment Planning",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 145,
+      "label": "When To Seek Help",
+      "group": "COMO",
+      "cis": 1
+    },
+    {
+      "id": 146,
+      "label": "Medication Overview",
+      "group": "MED",
+      "cis": 62
+    },
+    {
+      "id": 147,
+      "label": "Stimulant Medications",
+      "group": "MED",
+      "cis": 10
+    },
+    {
+      "id": 148,
+      "label": "Methylphenidate",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 149,
+      "label": "Amphetamine Medications",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 150,
+      "label": "Non-Stimulant Medications",
+      "group": "MED",
+      "cis": 4
+    },
+    {
+      "id": 151,
+      "label": "Atomoxetine",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 152,
+      "label": "Guanfacine",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 153,
+      "label": "Off-Label Options",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 154,
+      "label": "How Stimulants Work",
+      "group": "MED",
+      "cis": 3
+    },
+    {
+      "id": 155,
+      "label": "Dopamine Reuptake",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 156,
+      "label": "Medication Onset And Duration",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 157,
+      "label": "Immediate Vs Extended Release",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 158,
+      "label": "Titration",
+      "group": "MED",
+      "cis": 3
+    },
+    {
+      "id": 159,
+      "label": "Finding The Right Dose",
+      "group": "MED",
+      "cis": 2
+    },
+    {
+      "id": 160,
+      "label": "Side Effects",
+      "group": "MED",
+      "cis": 5
+    },
+    {
+      "id": 161,
+      "label": "Appetite And Sleep Effects",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 162,
+      "label": "Cardiovascular Considerations",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 163,
+      "label": "Medication Holidays",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 164,
+      "label": "Stimulant Misconceptions",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 165,
+      "label": "Controlled Substance Rules",
+      "group": "MED",
+      "cis": 2
+    },
+    {
+      "id": 166,
+      "label": "Medication Shortages",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 167,
+      "label": "Tracking Medication Response",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 168,
+      "label": "Medication And Comorbidities",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 169,
+      "label": "Talking To Your Prescriber",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 170,
+      "label": "Deciding About Medication",
+      "group": "MED",
+      "cis": 1
+    },
+    {
+      "id": 171,
+      "label": "Multimodal Treatment",
+      "group": "TREAT",
+      "cis": 35
+    },
+    {
+      "id": 172,
+      "label": "Behavioral Therapy",
+      "group": "TREAT",
+      "cis": 5
+    },
+    {
+      "id": 173,
+      "label": "Cognitive Behavioral Therapy",
+      "group": "TREAT",
+      "cis": 2
+    },
+    {
+      "id": 174,
+      "label": "ADHD Coaching",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 175,
+      "label": "Behavioral Parent Training",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 176,
+      "label": "Psychoeducation",
+      "group": "TREAT",
+      "cis": 5
+    },
+    {
+      "id": 177,
+      "label": "Exercise As Treatment",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 178,
+      "label": "Sleep Hygiene",
+      "group": "TREAT",
+      "cis": 2
+    },
+    {
+      "id": 179,
+      "label": "Nutrition And ADHD",
+      "group": "TREAT",
+      "cis": 3
+    },
+    {
+      "id": 180,
+      "label": "Omega-3 Evidence",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 181,
+      "label": "Mindfulness And Meditation",
+      "group": "TREAT",
+      "cis": 7
+    },
+    {
+      "id": 182,
+      "label": "Neurofeedback Evidence",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 183,
+      "label": "Digital Therapeutics",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 184,
+      "label": "Support Groups",
+      "group": "TREAT",
+      "cis": 5
+    },
+    {
+      "id": 185,
+      "label": "Peer Support",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 186,
+      "label": "Evaluating Treatment Claims",
+      "group": "TREAT",
+      "cis": 3
+    },
+    {
+      "id": 187,
+      "label": "Supplement Claims",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 188,
+      "label": "Treatment Evidence Hierarchy",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 189,
+      "label": "Measuring Treatment Progress",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 190,
+      "label": "Building A Care Team",
+      "group": "TREAT",
+      "cis": 1
+    },
+    {
+      "id": 191,
+      "label": "Externalizing Memory",
+      "group": "SKILL",
+      "cis": 32
+    },
+    {
+      "id": 192,
+      "label": "Capture Systems",
+      "group": "SKILL",
+      "cis": 6
+    },
+    {
+      "id": 193,
+      "label": "To-Do Lists That Work",
+      "group": "SKILL",
+      "cis": 3
+    },
+    {
+      "id": 194,
+      "label": "Task Breakdown",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 195,
+      "label": "Defining Next Actions",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 196,
+      "label": "Time Estimation",
+      "group": "SKILL",
+      "cis": 4
+    },
+    {
+      "id": 197,
+      "label": "Timers And Alarms",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 198,
+      "label": "Pomodoro Technique",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 199,
+      "label": "Body Doubling",
+      "group": "SKILL",
+      "cis": 4
+    },
+    {
+      "id": 200,
+      "label": "Accountability Partners",
+      "group": "SKILL",
+      "cis": 3
+    },
+    {
+      "id": 201,
+      "label": "Routines And Habits",
+      "group": "SKILL",
+      "cis": 8
+    },
+    {
+      "id": 202,
+      "label": "Habit Stacking",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 203,
+      "label": "Morning Routines",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 204,
+      "label": "Evening Routines",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 205,
+      "label": "Environment Design",
+      "group": "SKILL",
+      "cis": 9
+    },
+    {
+      "id": 206,
+      "label": "Visual Reminders",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 207,
+      "label": "Decluttering For ADHD",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 208,
+      "label": "Designated Places",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 209,
+      "label": "Digital Calendars",
+      "group": "SKILL",
+      "cis": 3
+    },
+    {
+      "id": 210,
+      "label": "Planner Systems",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 211,
+      "label": "Reminder Apps",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 212,
+      "label": "Distraction Blockers",
+      "group": "SKILL",
+      "cis": 4
+    },
+    {
+      "id": 213,
+      "label": "Notification Management",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 214,
+      "label": "Email And Message Triage",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 215,
+      "label": "Prioritization Methods",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 216,
+      "label": "Deadline Scaffolding",
+      "group": "SKILL",
+      "cis": 3
+    },
+    {
+      "id": 217,
+      "label": "Starting Rituals",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 218,
+      "label": "Momentum And Activation",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 219,
+      "label": "Reward Systems",
+      "group": "SKILL",
+      "cis": 1
+    },
+    {
+      "id": 220,
+      "label": "System Maintenance",
+      "group": "SKILL",
+      "cis": 2
+    },
+    {
+      "id": 221,
+      "label": "Emotional Dysregulation",
+      "group": "EMO",
+      "cis": 27
+    },
+    {
+      "id": 222,
+      "label": "Emotional Impulsivity",
+      "group": "EMO",
+      "cis": 3
+    },
+    {
+      "id": 223,
+      "label": "Rejection Sensitive Dysphoria",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 224,
+      "label": "Shame And ADHD",
+      "group": "EMO",
+      "cis": 8
+    },
+    {
+      "id": 225,
+      "label": "Self-Esteem And ADHD",
+      "group": "EMO",
+      "cis": 3
+    },
+    {
+      "id": 226,
+      "label": "Imposter Feelings",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 227,
+      "label": "Perfectionism",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 228,
+      "label": "Years Of Negative Feedback",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 229,
+      "label": "Self-Compassion",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 230,
+      "label": "Grief After Late Diagnosis",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 231,
+      "label": "Identity After Diagnosis",
+      "group": "EMO",
+      "cis": 19
+    },
+    {
+      "id": 232,
+      "label": "Disclosure To Friends",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 233,
+      "label": "Self-Advocacy",
+      "group": "EMO",
+      "cis": 14
+    },
+    {
+      "id": 234,
+      "label": "Explaining Your ADHD",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 235,
+      "label": "ADHD Community",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 236,
+      "label": "Online ADHD Culture",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 237,
+      "label": "ADHD Strengths",
+      "group": "EMO",
+      "cis": 11
+    },
+    {
+      "id": 238,
+      "label": "Creativity And ADHD",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 239,
+      "label": "Energy And Enthusiasm",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 240,
+      "label": "Resilience",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 241,
+      "label": "Emotion Regulation Skills",
+      "group": "EMO",
+      "cis": 6
+    },
+    {
+      "id": 242,
+      "label": "Pausing Before Reacting",
+      "group": "EMO",
+      "cis": 2
+    },
+    {
+      "id": 243,
+      "label": "Cognitive Reframing",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 244,
+      "label": "Journaling",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 245,
+      "label": "Personal Owner's Manual",
+      "group": "EMO",
+      "cis": 1
+    },
+    {
+      "id": 246,
+      "label": "Study Strategies",
+      "group": "EDU",
+      "cis": 8
+    },
+    {
+      "id": 247,
+      "label": "Active Recall",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 248,
+      "label": "Spaced Repetition",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 249,
+      "label": "Note-Taking Systems",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 250,
+      "label": "Reading With ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 251,
+      "label": "Writing With ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 252,
+      "label": "Test-Taking Strategies",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 253,
+      "label": "Homework Systems",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 254,
+      "label": "School Accommodations",
+      "group": "EDU",
+      "cis": 11
+    },
+    {
+      "id": 255,
+      "label": "IEP",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 256,
+      "label": "504 Plan",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 257,
+      "label": "Requesting Accommodations",
+      "group": "EDU",
+      "cis": 8
+    },
+    {
+      "id": 258,
+      "label": "College Disability Services",
+      "group": "EDU",
+      "cis": 3
+    },
+    {
+      "id": 259,
+      "label": "College Accommodations",
+      "group": "EDU",
+      "cis": 2
+    },
+    {
+      "id": 260,
+      "label": "Choosing A Major",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 261,
+      "label": "Grad School With ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 262,
+      "label": "Career Fit",
+      "group": "EDU",
+      "cis": 5
+    },
+    {
+      "id": 263,
+      "label": "ADHD-Friendly Jobs",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 264,
+      "label": "ADA Basics",
+      "group": "EDU",
+      "cis": 5
+    },
+    {
+      "id": 265,
+      "label": "Workplace Accommodations",
+      "group": "EDU",
+      "cis": 4
+    },
+    {
+      "id": 266,
+      "label": "Workplace Disclosure",
+      "group": "EDU",
+      "cis": 3
+    },
+    {
+      "id": 267,
+      "label": "Managing Meetings",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 268,
+      "label": "Focus Blocks At Work",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 269,
+      "label": "Deadlines At Work",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 270,
+      "label": "Working With A Manager",
+      "group": "EDU",
+      "cis": 2
+    },
+    {
+      "id": 271,
+      "label": "Remote Work And ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 272,
+      "label": "Entrepreneurship And ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 273,
+      "label": "Job Search With ADHD",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 274,
+      "label": "Handling Feedback At Work",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 275,
+      "label": "Burnout Prevention At Work",
+      "group": "EDU",
+      "cis": 1
+    },
+    {
+      "id": 276,
+      "label": "Family System Impact",
+      "group": "REL",
+      "cis": 27
+    },
+    {
+      "id": 277,
+      "label": "Caregiver Role",
+      "group": "REL",
+      "cis": 24
+    },
+    {
+      "id": 278,
+      "label": "Supporting Without Parenting",
+      "group": "REL",
+      "cis": 2
+    },
+    {
+      "id": 279,
+      "label": "Adult Child Autonomy",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 280,
+      "label": "Communication Foundations",
+      "group": "REL",
+      "cis": 14
+    },
+    {
+      "id": 281,
+      "label": "Reminders Without Nagging",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 282,
+      "label": "Dividing Household Labor",
+      "group": "REL",
+      "cis": 2
+    },
+    {
+      "id": 283,
+      "label": "Parent-Child Conflict Cycles",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 284,
+      "label": "Repair After Conflict",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 285,
+      "label": "Family Meetings",
+      "group": "REL",
+      "cis": 2
+    },
+    {
+      "id": 286,
+      "label": "Shared Family Calendars",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 287,
+      "label": "ADHD And Dating",
+      "group": "REL",
+      "cis": 7
+    },
+    {
+      "id": 288,
+      "label": "Telling A New Partner",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 289,
+      "label": "Partner Communication",
+      "group": "REL",
+      "cis": 5
+    },
+    {
+      "id": 290,
+      "label": "Partner-Parent Trap",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 291,
+      "label": "Intimacy And ADHD",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 292,
+      "label": "Dividing Mental Load",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 293,
+      "label": "Couples Counseling",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 294,
+      "label": "Caregiver Strain",
+      "group": "REL",
+      "cis": 6
+    },
+    {
+      "id": 295,
+      "label": "Caregiver Burnout",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 296,
+      "label": "Caregiver Self-Care",
+      "group": "REL",
+      "cis": 3
+    },
+    {
+      "id": 297,
+      "label": "Respite And Boundaries",
+      "group": "REL",
+      "cis": 2
+    },
+    {
+      "id": 298,
+      "label": "Support For Caregivers",
+      "group": "REL",
+      "cis": 1
+    },
+    {
+      "id": 299,
+      "label": "Family Psychoeducation",
+      "group": "REL",
+      "cis": 2
+    },
+    {
+      "id": 300,
+      "label": "Family Support Plan",
+      "group": "REL",
+      "cis": 1
+    }
+  ],
+  "edges": [
+    {
+      "from": 2,
+      "to": 1
+    },
+    {
+      "from": 5,
+      "to": 1
+    },
+    {
+      "from": 7,
+      "to": 2
+    },
+    {
+      "from": 7,
+      "to": 3
+    },
+    {
+      "from": 7,
+      "to": 4
+    },
+    {
+      "from": 7,
+      "to": 5
+    },
+    {
+      "from": 7,
+      "to": 6
+    },
+    {
+      "from": 8,
+      "to": 6
+    },
+    {
+      "from": 9,
+      "to": 8
+    },
+    {
+      "from": 10,
+      "to": 7
+    },
+    {
+      "from": 11,
+      "to": 7
+    },
+    {
+      "from": 12,
+      "to": 7
+    },
+    {
+      "from": 12,
+      "to": 11
+    },
+    {
+      "from": 13,
+      "to": 7
+    },
+    {
+      "from": 14,
+      "to": 7
+    },
+    {
+      "from": 15,
+      "to": 14
+    },
+    {
+      "from": 16,
+      "to": 14
+    },
+    {
+      "from": 17,
+      "to": 2
+    },
+    {
+      "from": 17,
+      "to": 7
+    },
+    {
+      "from": 18,
+      "to": 7
+    },
+    {
+      "from": 18,
+      "to": 14
+    },
+    {
+      "from": 19,
+      "to": 7
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 19
+    },
+    {
+      "from": 22,
+      "to": 14
+    },
+    {
+      "from": 23,
+      "to": 22
+    },
+    {
+      "from": 24,
+      "to": 14
+    },
+    {
+      "from": 24,
+      "to": 23
+    },
+    {
+      "from": 25,
+      "to": 24
+    },
+    {
+      "from": 26,
+      "to": 6
+    },
+    {
+      "from": 27,
+      "to": 26
+    },
+    {
+      "from": 28,
+      "to": 26
+    },
+    {
+      "from": 29,
+      "to": 28
+    },
+    {
+      "from": 30,
+      "to": 27
+    },
+    {
+      "from": 31,
+      "to": 30
+    },
+    {
+      "from": 32,
+      "to": 30
+    },
+    {
+      "from": 33,
+      "to": 30
+    },
+    {
+      "from": 34,
+      "to": 30
+    },
+    {
+      "from": 35,
+      "to": 30
+    },
+    {
+      "from": 36,
+      "to": 30
+    },
+    {
+      "from": 37,
+      "to": 26
+    },
+    {
+      "from": 38,
+      "to": 26
+    },
+    {
+      "from": 39,
+      "to": 37
+    },
+    {
+      "from": 40,
+      "to": 39
+    },
+    {
+      "from": 41,
+      "to": 7
+    },
+    {
+      "from": 41,
+      "to": 39
+    },
+    {
+      "from": 42,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 2
+    },
+    {
+      "from": 43,
+      "to": 26
+    },
+    {
+      "from": 44,
+      "to": 7
+    },
+    {
+      "from": 44,
+      "to": 26
+    },
+    {
+      "from": 45,
+      "to": 7
+    },
+    {
+      "from": 45,
+      "to": 26
+    },
+    {
+      "from": 46,
+      "to": 7
+    },
+    {
+      "from": 46,
+      "to": 28
+    },
+    {
+      "from": 47,
+      "to": 20
+    },
+    {
+      "from": 48,
+      "to": 7
+    },
+    {
+      "from": 48,
+      "to": 31
+    },
+    {
+      "from": 49,
+      "to": 31
+    },
+    {
+      "from": 50,
+      "to": 31
+    },
+    {
+      "from": 51,
+      "to": 5
+    },
+    {
+      "from": 51,
+      "to": 7
+    },
+    {
+      "from": 51,
+      "to": 13
+    },
+    {
+      "from": 52,
+      "to": 3
+    },
+    {
+      "from": 52,
+      "to": 4
+    },
+    {
+      "from": 52,
+      "to": 7
+    },
+    {
+      "from": 52,
+      "to": 13
+    },
+    {
+      "from": 53,
+      "to": 51
+    },
+    {
+      "from": 53,
+      "to": 52
+    },
+    {
+      "from": 54,
+      "to": 13
+    },
+    {
+      "from": 55,
+      "to": 54
+    },
+    {
+      "from": 56,
+      "to": 7
+    },
+    {
+      "from": 56,
+      "to": 54
+    },
+    {
+      "from": 57,
+      "to": 40
+    },
+    {
+      "from": 57,
+      "to": 41
+    },
+    {
+      "from": 58,
+      "to": 7
+    },
+    {
+      "from": 58,
+      "to": 30
+    },
+    {
+      "from": 59,
+      "to": 1
+    },
+    {
+      "from": 59,
+      "to": 5
+    },
+    {
+      "from": 60,
+      "to": 29
+    },
+    {
+      "from": 60,
+      "to": 59
+    },
+    {
+      "from": 61,
+      "to": 3
+    },
+    {
+      "from": 62,
+      "to": 3
+    },
+    {
+      "from": 63,
+      "to": 52
+    },
+    {
+      "from": 64,
+      "to": 4
+    },
+    {
+      "from": 65,
+      "to": 31
+    },
+    {
+      "from": 65,
+      "to": 49
+    },
+    {
+      "from": 66,
+      "to": 65
+    },
+    {
+      "from": 67,
+      "to": 33
+    },
+    {
+      "from": 68,
+      "to": 35
+    },
+    {
+      "from": 68,
+      "to": 42
+    },
+    {
+      "from": 69,
+      "to": 34
+    },
+    {
+      "from": 69,
+      "to": 68
+    },
+    {
+      "from": 70,
+      "to": 7
+    },
+    {
+      "from": 71,
+      "to": 61
+    },
+    {
+      "from": 72,
+      "to": 56
+    },
+    {
+      "from": 73,
+      "to": 22
+    },
+    {
+      "from": 73,
+      "to": 56
+    },
+    {
+      "from": 74,
+      "to": 73
+    },
+    {
+      "from": 75,
+      "to": 41
+    },
+    {
+      "from": 75,
+      "to": 42
+    },
+    {
+      "from": 76,
+      "to": 7
+    },
+    {
+      "from": 76,
+      "to": 45
+    },
+    {
+      "from": 77,
+      "to": 76
+    },
+    {
+      "from": 78,
+      "to": 77
+    },
+    {
+      "from": 79,
+      "to": 7
+    },
+    {
+      "from": 79,
+      "to": 71
+    },
+    {
+      "from": 80,
+      "to": 79
+    },
+    {
+      "from": 81,
+      "to": 79
+    },
+    {
+      "from": 82,
+      "to": 73
+    },
+    {
+      "from": 82,
+      "to": 76
+    },
+    {
+      "from": 83,
+      "to": 73
+    },
+    {
+      "from": 83,
+      "to": 79
+    },
+    {
+      "from": 84,
+      "to": 81
+    },
+    {
+      "from": 84,
+      "to": 83
+    },
+    {
+      "from": 85,
+      "to": 82
+    },
+    {
+      "from": 85,
+      "to": 83
+    },
+    {
+      "from": 86,
+      "to": 61
+    },
+    {
+      "from": 86,
+      "to": 82
+    },
+    {
+      "from": 87,
+      "to": 73
+    },
+    {
+      "from": 87,
+      "to": 83
+    },
+    {
+      "from": 88,
+      "to": 83
+    },
+    {
+      "from": 89,
+      "to": 88
+    },
+    {
+      "from": 90,
+      "to": 88
+    },
+    {
+      "from": 91,
+      "to": 88
+    },
+    {
+      "from": 92,
+      "to": 77
+    },
+    {
+      "from": 92,
+      "to": 78
+    },
+    {
+      "from": 93,
+      "to": 92
+    },
+    {
+      "from": 94,
+      "to": 78
+    },
+    {
+      "from": 94,
+      "to": 79
+    },
+    {
+      "from": 95,
+      "to": 79
+    },
+    {
+      "from": 96,
+      "to": 59
+    },
+    {
+      "from": 96,
+      "to": 77
+    },
+    {
+      "from": 97,
+      "to": 4
+    },
+    {
+      "from": 97,
+      "to": 95
+    },
+    {
+      "from": 98,
+      "to": 10
+    },
+    {
+      "from": 98,
+      "to": 22
+    },
+    {
+      "from": 99,
+      "to": 81
+    },
+    {
+      "from": 100,
+      "to": 99
+    },
+    {
+      "from": 101,
+      "to": 7
+    },
+    {
+      "from": 101,
+      "to": 54
+    },
+    {
+      "from": 102,
+      "to": 101
+    },
+    {
+      "from": 103,
+      "to": 101
+    },
+    {
+      "from": 104,
+      "to": 103
+    },
+    {
+      "from": 105,
+      "to": 101
+    },
+    {
+      "from": 106,
+      "to": 54
+    },
+    {
+      "from": 106,
+      "to": 101
+    },
+    {
+      "from": 107,
+      "to": 101
+    },
+    {
+      "from": 108,
+      "to": 107
+    },
+    {
+      "from": 109,
+      "to": 101
+    },
+    {
+      "from": 110,
+      "to": 54
+    },
+    {
+      "from": 111,
+      "to": 54
+    },
+    {
+      "from": 112,
+      "to": 101
+    },
+    {
+      "from": 113,
+      "to": 112
+    },
+    {
+      "from": 114,
+      "to": 112
+    },
+    {
+      "from": 115,
+      "to": 112
+    },
+    {
+      "from": 116,
+      "to": 112
+    },
+    {
+      "from": 117,
+      "to": 101
+    },
+    {
+      "from": 117,
+      "to": 116
+    },
+    {
+      "from": 118,
+      "to": 101
+    },
+    {
+      "from": 119,
+      "to": 109
+    },
+    {
+      "from": 120,
+      "to": 85
+    },
+    {
+      "from": 120,
+      "to": 109
+    },
+    {
+      "from": 121,
+      "to": 24
+    },
+    {
+      "from": 121,
+      "to": 109
+    },
+    {
+      "from": 122,
+      "to": 101
+    },
+    {
+      "from": 123,
+      "to": 101
+    },
+    {
+      "from": 124,
+      "to": 118
+    },
+    {
+      "from": 124,
+      "to": 119
+    },
+    {
+      "from": 125,
+      "to": 99
+    },
+    {
+      "from": 125,
+      "to": 118
+    },
+    {
+      "from": 126,
+      "to": 7
+    },
+    {
+      "from": 127,
+      "to": 126
+    },
+    {
+      "from": 128,
+      "to": 126
+    },
+    {
+      "from": 129,
+      "to": 126
+    },
+    {
+      "from": 130,
+      "to": 129
+    },
+    {
+      "from": 131,
+      "to": 126
+    },
+    {
+      "from": 132,
+      "to": 44
+    },
+    {
+      "from": 132,
+      "to": 126
+    },
+    {
+      "from": 133,
+      "to": 132
+    },
+    {
+      "from": 134,
+      "to": 4
+    },
+    {
+      "from": 134,
+      "to": 126
+    },
+    {
+      "from": 135,
+      "to": 4
+    },
+    {
+      "from": 135,
+      "to": 126
+    },
+    {
+      "from": 136,
+      "to": 109
+    },
+    {
+      "from": 136,
+      "to": 126
+    },
+    {
+      "from": 137,
+      "to": 76
+    },
+    {
+      "from": 137,
+      "to": 126
+    },
+    {
+      "from": 138,
+      "to": 126
+    },
+    {
+      "from": 139,
+      "to": 109
+    },
+    {
+      "from": 139,
+      "to": 126
+    },
+    {
+      "from": 140,
+      "to": 7
+    },
+    {
+      "from": 141,
+      "to": 87
+    },
+    {
+      "from": 141,
+      "to": 140
+    },
+    {
+      "from": 142,
+      "to": 101
+    },
+    {
+      "from": 142,
+      "to": 126
+    },
+    {
+      "from": 143,
+      "to": 142
+    },
+    {
+      "from": 144,
+      "to": 143
+    },
+    {
+      "from": 145,
+      "to": 126
+    },
+    {
+      "from": 145,
+      "to": 141
+    },
+    {
+      "from": 146,
+      "to": 125
+    },
+    {
+      "from": 147,
+      "to": 146
+    },
+    {
+      "from": 148,
+      "to": 147
+    },
+    {
+      "from": 149,
+      "to": 147
+    },
+    {
+      "from": 150,
+      "to": 146
+    },
+    {
+      "from": 151,
+      "to": 150
+    },
+    {
+      "from": 152,
+      "to": 150
+    },
+    {
+      "from": 153,
+      "to": 150
+    },
+    {
+      "from": 154,
+      "to": 37
+    },
+    {
+      "from": 154,
+      "to": 147
+    },
+    {
+      "from": 155,
+      "to": 37
+    },
+    {
+      "from": 155,
+      "to": 154
+    },
+    {
+      "from": 156,
+      "to": 154
+    },
+    {
+      "from": 157,
+      "to": 147
+    },
+    {
+      "from": 158,
+      "to": 146
+    },
+    {
+      "from": 159,
+      "to": 158
+    },
+    {
+      "from": 160,
+      "to": 146
+    },
+    {
+      "from": 161,
+      "to": 160
+    },
+    {
+      "from": 162,
+      "to": 160
+    },
+    {
+      "from": 163,
+      "to": 146
+    },
+    {
+      "from": 163,
+      "to": 160
+    },
+    {
+      "from": 164,
+      "to": 24
+    },
+    {
+      "from": 164,
+      "to": 147
+    },
+    {
+      "from": 165,
+      "to": 147
+    },
+    {
+      "from": 166,
+      "to": 165
+    },
+    {
+      "from": 167,
+      "to": 159
+    },
+    {
+      "from": 168,
+      "to": 126
+    },
+    {
+      "from": 168,
+      "to": 146
+    },
+    {
+      "from": 169,
+      "to": 116
+    },
+    {
+      "from": 169,
+      "to": 146
+    },
+    {
+      "from": 170,
+      "to": 125
+    },
+    {
+      "from": 170,
+      "to": 146
+    },
+    {
+      "from": 170,
+      "to": 160
+    },
+    {
+      "from": 171,
+      "to": 125
+    },
+    {
+      "from": 171,
+      "to": 146
+    },
+    {
+      "from": 172,
+      "to": 171
+    },
+    {
+      "from": 173,
+      "to": 172
+    },
+    {
+      "from": 174,
+      "to": 171
+    },
+    {
+      "from": 175,
+      "to": 76
+    },
+    {
+      "from": 175,
+      "to": 172
+    },
+    {
+      "from": 176,
+      "to": 171
+    },
+    {
+      "from": 177,
+      "to": 37
+    },
+    {
+      "from": 177,
+      "to": 171
+    },
+    {
+      "from": 178,
+      "to": 44
+    },
+    {
+      "from": 178,
+      "to": 132
+    },
+    {
+      "from": 179,
+      "to": 171
+    },
+    {
+      "from": 180,
+      "to": 25
+    },
+    {
+      "from": 180,
+      "to": 179
+    },
+    {
+      "from": 181,
+      "to": 171
+    },
+    {
+      "from": 182,
+      "to": 25
+    },
+    {
+      "from": 182,
+      "to": 171
+    },
+    {
+      "from": 183,
+      "to": 171
+    },
+    {
+      "from": 184,
+      "to": 171
+    },
+    {
+      "from": 185,
+      "to": 184
+    },
+    {
+      "from": 186,
+      "to": 25
+    },
+    {
+      "from": 186,
+      "to": 171
+    },
+    {
+      "from": 187,
+      "to": 179
+    },
+    {
+      "from": 187,
+      "to": 186
+    },
+    {
+      "from": 188,
+      "to": 186
+    },
+    {
+      "from": 189,
+      "to": 171
+    },
+    {
+      "from": 190,
+      "to": 116
+    },
+    {
+      "from": 190,
+      "to": 171
+    },
+    {
+      "from": 191,
+      "to": 31
+    },
+    {
+      "from": 191,
+      "to": 65
+    },
+    {
+      "from": 192,
+      "to": 191
+    },
+    {
+      "from": 193,
+      "to": 192
+    },
+    {
+      "from": 194,
+      "to": 34
+    },
+    {
+      "from": 194,
+      "to": 68
+    },
+    {
+      "from": 195,
+      "to": 194
+    },
+    {
+      "from": 196,
+      "to": 58
+    },
+    {
+      "from": 197,
+      "to": 58
+    },
+    {
+      "from": 197,
+      "to": 191
+    },
+    {
+      "from": 198,
+      "to": 197
+    },
+    {
+      "from": 199,
+      "to": 35
+    },
+    {
+      "from": 199,
+      "to": 41
+    },
+    {
+      "from": 200,
+      "to": 199
+    },
+    {
+      "from": 201,
+      "to": 30
+    },
+    {
+      "from": 201,
+      "to": 35
+    },
+    {
+      "from": 202,
+      "to": 201
+    },
+    {
+      "from": 203,
+      "to": 201
+    },
+    {
+      "from": 204,
+      "to": 178
+    },
+    {
+      "from": 204,
+      "to": 201
+    },
+    {
+      "from": 205,
+      "to": 59
+    },
+    {
+      "from": 205,
+      "to": 191
+    },
+    {
+      "from": 206,
+      "to": 205
+    },
+    {
+      "from": 207,
+      "to": 66
+    },
+    {
+      "from": 207,
+      "to": 205
+    },
+    {
+      "from": 208,
+      "to": 66
+    },
+    {
+      "from": 208,
+      "to": 207
+    },
+    {
+      "from": 209,
+      "to": 191
+    },
+    {
+      "from": 210,
+      "to": 193
+    },
+    {
+      "from": 210,
+      "to": 209
+    },
+    {
+      "from": 211,
+      "to": 191
+    },
+    {
+      "from": 212,
+      "to": 59
+    },
+    {
+      "from": 212,
+      "to": 205
+    },
+    {
+      "from": 213,
+      "to": 212
+    },
+    {
+      "from": 214,
+      "to": 192
+    },
+    {
+      "from": 214,
+      "to": 213
+    },
+    {
+      "from": 215,
+      "to": 34
+    },
+    {
+      "from": 215,
+      "to": 193
+    },
+    {
+      "from": 216,
+      "to": 68
+    },
+    {
+      "from": 216,
+      "to": 196
+    },
+    {
+      "from": 217,
+      "to": 35
+    },
+    {
+      "from": 217,
+      "to": 201
+    },
+    {
+      "from": 218,
+      "to": 35
+    },
+    {
+      "from": 218,
+      "to": 217
+    },
+    {
+      "from": 219,
+      "to": 39
+    },
+    {
+      "from": 219,
+      "to": 41
+    },
+    {
+      "from": 220,
+      "to": 72
+    },
+    {
+      "from": 220,
+      "to": 201
+    },
+    {
+      "from": 221,
+      "to": 7
+    },
+    {
+      "from": 221,
+      "to": 30
+    },
+    {
+      "from": 222,
+      "to": 4
+    },
+    {
+      "from": 222,
+      "to": 221
+    },
+    {
+      "from": 223,
+      "to": 221
+    },
+    {
+      "from": 224,
+      "to": 22
+    },
+    {
+      "from": 224,
+      "to": 221
+    },
+    {
+      "from": 225,
+      "to": 224
+    },
+    {
+      "from": 226,
+      "to": 87
+    },
+    {
+      "from": 226,
+      "to": 225
+    },
+    {
+      "from": 227,
+      "to": 225
+    },
+    {
+      "from": 228,
+      "to": 76
+    },
+    {
+      "from": 228,
+      "to": 224
+    },
+    {
+      "from": 229,
+      "to": 224
+    },
+    {
+      "from": 230,
+      "to": 100
+    },
+    {
+      "from": 230,
+      "to": 224
+    },
+    {
+      "from": 231,
+      "to": 100
+    },
+    {
+      "from": 231,
+      "to": 125
+    },
+    {
+      "from": 232,
+      "to": 231
+    },
+    {
+      "from": 233,
+      "to": 231
+    },
+    {
+      "from": 234,
+      "to": 176
+    },
+    {
+      "from": 234,
+      "to": 233
+    },
+    {
+      "from": 235,
+      "to": 184
+    },
+    {
+      "from": 235,
+      "to": 231
+    },
+    {
+      "from": 236,
+      "to": 24
+    },
+    {
+      "from": 236,
+      "to": 235
+    },
+    {
+      "from": 237,
+      "to": 7
+    },
+    {
+      "from": 237,
+      "to": 18
+    },
+    {
+      "from": 238,
+      "to": 237
+    },
+    {
+      "from": 239,
+      "to": 237
+    },
+    {
+      "from": 240,
+      "to": 229
+    },
+    {
+      "from": 240,
+      "to": 237
+    },
+    {
+      "from": 241,
+      "to": 181
+    },
+    {
+      "from": 241,
+      "to": 221
+    },
+    {
+      "from": 242,
+      "to": 222
+    },
+    {
+      "from": 242,
+      "to": 241
+    },
+    {
+      "from": 243,
+      "to": 173
+    },
+    {
+      "from": 243,
+      "to": 241
+    },
+    {
+      "from": 244,
+      "to": 191
+    },
+    {
+      "from": 244,
+      "to": 241
+    },
+    {
+      "from": 245,
+      "to": 220
+    },
+    {
+      "from": 245,
+      "to": 234
+    },
+    {
+      "from": 245,
+      "to": 241
+    },
+    {
+      "from": 246,
+      "to": 50
+    },
+    {
+      "from": 246,
+      "to": 191
+    },
+    {
+      "from": 247,
+      "to": 246
+    },
+    {
+      "from": 248,
+      "to": 246
+    },
+    {
+      "from": 249,
+      "to": 192
+    },
+    {
+      "from": 249,
+      "to": 246
+    },
+    {
+      "from": 250,
+      "to": 59
+    },
+    {
+      "from": 250,
+      "to": 246
+    },
+    {
+      "from": 251,
+      "to": 34
+    },
+    {
+      "from": 251,
+      "to": 246
+    },
+    {
+      "from": 252,
+      "to": 246
+    },
+    {
+      "from": 253,
+      "to": 216
+    },
+    {
+      "from": 253,
+      "to": 246
+    },
+    {
+      "from": 254,
+      "to": 76
+    },
+    {
+      "from": 254,
+      "to": 92
+    },
+    {
+      "from": 255,
+      "to": 254
+    },
+    {
+      "from": 256,
+      "to": 254
+    },
+    {
+      "from": 257,
+      "to": 233
+    },
+    {
+      "from": 257,
+      "to": 254
+    },
+    {
+      "from": 258,
+      "to": 93
+    },
+    {
+      "from": 258,
+      "to": 257
+    },
+    {
+      "from": 259,
+      "to": 258
+    },
+    {
+      "from": 260,
+      "to": 78
+    },
+    {
+      "from": 260,
+      "to": 237
+    },
+    {
+      "from": 261,
+      "to": 78
+    },
+    {
+      "from": 261,
+      "to": 259
+    },
+    {
+      "from": 262,
+      "to": 94
+    },
+    {
+      "from": 262,
+      "to": 237
+    },
+    {
+      "from": 263,
+      "to": 262
+    },
+    {
+      "from": 264,
+      "to": 94
+    },
+    {
+      "from": 265,
+      "to": 257
+    },
+    {
+      "from": 265,
+      "to": 264
+    },
+    {
+      "from": 266,
+      "to": 233
+    },
+    {
+      "from": 266,
+      "to": 265
+    },
+    {
+      "from": 267,
+      "to": 49
+    },
+    {
+      "from": 267,
+      "to": 59
+    },
+    {
+      "from": 268,
+      "to": 57
+    },
+    {
+      "from": 268,
+      "to": 212
+    },
+    {
+      "from": 269,
+      "to": 94
+    },
+    {
+      "from": 269,
+      "to": 216
+    },
+    {
+      "from": 270,
+      "to": 200
+    },
+    {
+      "from": 270,
+      "to": 266
+    },
+    {
+      "from": 271,
+      "to": 94
+    },
+    {
+      "from": 271,
+      "to": 205
+    },
+    {
+      "from": 272,
+      "to": 237
+    },
+    {
+      "from": 272,
+      "to": 262
+    },
+    {
+      "from": 273,
+      "to": 94
+    },
+    {
+      "from": 273,
+      "to": 262
+    },
+    {
+      "from": 274,
+      "to": 223
+    },
+    {
+      "from": 274,
+      "to": 270
+    },
+    {
+      "from": 275,
+      "to": 141
+    },
+    {
+      "from": 275,
+      "to": 262
+    },
+    {
+      "from": 276,
+      "to": 7
+    },
+    {
+      "from": 277,
+      "to": 276
+    },
+    {
+      "from": 278,
+      "to": 79
+    },
+    {
+      "from": 278,
+      "to": 277
+    },
+    {
+      "from": 279,
+      "to": 278
+    },
+    {
+      "from": 280,
+      "to": 277
+    },
+    {
+      "from": 281,
+      "to": 191
+    },
+    {
+      "from": 281,
+      "to": 280
+    },
+    {
+      "from": 282,
+      "to": 65
+    },
+    {
+      "from": 282,
+      "to": 280
+    },
+    {
+      "from": 283,
+      "to": 76
+    },
+    {
+      "from": 283,
+      "to": 280
+    },
+    {
+      "from": 284,
+      "to": 242
+    },
+    {
+      "from": 284,
+      "to": 280
+    },
+    {
+      "from": 285,
+      "to": 280
+    },
+    {
+      "from": 286,
+      "to": 209
+    },
+    {
+      "from": 286,
+      "to": 280
+    },
+    {
+      "from": 287,
+      "to": 79
+    },
+    {
+      "from": 287,
+      "to": 221
+    },
+    {
+      "from": 288,
+      "to": 232
+    },
+    {
+      "from": 288,
+      "to": 287
+    },
+    {
+      "from": 289,
+      "to": 280
+    },
+    {
+      "from": 289,
+      "to": 287
+    },
+    {
+      "from": 290,
+      "to": 277
+    },
+    {
+      "from": 290,
+      "to": 289
+    },
+    {
+      "from": 291,
+      "to": 289
+    },
+    {
+      "from": 292,
+      "to": 282
+    },
+    {
+      "from": 292,
+      "to": 289
+    },
+    {
+      "from": 293,
+      "to": 172
+    },
+    {
+      "from": 293,
+      "to": 289
+    },
+    {
+      "from": 294,
+      "to": 277
+    },
+    {
+      "from": 295,
+      "to": 294
+    },
+    {
+      "from": 296,
+      "to": 294
+    },
+    {
+      "from": 297,
+      "to": 296
+    },
+    {
+      "from": 298,
+      "to": 184
+    },
+    {
+      "from": 298,
+      "to": 294
+    },
+    {
+      "from": 299,
+      "to": 176
+    },
+    {
+      "from": 299,
+      "to": 276
+    },
+    {
+      "from": 300,
+      "to": 285
+    },
+    {
+      "from": 300,
+      "to": 297
+    },
+    {
+      "from": 300,
+      "to": 299
+    }
+  ]
+}

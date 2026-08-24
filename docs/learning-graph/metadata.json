@@ -1,0 +1,10 @@
+{
+  "title": "Understanding ADHD: A Guidebook for People with ADHD and the People Who Care for Them",
+  "description": "A comprehensive, evidence-based intelligent textbook on ADHD written for two readers at once: the person with ADHD and their caregivers — parents, partners, siblings, and friends. Covers the science, diagnosis, treatment, daily skills, emotional life, school and work, and family dynamics of ADHD, with emphasis on late diagnosis and ADHD in women.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}
