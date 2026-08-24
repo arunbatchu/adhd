@@ -38,8 +38,21 @@ nav:
 
   - Chapters:
       - List of Chapters: chapters/index.md
-      # Add chapter entries here as content is generated, e.g.:
-      # - 1. Introduction: chapters/01-introduction/index.md
+      - 1. What ADHD Is And Is Not: chapters/01-what-adhd-is/index.md
+      - 2. The ADHD Brain: chapters/02-the-adhd-brain/index.md
+      - 3. Presentations And Everyday Traits: chapters/03-presentations-and-traits/index.md
+      - 4. ADHD Across The Lifespan: chapters/04-adhd-across-the-lifespan/index.md
+      - 5. Getting A Diagnosis: chapters/05-getting-a-diagnosis/index.md
+      - 6. Co-occurring Conditions: chapters/06-co-occurring-conditions/index.md
+      - 7. Medication: chapters/07-medication/index.md
+      - 8. Treatment Beyond Medication: chapters/08-treatment-beyond-medication/index.md
+      - 9. Building Daily Systems: chapters/09-building-daily-systems/index.md
+      - 10. Tools And Keeping Systems Alive: chapters/10-tools-and-system-upkeep/index.md
+      - 11. Emotional Life And Identity: chapters/11-emotional-life-and-identity/index.md
+      - 12. School And College: chapters/12-school-and-college/index.md
+      - 13. Work And Career: chapters/13-work-and-career/index.md
+      - 14. Family Life And Communication: chapters/14-family-life/index.md
+      - 15. Partners And Caring For The Caregiver: chapters/15-partners-and-caregivers/index.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
