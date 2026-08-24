@@ -23,3 +23,4 @@ Budget sum: ~5,050-8,050 words.
 - Concepts covered: 25/25
 - TODO removed: yes
 - mkdocs build --strict: pass
+Amended: added worked examples for Distractibility (Omar) and Forgetfulness (Rosa); final word count above.
