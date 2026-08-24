@@ -1,0 +1,301 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,Attention,,FOUND
+2,Attention Regulation,1,FOUND
+3,Hyperactivity,,FOUND
+4,Impulsivity,,FOUND
+5,Inattention,1,FOUND
+6,Neurodevelopmental Disorder,,FOUND
+7,ADHD,2|3|4|5|6,FOUND
+8,Neurodiversity,6,FOUND
+9,Neurotypical Brain,8,FOUND
+10,ADHD Prevalence,7,FOUND
+11,History Of ADHD,7,FOUND
+12,ADD Vs ADHD Terminology,7|11,FOUND
+13,DSM-5 Definition Of ADHD,7,FOUND
+14,ADHD Myths,7,FOUND
+15,Laziness Myth,14,FOUND
+16,Willpower Myth,14,FOUND
+17,ADHD As Regulation Difference,2|7,FOUND
+18,ADHD And Intelligence,7|14,FOUND
+19,Causes Of ADHD,7,FOUND
+20,Genetics Of ADHD,19,FOUND
+21,Environmental Risk Factors,19,FOUND
+22,ADHD Stigma,14,FOUND
+23,Media Portrayals Of ADHD,22,FOUND
+24,ADHD Misinformation,14|23,FOUND
+25,Evidence-Based Information,24,FOUND
+26,Brain Development,6,BRAIN
+27,Prefrontal Cortex,26,BRAIN
+28,Brain Networks,26,BRAIN
+29,Default Mode Network,28,BRAIN
+30,Executive Function,27,BRAIN
+31,Working Memory,30,BRAIN
+32,Response Inhibition,30,BRAIN
+33,Cognitive Flexibility,30,BRAIN
+34,Planning And Prioritizing,30,BRAIN
+35,Task Initiation,30,BRAIN
+36,Self-Monitoring,30,BRAIN
+37,Dopamine,26,BRAIN
+38,Norepinephrine,26,BRAIN
+39,Reward System,37,BRAIN
+40,Interest-Based Nervous System,39,BRAIN
+41,Motivation And ADHD,7|39,BRAIN
+42,Delay Aversion,41,BRAIN
+43,Arousal Regulation,2|26,BRAIN
+44,Sleep And The ADHD Brain,7|26,BRAIN
+45,ADHD Brain Maturation Lag,7|26,BRAIN
+46,Neuroimaging Findings,7|28,BRAIN
+47,Heritability Research,20,BRAIN
+48,ADHD And Memory,7|31,BRAIN
+49,Prospective Memory,31,BRAIN
+50,Cognitive Load,31,BRAIN
+51,Inattentive Presentation,5|7|13,PRES
+52,Hyperactive-Impulsive Type,3|4|7|13,PRES
+53,Combined Presentation,51|52,PRES
+54,Symptom Criteria,13,PRES
+55,Symptom Thresholds,54,PRES
+56,Situational Variability,7|54,PRES
+57,Hyperfocus,40|41,PRES
+58,Time Blindness,7|30,PRES
+59,Distractibility,1|5,PRES
+60,Mind Wandering,29|59,PRES
+61,Internal Restlessness,3,PRES
+62,Fidgeting,3,PRES
+63,Excessive Talking,52,PRES
+64,Interrupting,4,PRES
+65,Forgetfulness,31|49,PRES
+66,Losing Things,65,PRES
+67,Task Switching Difficulty,33,PRES
+68,Procrastination,35|42,PRES
+69,Decision Paralysis,34|68,PRES
+70,Sensory Sensitivity,7,PRES
+71,Restlessness In Adults,61,PRES
+72,Performance Inconsistency,56,PRES
+73,Masking,22|56,PRES
+74,Compensation Strategies,73,PRES
+75,Boredom Intolerance,41|42,PRES
+76,ADHD In Childhood,7|45,LIFE
+77,ADHD In Adolescence,76,LIFE
+78,ADHD In College Years,77,LIFE
+79,ADHD In Adulthood,7|71,LIFE
+80,ADHD In Older Adults,79,LIFE
+81,Late Diagnosis,79,LIFE
+82,ADHD In Girls,73|76,LIFE
+83,ADHD In Women,73|79,LIFE
+84,Late Diagnosis In Women,81|83,LIFE
+85,Gender Diagnosis Gap,82|83,LIFE
+86,Internalized Symptoms,61|82,LIFE
+87,High Achievement Masking,73|83,LIFE
+88,Hormones And ADHD,83,LIFE
+89,Menstrual Cycle Effects,88,LIFE
+90,Pregnancy And ADHD,88,LIFE
+91,Menopause And ADHD,88,LIFE
+92,Academic Transitions,77|78,LIFE
+93,Transition To College,92,LIFE
+94,Transition To Work,78|79,LIFE
+95,Independent Living Skills,79,LIFE
+96,Driving And ADHD,59|77,LIFE
+97,Money Management With ADHD,4|95,LIFE
+98,ADHD Across Cultures,10|22,LIFE
+99,Adult Diagnosis Journey,81,LIFE
+100,Reframing Your Past,99,LIFE
+101,Diagnostic Evaluation,7|54,DIAG
+102,Clinical Interview,101,DIAG
+103,ADHD Rating Scales,101,DIAG
+104,Self-Report Questionnaires,103,DIAG
+105,Collateral Information,101,DIAG
+106,Childhood History Requirement,54|101,DIAG
+107,Neuropsychological Testing,101,DIAG
+108,Continuous Performance Tests,107,DIAG
+109,Differential Diagnosis,101,DIAG
+110,Age Of Onset Criterion,54,DIAG
+111,Impairment Criterion,54,DIAG
+112,Who Can Diagnose ADHD,101,DIAG
+113,Psychiatrists,112,DIAG
+114,Psychologists,112,DIAG
+115,Primary Care Providers,112,DIAG
+116,Finding A Clinician,112,DIAG
+117,Preparing For An Evaluation,101|116,DIAG
+118,Evaluation Report,101,DIAG
+119,Misdiagnosis,109,DIAG
+120,Underdiagnosis,85|109,DIAG
+121,Overdiagnosis Debate,24|109,DIAG
+122,Telehealth Evaluations,101,DIAG
+123,Cost And Insurance,101,DIAG
+124,Second Opinions,118|119,DIAG
+125,What A Diagnosis Means,99|118,DIAG
+126,Comorbidity,7,COMO
+127,Anxiety Disorders,126,COMO
+128,Depression,126,COMO
+129,Learning Disabilities,126,COMO
+130,Dyslexia,129,COMO
+131,Autism And ADHD,126,COMO
+132,Sleep Disorders,44|126,COMO
+133,Delayed Sleep Phase Syndrome,132,COMO
+134,Substance Use Risk,4|126,COMO
+135,Disordered Eating,4|126,COMO
+136,Bipolar Disorder Distinction,109|126,COMO
+137,Oppositional Defiant Disorder,76|126,COMO
+138,Tic Disorders,126,COMO
+139,Trauma And ADHD,109|126,COMO
+140,Chronic Stress Effects,7,COMO
+141,ADHD Burnout,87|140,COMO
+142,Screening For Comorbidities,101|126,COMO
+143,Treatment Order Decisions,142,COMO
+144,Integrated Treatment Planning,143,COMO
+145,When To Seek Help,126|141,COMO
+146,Medication Overview,125,MED
+147,Stimulant Medications,146,MED
+148,Methylphenidate,147,MED
+149,Amphetamine Medications,147,MED
+150,Non-Stimulant Medications,146,MED
+151,Atomoxetine,150,MED
+152,Guanfacine,150,MED
+153,Off-Label Options,150,MED
+154,How Stimulants Work,37|147,MED
+155,Dopamine Reuptake,37|154,MED
+156,Medication Onset And Duration,154,MED
+157,Immediate Vs Extended Release,147,MED
+158,Titration,146,MED
+159,Finding The Right Dose,158,MED
+160,Side Effects,146,MED
+161,Appetite And Sleep Effects,160,MED
+162,Cardiovascular Considerations,160,MED
+163,Medication Holidays,146|160,MED
+164,Stimulant Misconceptions,24|147,MED
+165,Controlled Substance Rules,147,MED
+166,Medication Shortages,165,MED
+167,Tracking Medication Response,159,MED
+168,Medication And Comorbidities,126|146,MED
+169,Talking To Your Prescriber,116|146,MED
+170,Deciding About Medication,125|146|160,MED
+171,Multimodal Treatment,125|146,TREAT
+172,Behavioral Therapy,171,TREAT
+173,Cognitive Behavioral Therapy,172,TREAT
+174,ADHD Coaching,171,TREAT
+175,Behavioral Parent Training,76|172,TREAT
+176,Psychoeducation,171,TREAT
+177,Exercise As Treatment,37|171,TREAT
+178,Sleep Hygiene,44|132,TREAT
+179,Nutrition And ADHD,171,TREAT
+180,Omega-3 Evidence,25|179,TREAT
+181,Mindfulness And Meditation,171,TREAT
+182,Neurofeedback Evidence,25|171,TREAT
+183,Digital Therapeutics,171,TREAT
+184,Support Groups,171,TREAT
+185,Peer Support,184,TREAT
+186,Evaluating Treatment Claims,25|171,TREAT
+187,Supplement Claims,179|186,TREAT
+188,Treatment Evidence Hierarchy,186,TREAT
+189,Measuring Treatment Progress,171,TREAT
+190,Building A Care Team,116|171,TREAT
+191,Externalizing Memory,31|65,SKILL
+192,Capture Systems,191,SKILL
+193,To-Do Lists That Work,192,SKILL
+194,Task Breakdown,34|68,SKILL
+195,Defining Next Actions,194,SKILL
+196,Time Estimation,58,SKILL
+197,Timers And Alarms,58|191,SKILL
+198,Pomodoro Technique,197,SKILL
+199,Body Doubling,35|41,SKILL
+200,Accountability Partners,199,SKILL
+201,Routines And Habits,30|35,SKILL
+202,Habit Stacking,201,SKILL
+203,Morning Routines,201,SKILL
+204,Evening Routines,178|201,SKILL
+205,Environment Design,59|191,SKILL
+206,Visual Reminders,205,SKILL
+207,Decluttering For ADHD,66|205,SKILL
+208,Designated Places,66|207,SKILL
+209,Digital Calendars,191,SKILL
+210,Planner Systems,193|209,SKILL
+211,Reminder Apps,191,SKILL
+212,Distraction Blockers,59|205,SKILL
+213,Notification Management,212,SKILL
+214,Email And Message Triage,192|213,SKILL
+215,Prioritization Methods,34|193,SKILL
+216,Deadline Scaffolding,68|196,SKILL
+217,Starting Rituals,35|201,SKILL
+218,Momentum And Activation,35|217,SKILL
+219,Reward Systems,39|41,SKILL
+220,System Maintenance,72|201,SKILL
+221,Emotional Dysregulation,7|30,EMO
+222,Emotional Impulsivity,4|221,EMO
+223,Rejection Sensitive Dysphoria,221,EMO
+224,Shame And ADHD,22|221,EMO
+225,Self-Esteem And ADHD,224,EMO
+226,Imposter Feelings,87|225,EMO
+227,Perfectionism,225,EMO
+228,Years Of Negative Feedback,76|224,EMO
+229,Self-Compassion,224,EMO
+230,Grief After Late Diagnosis,100|224,EMO
+231,Identity After Diagnosis,100|125,EMO
+232,Disclosure To Friends,231,EMO
+233,Self-Advocacy,231,EMO
+234,Explaining Your ADHD,176|233,EMO
+235,ADHD Community,184|231,EMO
+236,Online ADHD Culture,24|235,EMO
+237,ADHD Strengths,7|18,EMO
+238,Creativity And ADHD,237,EMO
+239,Energy And Enthusiasm,237,EMO
+240,Resilience,229|237,EMO
+241,Emotion Regulation Skills,181|221,EMO
+242,Pausing Before Reacting,222|241,EMO
+243,Cognitive Reframing,173|241,EMO
+244,Journaling,191|241,EMO
+245,Personal Owner's Manual,220|234|241,EMO
+246,Study Strategies,50|191,EDU
+247,Active Recall,246,EDU
+248,Spaced Repetition,246,EDU
+249,Note-Taking Systems,192|246,EDU
+250,Reading With ADHD,59|246,EDU
+251,Writing With ADHD,34|246,EDU
+252,Test-Taking Strategies,246,EDU
+253,Homework Systems,216|246,EDU
+254,School Accommodations,76|92,EDU
+255,IEP,254,EDU
+256,504 Plan,254,EDU
+257,Requesting Accommodations,233|254,EDU
+258,College Disability Services,93|257,EDU
+259,College Accommodations,258,EDU
+260,Choosing A Major,78|237,EDU
+261,Grad School With ADHD,78|259,EDU
+262,Career Fit,94|237,EDU
+263,ADHD-Friendly Jobs,262,EDU
+264,ADA Basics,94,EDU
+265,Workplace Accommodations,257|264,EDU
+266,Workplace Disclosure,233|265,EDU
+267,Managing Meetings,49|59,EDU
+268,Focus Blocks At Work,57|212,EDU
+269,Deadlines At Work,94|216,EDU
+270,Working With A Manager,200|266,EDU
+271,Remote Work And ADHD,94|205,EDU
+272,Entrepreneurship And ADHD,237|262,EDU
+273,Job Search With ADHD,94|262,EDU
+274,Handling Feedback At Work,223|270,EDU
+275,Burnout Prevention At Work,141|262,EDU
+276,Family System Impact,7,REL
+277,Caregiver Role,276,REL
+278,Supporting Without Parenting,79|277,REL
+279,Adult Child Autonomy,278,REL
+280,Communication Foundations,277,REL
+281,Reminders Without Nagging,191|280,REL
+282,Dividing Household Labor,65|280,REL
+283,Parent-Child Conflict Cycles,76|280,REL
+284,Repair After Conflict,242|280,REL
+285,Family Meetings,280,REL
+286,Shared Family Calendars,209|280,REL
+287,ADHD And Dating,79|221,REL
+288,Telling A New Partner,232|287,REL
+289,Partner Communication,280|287,REL
+290,Partner-Parent Trap,277|289,REL
+291,Intimacy And ADHD,289,REL
+292,Dividing Mental Load,282|289,REL
+293,Couples Counseling,172|289,REL
+294,Caregiver Strain,277,REL
+295,Caregiver Burnout,294,REL
+296,Caregiver Self-Care,294,REL
+297,Respite And Boundaries,296,REL
+298,Support For Caregivers,184|294,REL
+299,Family Psychoeducation,176|276,REL
+300,Family Support Plan,285|297|299,REL
