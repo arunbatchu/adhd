@@ -139,3 +139,5 @@ For the parent on the sidelines:
 - Homework wars are usually system gaps — capture, launchpad, submission ritual — not effort gaps. Build the missing link together before concluding anything about character.
 
 Chapter 13 runs the same playbook on the decades after school: choosing work that fits, workplace accommodations, and the disclosure decision that college never made you practice.
+
+[See Annotated References](references.md)

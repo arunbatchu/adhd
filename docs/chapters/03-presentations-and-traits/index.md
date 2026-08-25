@@ -247,3 +247,5 @@ For the reader who loves someone with ADHD:
 - The traits you find most maddening — lateness, interrupting, the untouched project — are the ones with the most mechanical fixes coming in Part Three. Hold on.
 
 Next, Chapter 4 follows all of this across a life: what ADHD looks like at six, sixteen, and forty-six, why girls and women slip through every net, and what happens when diagnosis finally arrives decades late.
+
+[See Annotated References](references.md)

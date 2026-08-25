@@ -182,3 +182,5 @@ For the reader who loves someone with ADHD:
 - Zombie flatness means wrong dose, not "what medication does." Report it; don't quietly conclude.
 
 Medication, at its best, buys hours of workable regulation. Chapter 8 is about everything else that treats ADHD — therapy, coaching, exercise, sleep repair — and Chapters 9-10 spend those bought hours building the systems that pills can't.
+
+[See Annotated References](references.md)

@@ -170,3 +170,5 @@ For the reader who loves someone with ADHD:
 - Guard the family's resources: the marketplace targets your hope. Testimonials are not data, "natural" is not evidence, and the coordinator role — probably yours — includes saying no to the $4,800 reset.
 
 Part Two of the book is now complete: what ADHD is, how it works, and every evidence-backed way to treat it. Part Three gets tactical — Chapter 9 starts building the daily systems that make an ADHD life run.
+
+[See Annotated References](references.md)

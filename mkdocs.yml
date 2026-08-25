@@ -38,21 +38,66 @@ nav:
 
   - Chapters:
       - List of Chapters: chapters/index.md
-      - 1. What ADHD Is And Is Not: chapters/01-what-adhd-is/index.md
-      - 2. The ADHD Brain: chapters/02-the-adhd-brain/index.md
-      - 3. Presentations And Everyday Traits: chapters/03-presentations-and-traits/index.md
-      - 4. ADHD Across The Lifespan: chapters/04-adhd-across-the-lifespan/index.md
-      - 5. Getting A Diagnosis: chapters/05-getting-a-diagnosis/index.md
-      - 6. Co-occurring Conditions: chapters/06-co-occurring-conditions/index.md
-      - 7. Medication: chapters/07-medication/index.md
-      - 8. Treatment Beyond Medication: chapters/08-treatment-beyond-medication/index.md
-      - 9. Building Daily Systems: chapters/09-building-daily-systems/index.md
-      - 10. Tools And Keeping Systems Alive: chapters/10-tools-and-system-upkeep/index.md
-      - 11. Emotional Life And Identity: chapters/11-emotional-life-and-identity/index.md
-      - 12. School And College: chapters/12-school-and-college/index.md
-      - 13. Work And Career: chapters/13-work-and-career/index.md
-      - 14. Family Life And Communication: chapters/14-family-life/index.md
-      - 15. Partners And Caring For The Caregiver: chapters/15-partners-and-caregivers/index.md
+      - 1. What ADHD Is And Is Not:
+          - Content: chapters/01-what-adhd-is/index.md
+          - Quiz: chapters/01-what-adhd-is/quiz.md
+          - Annotated References: chapters/01-what-adhd-is/references.md
+      - 2. The ADHD Brain:
+          - Content: chapters/02-the-adhd-brain/index.md
+          - Quiz: chapters/02-the-adhd-brain/quiz.md
+          - Annotated References: chapters/02-the-adhd-brain/references.md
+      - 3. Presentations And Everyday Traits:
+          - Content: chapters/03-presentations-and-traits/index.md
+          - Quiz: chapters/03-presentations-and-traits/quiz.md
+          - Annotated References: chapters/03-presentations-and-traits/references.md
+      - 4. ADHD Across The Lifespan:
+          - Content: chapters/04-adhd-across-the-lifespan/index.md
+          - Quiz: chapters/04-adhd-across-the-lifespan/quiz.md
+          - Annotated References: chapters/04-adhd-across-the-lifespan/references.md
+      - 5. Getting A Diagnosis:
+          - Content: chapters/05-getting-a-diagnosis/index.md
+          - Quiz: chapters/05-getting-a-diagnosis/quiz.md
+          - Annotated References: chapters/05-getting-a-diagnosis/references.md
+      - 6. Co-occurring Conditions:
+          - Content: chapters/06-co-occurring-conditions/index.md
+          - Quiz: chapters/06-co-occurring-conditions/quiz.md
+          - Annotated References: chapters/06-co-occurring-conditions/references.md
+      - 7. Medication:
+          - Content: chapters/07-medication/index.md
+          - Quiz: chapters/07-medication/quiz.md
+          - Annotated References: chapters/07-medication/references.md
+      - 8. Treatment Beyond Medication:
+          - Content: chapters/08-treatment-beyond-medication/index.md
+          - Quiz: chapters/08-treatment-beyond-medication/quiz.md
+          - Annotated References: chapters/08-treatment-beyond-medication/references.md
+      - 9. Building Daily Systems:
+          - Content: chapters/09-building-daily-systems/index.md
+          - Quiz: chapters/09-building-daily-systems/quiz.md
+          - Annotated References: chapters/09-building-daily-systems/references.md
+      - 10. Tools And Keeping Systems Alive:
+          - Content: chapters/10-tools-and-system-upkeep/index.md
+          - Quiz: chapters/10-tools-and-system-upkeep/quiz.md
+          - Annotated References: chapters/10-tools-and-system-upkeep/references.md
+      - 11. Emotional Life And Identity:
+          - Content: chapters/11-emotional-life-and-identity/index.md
+          - Quiz: chapters/11-emotional-life-and-identity/quiz.md
+          - Annotated References: chapters/11-emotional-life-and-identity/references.md
+      - 12. School And College:
+          - Content: chapters/12-school-and-college/index.md
+          - Quiz: chapters/12-school-and-college/quiz.md
+          - Annotated References: chapters/12-school-and-college/references.md
+      - 13. Work And Career:
+          - Content: chapters/13-work-and-career/index.md
+          - Quiz: chapters/13-work-and-career/quiz.md
+          - Annotated References: chapters/13-work-and-career/references.md
+      - 14. Family Life And Communication:
+          - Content: chapters/14-family-life/index.md
+          - Quiz: chapters/14-family-life/quiz.md
+          - Annotated References: chapters/14-family-life/references.md
+      - 15. Partners And Caring For The Caregiver:
+          - Content: chapters/15-partners-and-caregivers/index.md
+          - Quiz: chapters/15-partners-and-caregivers/quiz.md
+          - Annotated References: chapters/15-partners-and-caregivers/references.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
@@ -61,6 +106,10 @@ nav:
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Graph Quality Analysis: learning-graph/quality-metrics.md
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+      - Glossary Quality Report: learning-graph/glossary-quality-report.md
+      - FAQ Quality Report: learning-graph/faq-quality-report.md
+      - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
+      - Quiz Generation Report: learning-graph/quiz-generation-report.md
 
   - MicroSims:
       - List of MicroSims: sims/index.md

@@ -220,3 +220,5 @@ For the reader who loves someone with ADHD:
 - If your person was diagnosed late, the most powerful thing you can offer is the reframe, out loud: the old verdicts were landing on mechanisms nobody could see. Then let them grieve the lost decades at their own pace.
 
 Chapter 5 takes the next practical step: what a real evaluation involves, who's qualified to do one, what the rating scales measure, and what a diagnosis does — and doesn't — mean.
+
+[See Annotated References](references.md)

@@ -475,3 +475,5 @@ For the reader who loves someone with ADHD:
 - Your responses either feed the stigma loop or cut it. In your house, you're the loudest culture there is.
 
 For both: you now share a vocabulary — attention regulation, the three traits, presentations, the DSM-5's rules, the myth rebuttals, and a five-question filter for everything the internet will throw at you. Chapter 2 goes inside the brain to explain *why* the steering works this way: executive function, dopamine, and the reward system.
+
+[See Annotated References](references.md)

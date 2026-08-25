@@ -146,3 +146,5 @@ For the reader who loves someone with ADHD:
 - The career chaos you may have watched for years — job changes, quit stories — often reads differently through this chapter: a person searching for fit without the vocabulary. The vocabulary exists now.
 
 Chapter 14 comes home: family life with ADHD — chores, money, communication that works, and the hardest balance in this book: helping an adult you love without managing them.
+
+[See Annotated References](references.md)

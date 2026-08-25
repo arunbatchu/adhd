@@ -298,3 +298,5 @@ For the reader who loves someone with ADHD:
 - "He did it fine yesterday" is exactly what inconsistent regulation predicts. Variability is the symptom, not the proof of choice.
 
 You now hold the machinery: a late-finishing prefrontal cortex running six executive functions on dopamine and norepinephrine, pricing rewards on a steep discount curve, with a small and drainable load budget. Chapter 3 uses this machinery to explain why ADHD comes in three different-looking presentations — and why two people with the same diagnosis can look nothing alike.
+
+[See Annotated References](references.md)

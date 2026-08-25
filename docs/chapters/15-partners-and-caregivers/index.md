@@ -150,3 +150,5 @@ For the reader who loves someone with ADHD:
 - The alliance this book was written for isn't you managing them or them sparing you — it's two competent adults, documents exchanged, doing something hard on purpose, together.
 
 Both readers: the glossary, the quizzes, and the chapter references are in the back matter. The two documents are due at dinner.
+
+[See Annotated References](references.md)

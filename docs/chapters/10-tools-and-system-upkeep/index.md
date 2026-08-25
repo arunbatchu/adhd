@@ -169,3 +169,5 @@ For the reader who loves someone with ADHD:
 - The important-but-not-urgent quadrant is where family help matters most — offer to be the witness on the scaffolded deadlines that have no natural audience.
 
 The toolkit is now complete. Chapter 11 turns inward, to what the years before the toolkit usually leave behind: emotional dysregulation, rejection sensitivity, shame — and the strengths that were there all along.
+
+[See Annotated References](references.md)

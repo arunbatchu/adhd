@@ -158,3 +158,5 @@ For the reader who loves someone with ADHD:
 - When a system collapses, the useful sentence is "want to restart the small version together?" — not an audit of day nine.
 
 Chapter 10 extends the toolkit into planners, calendars, apps, and the maintenance question nobody warns you about: what to do when every system you build eventually stops working — and why that's normal.
+
+[See Annotated References](references.md)

@@ -134,3 +134,5 @@ For the reader who loves someone with ADHD:
 - Retire from the reminder business by building the system that replaces you — then enjoy being family again. The auditor role was never the job; it was the drift.
 
 Chapter 15 finishes the book by writing everything down: the Personal Owner's Manual, the Family Support Plan, partners and dating, and caring for the caregiver — because the supporter's tank is a system too.
+
+[See Annotated References](references.md)

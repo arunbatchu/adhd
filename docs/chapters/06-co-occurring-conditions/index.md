@@ -191,3 +191,5 @@ For the reader who loves someone with ADHD:
 - Safety items — self-harm talk, eating patterns with medical weight, serious substance dependence — outrank everything else in this book. Act on them first and fast.
 
 Next, Chapter 7 takes on the treatment families ask about first and fear most: medication — what stimulants and non-stimulants actually do, what they can't do, and how to think about the decision.
+
+[See Annotated References](references.md)

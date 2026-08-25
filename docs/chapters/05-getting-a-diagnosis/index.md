@@ -182,3 +182,5 @@ For the reader who loves someone with ADHD:
 - If the process was thin or the conclusion doesn't fit the lived evidence, a second opinion is routine medicine, not disloyalty.
 
 Chapter 6 takes up what evaluations so often find alongside ADHD — anxiety, depression, learning disabilities, sleep disorders — and how to tell which condition is driving which struggle.
+
+[See Annotated References](references.md)

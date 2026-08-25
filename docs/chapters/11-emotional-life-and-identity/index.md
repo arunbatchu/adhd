@@ -157,3 +157,5 @@ For the reader who loves someone with ADHD:
 - Watch your corrective-message ratio — the drizzle built the file, and you control today's weather. Five noticings of what went right per correction is not coddling; it's data repair.
 
 Chapter 12 takes the whole toolkit — systems, skills, and self-advocacy — into the first institution that grades ADHD daily: school.
+
+[See Annotated References](references.md)
