@@ -45,13 +45,15 @@ here.
 | Graph viewer | `book-installer` feature 23 | done — v1.04, CIS-sized nodes |
 | Chapter structure | `book-chapter-generator` v1.0.0 | done — 15 chapters, 0 dependency violations |
 | Chapter content | `chapter-content-generator` v1.09 | done — all 15 chapters, ~65k words, 300/300 concepts, 23 MicroSim specs |
-| **MicroSim implementation** | `microsim-generator` | **next — 23 specified, placeholders live** |
-| Glossary, FAQ, quizzes, references | `book-installer` feature 39 | not started |
+| MicroSim implementation | `microsim-generator` conventions | done — all 23 implemented (17 p5.js, 3 vis-network, 2 Chart.js, 1 HTML/JS), browser-QA'd |
+| **Glossary, FAQ, quizzes, references** | `book-installer` feature 39 | **next — not started** |
 
-All 23 specified MicroSims currently show placeholder pages under
-`docs/sims/<sim-id>/main.html` (catalog: `docs/sims/index.md`). Specs live in
-each chapter's `#### Diagram:` details blocks with `Status: Specified`.
-Session logs for content generation are in `logs/`.
+All 23 MicroSims are implemented and embedded (catalog: `docs/sims/index.md`;
+each sim dir has main.html, `<sim-id>.js` with a `// CANVAS_HEIGHT:` comment,
+index.md, metadata.json). Iframe heights are synced from CANVAS_HEIGHT by
+`sync-iframe-heights.py` (in Dan's microsim-utils skill) — rerun it after any
+height change. Catalog screenshots (`<sim-id>.png`) are still missing — no
+capture tool on this machine. Session logs are in `logs/`.
 
 Regenerating `learning-graph.json`: run from `docs/learning-graph/`
 
