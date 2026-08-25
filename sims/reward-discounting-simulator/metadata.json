@@ -1,0 +1,29 @@
+{
+  "title": "Reward Discounting Simulator",
+  "description": "Interactive hyperbolic delay-discounting graph comparing typical and ADHD-steep curves, with a draggable reward marker, a motivation threshold, preset stalled-task scenarios, and four intervention chips that rescue below-threshold tasks while explaining their mechanisms.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Motivation", "Delay Aversion", "Reward System"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/reward-discounting-simulator/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "High School, Adult",
+  "learningResourceType": "simulation",
+  "audience": "People with ADHD, Family members, Students, Educators",
+  "version": "1.0.0",
+  "bloomLevel": ["Apply"],
+  "concepts": ["Delay aversion", "Reward system", "Motivation and ADHD", "Interest-based nervous system"],
+  "prerequisites": ["Chapter 2 reward system section"],
+  "library": "p5.js",
+  "canvasHeight": 480,
+  "controls": [
+    {"type": "select", "label": "Scenario", "purpose": "Load preset stalled tasks or custom"},
+    {"type": "drag", "label": "Reward marker", "purpose": "Set the reward's delay"},
+    {"type": "checkbox", "label": "Show typical curve", "purpose": "Toggle the comparison curve"},
+    {"type": "buttons", "label": "Intervention chips", "purpose": "Apply today-sized piece, body double, novelty, or near deadline"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "The Conflict Cycle Breaker",
+  "description": "Interactive seven-stage family conflict ring with per-stage dialogue and ownership coding, five exit nodes carrying replacement sentences, sticky edge-cutting, and a run-one-turn animation that stops dead at any cut.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Family Conflict", "Communication", "Systems Thinking"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/conflict-cycle-breaker/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "Adult",
+  "learningResourceType": "simulation",
+  "audience": "Family members, People with ADHD, Couples",
+  "version": "1.0.0",
+  "bloomLevel": ["Analyze"],
+  "concepts": ["Parent-child conflict cycles", "Reminders without nagging", "Repair after conflict", "The pause protocol"],
+  "prerequisites": ["Chapter 14"],
+  "library": "vis-network",
+  "canvasHeight": 520,
+  "controls": [
+    {"type": "click", "label": "Loop stages", "purpose": "Open anatomy, dialogue, and who can act"},
+    {"type": "click", "label": "Exit nodes", "purpose": "Cut the loop and show the replacement sentence"},
+    {"type": "button", "label": "Run one turn", "purpose": "Animate the loop; a cut edge stops the turn"},
+    {"type": "button", "label": "Reset", "purpose": "Restore the full loop"}
+  ]
+}

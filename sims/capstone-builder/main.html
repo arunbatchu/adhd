@@ -1,19 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Capstone Builder</title>
-<style>
-body { font-family: system-ui, sans-serif; display: flex; align-items: center; justify-content: center; min-height: 90vh; margin: 0; background: #fafafa; color: #444; }
-.card { text-align: center; padding: 2rem; max-width: 28rem; }
-h1 { font-size: 1.2rem; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="schema" content="https://dmccreary.github.io/intelligent-textbooks/ns/microsim/v1">
+    <title>The Capstone Builder MicroSim</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, Helvetica, sans-serif; background: aliceblue; }
+        .wrap { padding: 10px 14px; max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 19px; text-align: center; margin-bottom: 4px; }
+        .privacy { text-align: center; font-size: 11px; color: #666; margin-bottom: 10px; }
+        .roles { display: flex; gap: 10px; justify-content: center; margin-bottom: 10px; }
+        .roles button, .navbtns button, .assemble button {
+            padding: 8px 14px; font-size: 13px; border: 1px solid #999;
+            border-radius: 6px; background: #eef2f7; cursor: pointer; font-weight: bold;
+        }
+        .roles button.active { background: #2196f3; color: white; }
+        .rail { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 10px; justify-content: center; }
+        .rail button {
+            padding: 4px 8px; font-size: 11px; border: 1px solid #bbb;
+            border-radius: 10px; background: white; cursor: pointer;
+        }
+        .rail button.current { border-color: #2196f3; border-width: 2px; }
+        .rail button.drafted { background: #dff0e2; border-color: #3f7d4e; }
+        .card { background: white; border: 1px solid silver; border-radius: 8px; padding: 12px; margin-bottom: 8px; }
+        .card .purpose { font-size: 13.5px; font-weight: bold; margin-bottom: 6px; }
+        .card .starters { font-size: 12px; color: #444; line-height: 1.5; margin-bottom: 6px; }
+        .card .example { font-size: 11.5px; color: #7a5c20; font-style: italic; margin-bottom: 4px; }
+        .card .chref { font-size: 10.5px; color: #888; }
+        textarea {
+            width: 100%; min-height: 110px; font-family: Georgia, serif; font-size: 13px;
+            padding: 10px; border: 1px solid #aaa; border-radius: 6px; resize: vertical;
+        }
+        .navbtns { display: flex; gap: 8px; justify-content: space-between; margin-top: 8px; }
+        .assemble { text-align: center; margin-top: 6px; }
+        #output { display: none; background: white; border: 1px solid silver; border-radius: 8px; padding: 16px; margin-top: 10px; }
+        #output h2 { font-size: 16px; margin-bottom: 8px; }
+        #output h3 { font-size: 13.5px; margin: 12px 0 4px 0; }
+        #output p { font-size: 12.5px; line-height: 1.55; white-space: pre-wrap; }
+        #output .empty { color: #b05a2a; font-style: italic; }
+        #output .meta { font-size: 11px; color: #777; margin-top: 12px; border-top: 1px solid #ddd; padding-top: 8px; }
+        .exchange { background: #f2f8f2; border: 1px solid #a8c8a8; border-radius: 8px; padding: 10px; margin-top: 8px; font-size: 12px; line-height: 1.5; display: none; }
+        a.back { font-size: 12px; }
+        @media print {
+            .roles, .rail, .card, .navbtns, .assemble, .privacy, .exchange, a.back { display: none !important; }
+            #output { display: block !important; border: none; }
+            body { background: white; }
+        }
+    </style>
 </head>
 <body>
-<div class="card">
-<h1>Capstone Builder</h1>
-<p>This interactive MicroSim is specified but not yet built. It will appear here in a later update.</p>
-</div>
+    <main>
+        <div class="wrap">
+            <h1>The Capstone Builder</h1>
+            <div class="privacy">Everything you write stays in this browser (localStorage). Nothing leaves your device.</div>
+            <div class="roles">
+                <button id="role-person">I have ADHD → Owner's Manual</button>
+                <button id="role-family">I'm the family → Support Plan</button>
+            </div>
+            <div class="rail" id="rail"></div>
+            <div id="editor" style="display:none;">
+                <div class="card">
+                    <div class="purpose" id="purpose"></div>
+                    <div class="starters" id="starters"></div>
+                    <div class="example" id="example"></div>
+                    <div class="chref" id="chref"></div>
+                </div>
+                <textarea id="text" placeholder="Write in your own words. Rough counts. An honest draft beats a complete-looking one."></textarea>
+                <div class="navbtns">
+                    <button id="prev">← Previous section</button>
+                    <button id="next">Next section →</button>
+                </div>
+                <div class="assemble">
+                    <button id="assemble">Assemble my document</button>
+                    <button id="printbtn" style="display:none;">Print / save</button>
+                </div>
+            </div>
+            <div id="output"></div>
+            <div class="exchange" id="exchange">
+                <strong>The exchange:</strong> schedule a real date — dinner attached — to trade documents.
+                When you receive the other person's: read all of it before responding, ask two questions
+                before offering any edit, and read the masking section and the "our lines" section twice.
+                Put the annual review date on the shared calendar now, while you're thinking of it.
+            </div>
+        </div>
+    </main>
+    <a class="back" href=".">Back to Documentation</a>
+    <script src="capstone-builder.js"></script>
 </body>
 </html>

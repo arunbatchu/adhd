@@ -1,0 +1,27 @@
+{
+  "title": "Titration Response Tracker",
+  "description": "Interactive Chart.js line chart of an eight-week stimulant titration with three target-symptom series, a side-effect burden line, dose-step annotations, hoverable weekly diary notes, and a three-decision prescriber-call mode with explained feedback. Contains no dosing advice.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Medication", "Titration", "Tracking"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/titration-response-tracker/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "Adult",
+  "learningResourceType": "simulation",
+  "audience": "People with ADHD, Family members",
+  "version": "1.0.0",
+  "bloomLevel": ["Apply"],
+  "concepts": ["Titration", "Tracking medication response", "Side effects", "Finding the right dose"],
+  "prerequisites": ["Chapter 7"],
+  "library": "Chart.js",
+  "canvasHeight": 505,
+  "controls": [
+    {"type": "hover", "label": "Chart weeks", "purpose": "Read the weekly diary note behind the numbers"},
+    {"type": "buttons", "label": "Decision options", "purpose": "Make the prescriber's call at weeks 3, 5, and 7 with explained feedback"}
+  ]
+}
