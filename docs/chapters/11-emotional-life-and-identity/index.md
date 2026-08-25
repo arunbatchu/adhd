@@ -85,7 +85,7 @@ A worked example that threads all five: Sana (Chapters 4 and 7), eight months af
 
 #### Diagram: The Ninety-Second Storm Explorer
 
-<iframe src="../../sims/emotion-storm-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/emotion-storm-explorer/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Ninety-Second Storm Explorer fullscreen](../../sims/emotion-storm-explorer/main.html){ .md-button }
 

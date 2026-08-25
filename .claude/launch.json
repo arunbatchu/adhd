@@ -2,10 +2,11 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "site-preview",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8123", "-d", "site"],
-      "port": 8123
+      "name": "mkdocs",
+      "runtimeExecutable": "mkdocs",
+      "runtimeArgs": ["serve", "-a", "127.0.0.1:8124"],
+      "port": 8124,
+      "autoPort": false
     }
   ]
 }

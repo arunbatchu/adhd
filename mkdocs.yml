@@ -64,7 +64,30 @@ nav:
 
   - MicroSims:
       - List of MicroSims: sims/index.md
+      - Accommodations Pathway Navigator: sims/accommodations-pathway-navigator/index.md
+      - Adult Diagnosis Journey Map: sims/adult-diagnosis-journey-map/index.md
+      - Attention Spotlight Simulator: sims/attention-spotlight-simulator/index.md
+      - Brain Construction Schedule Explorer: sims/brain-construction-explorer/index.md
+      - Brain Development Timeline: sims/brain-development-timeline/index.md
+      - Capstone Builder: sims/capstone-builder/index.md
+      - Comorbidity Map: sims/comorbidity-map/index.md
+      - Conflict Cycle Breaker: sims/conflict-cycle-breaker/index.md
+      - Disclosure Decision Navigator: sims/disclosure-decision-navigator/index.md
+      - Distraction Defense Lab: sims/distraction-defense-lab/index.md
+      - Emotion Storm Explorer: sims/emotion-storm-explorer/index.md
+      - Evaluation Anatomy Map: sims/evaluation-anatomy-map/index.md
+      - Executive Function Explorer: sims/executive-function-explorer/index.md
       - Learning Graph Viewer: sims/graph-viewer/index.md
+      - Lifespan Scaffolding Explorer: sims/lifespan-scaffolding-explorer/index.md
+      - Myth or Evidence Sorter: sims/myth-or-evidence-sorter/index.md
+      - Next-Action Trainer: sims/next-action-trainer/index.md
+      - Reward Discounting Simulator: sims/reward-discounting-simulator/index.md
+      - Stigma Cycle: sims/stigma-cycle-diagram/index.md
+      - Symptom and Presentation Explorer: sims/symptom-presentation-explorer/index.md
+      - Three Traits Explorer: sims/three-traits-explorer/index.md
+      - Time Blindness Challenge: sims/time-blindness-challenge/index.md
+      - Titration Response Tracker: sims/titration-response-tracker/index.md
+      - Treatment Evidence Explorer: sims/treatment-evidence-explorer/index.md
 
   - License: license.md
   - Contact: contact.md

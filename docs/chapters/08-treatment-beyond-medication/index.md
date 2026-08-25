@@ -110,7 +110,7 @@ The **treatment evidence hierarchy** is the two-minute version of how medicine r
 
 #### Diagram: Treatment Evidence Explorer
 
-<iframe src="../../sims/treatment-evidence-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/treatment-evidence-explorer/main.html" width="100%" height="562px" scrolling="no"></iframe>
 
 [Run the Treatment Evidence Explorer fullscreen](../../sims/treatment-evidence-explorer/main.html){ .md-button }
 

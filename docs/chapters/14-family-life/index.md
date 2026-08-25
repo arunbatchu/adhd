@@ -75,7 +75,7 @@ The practical protocol, for the family side, is *ask-first help*, and it has thr
 
 #### Diagram: The Conflict Cycle Breaker
 
-<iframe src="../../sims/conflict-cycle-breaker/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/conflict-cycle-breaker/main.html" width="100%" height="522px" scrolling="no"></iframe>
 
 [Run the Conflict Cycle Breaker fullscreen](../../sims/conflict-cycle-breaker/main.html){ .md-button }
 

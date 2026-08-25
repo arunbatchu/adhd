@@ -1,0 +1,28 @@
+{
+  "title": "The Accommodations Pathway Navigator",
+  "description": "Branching flowchart of the US K-12 (504/IEP) and college (disability services) accommodation pathways with clickable step details, classic mistakes, three scenario traces, and an ownership toggle showing the parent-to-student handoff.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Accommodations", "IEP", "504 Plan", "College Disability Services"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/accommodations-pathway-navigator/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "High School, Adult",
+  "learningResourceType": "simulation",
+  "audience": "Parents, Students, People with ADHD",
+  "version": "1.0.0",
+  "bloomLevel": ["Apply"],
+  "concepts": ["School accommodations", "IEP", "504 plan", "Requesting accommodations", "College disability services"],
+  "prerequisites": ["Chapter 12"],
+  "library": "p5.js",
+  "canvasHeight": 450,
+  "controls": [
+    {"type": "click", "label": "Pathway nodes", "purpose": "Open each step's details and classic mistake"},
+    {"type": "select", "label": "Scenario", "purpose": "Trace Amara (504), Dev (IEP), or the college freshman"},
+    {"type": "checkbox", "label": "Who owns each step", "purpose": "Color-code parent/shared/student ownership"}
+  ]
+}

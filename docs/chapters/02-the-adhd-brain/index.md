@@ -66,7 +66,7 @@ Here's the worked example to hold onto. Think of the brain as a house being buil
 
 #### Diagram: Brain Construction Schedule Explorer
 
-<iframe src="../../sims/brain-construction-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/brain-construction-explorer/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Brain Construction Schedule Explorer fullscreen](../../sims/brain-construction-explorer/main.html){ .md-button }
 
@@ -160,7 +160,7 @@ Click through your own household's trouble spots below — each component expand
 
 #### Diagram: Executive Function Explorer
 
-<iframe src="../../sims/executive-function-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/executive-function-explorer/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Executive Function Explorer fullscreen](../../sims/executive-function-explorer/main.html){ .md-button }
 
@@ -215,7 +215,7 @@ Try the economist's math yourself — the simulator below lets you set a reward'
 
 #### Diagram: Reward Discounting Simulator
 
-<iframe src="../../sims/reward-discounting-simulator/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/reward-discounting-simulator/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Reward Discounting Simulator fullscreen](../../sims/reward-discounting-simulator/main.html){ .md-button }
 

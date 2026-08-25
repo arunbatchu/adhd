@@ -79,7 +79,7 @@ A worked example of the difference process makes: Amara — Chapter 4's window-g
 
 #### Diagram: The Accommodations Pathway Navigator
 
-<iframe src="../../sims/accommodations-pathway-navigator/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/accommodations-pathway-navigator/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Accommodations Pathway Navigator fullscreen](../../sims/accommodations-pathway-navigator/main.html){ .md-button }
 

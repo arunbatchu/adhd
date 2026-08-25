@@ -1,0 +1,29 @@
+{
+  "title": "Brain Construction Schedule Explorer",
+  "description": "Side-profile brain whose clickable regions fill with color as they mature along an age slider, showing back-to-front development with the prefrontal region last, a fixed-schedule life-demands track, and an ADHD toggle that delays only the prefrontal region.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Brain Development", "Prefrontal Cortex", "Maturation"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/brain-construction-explorer/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "High School, Adult",
+  "learningResourceType": "simulation",
+  "audience": "People with ADHD, Family members, Students, Educators",
+  "version": "1.0.0",
+  "bloomLevel": ["Understand"],
+  "concepts": ["Brain development", "Prefrontal cortex", "Maturation lag", "Developmental demands"],
+  "prerequisites": ["Chapter 2 introduction"],
+  "library": "p5.js",
+  "canvasHeight": 480,
+  "controls": [
+    {"type": "button", "label": "Play/Stop", "purpose": "Animate the age slider from 0 to 30"},
+    {"type": "slider", "label": "Age", "range": "0-30", "default": 10, "purpose": "Set the developmental moment shown"},
+    {"type": "checkbox", "label": "ADHD trajectory", "purpose": "Shift only the prefrontal region 2-3 years later"},
+    {"type": "click", "label": "Brain regions", "purpose": "Open each region's function and schedule"}
+  ]
+}

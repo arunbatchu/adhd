@@ -70,7 +70,7 @@ Try the stack yourself below — turn defenses on and off and watch what survive
 
 #### Diagram: Distraction Defense Lab
 
-<iframe src="../../sims/distraction-defense-lab/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/distraction-defense-lab/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Distraction Defense Lab fullscreen](../../sims/distraction-defense-lab/main.html){ .md-button }
 

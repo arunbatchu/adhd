@@ -63,7 +63,7 @@ That sequencing is the heart of **workplace disclosure** — the genuinely perso
 
 #### Diagram: The Disclosure Decision Navigator
 
-<iframe src="../../sims/disclosure-decision-navigator/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/disclosure-decision-navigator/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Disclosure Decision Navigator fullscreen](../../sims/disclosure-decision-navigator/main.html){ .md-button }
 

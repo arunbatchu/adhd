@@ -1,0 +1,27 @@
+{
+  "title": "Three Traits Across Three Ages Explorer",
+  "description": "Clickable 3x3 grid comparing how inattention, hyperactivity, and impulsivity present in childhood, adolescence, and adulthood, with a toggle that shades cells by referral likelihood to make the diagnosis gap visible.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Inattention", "Hyperactivity", "Impulsivity", "Lifespan"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/three-traits-explorer/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "High School, Adult",
+  "learningResourceType": "simulation",
+  "audience": "People with ADHD, Family members, Students, Educators",
+  "version": "1.0.0",
+  "bloomLevel": ["Understand"],
+  "concepts": ["Inattention", "Hyperactivity", "Impulsivity", "Presentation shift", "Referral bias"],
+  "prerequisites": ["Chapter 1 trait definitions"],
+  "library": "p5.js",
+  "canvasHeight": 450,
+  "controls": [
+    {"type": "checkbox", "label": "Who gets noticed?", "purpose": "Shade cells by referral likelihood"},
+    {"type": "click", "label": "Grid cells", "purpose": "Expand any trait-age cell into examples, quote, and common misreading"}
+  ]
+}

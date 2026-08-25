@@ -64,7 +64,7 @@ The worked example is Chapter 2's Sam, re-run with the system installed. Tuesday
 
 #### Diagram: Next-Action Trainer
 
-<iframe src="../../sims/next-action-trainer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/next-action-trainer/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Next-Action Trainer fullscreen](../../sims/next-action-trainer/main.html){ .md-button }
 

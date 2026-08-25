@@ -103,7 +103,7 @@ The **childhood history requirement** is the evaluation working the DSM's **age 
 
 #### Diagram: Anatomy of a Thorough Evaluation
 
-<iframe src="../../sims/evaluation-anatomy-map/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/evaluation-anatomy-map/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Anatomy of a Thorough Evaluation fullscreen](../../sims/evaluation-anatomy-map/main.html){ .md-button }
 

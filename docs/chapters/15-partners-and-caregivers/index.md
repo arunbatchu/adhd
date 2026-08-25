@@ -98,7 +98,7 @@ A closing worked example, because this book has earned one: a year after Sana's 
 
 #### Diagram: The Capstone Builder
 
-<iframe src="../../sims/capstone-builder/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/capstone-builder/main.html" width="100%" height="622px" scrolling="no"></iframe>
 
 [Run the Capstone Builder fullscreen](../../sims/capstone-builder/main.html){ .md-button }
 

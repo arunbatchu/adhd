@@ -71,7 +71,7 @@ Explore how the eighteen symptoms sort — and how the same person's picture can
 
 #### Diagram: Symptom and Presentation Explorer
 
-<iframe src="../../sims/symptom-presentation-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/symptom-presentation-explorer/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Symptom and Presentation Explorer fullscreen](../../sims/symptom-presentation-explorer/main.html){ .md-button }
 
@@ -135,7 +135,7 @@ Test your own time sense against the clock below — most people are off; the qu
 
 #### Diagram: Time Blindness Challenge
 
-<iframe src="../../sims/time-blindness-challenge/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/time-blindness-challenge/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Time Blindness Challenge fullscreen](../../sims/time-blindness-challenge/main.html){ .md-button }
 

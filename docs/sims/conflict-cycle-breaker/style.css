@@ -1,0 +1,134 @@
+/* vis-network layout for The Conflict Cycle Breaker */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+#network {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.title {
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 19px;
+    font-weight: bold;
+    color: black;
+    background-color: aliceblue;
+    z-index: 10;
+}
+
+.legend {
+    position: absolute;
+    top: 34px;
+    left: 10px;
+    padding: 6px 8px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 10;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin: 3px 0;
+    font-size: 11.5px;
+    gap: 4px;
+}
+
+.legend-color {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid #333;
+}
+
+.color-loop { background-color: #e8a49c; }
+.color-break { background-color: #a5d6a7; }
+
+.who {
+    font-size: 10px;
+    padding: 1px 6px;
+    border-radius: 8px;
+    color: white;
+}
+.who-family { background-color: #c98a3d; }
+.who-person { background-color: #3f7d4e; }
+.who-either { background-color: #7d5ba6; }
+
+.right-panel {
+    position: absolute;
+    top: 34px;
+    right: 10px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 10;
+}
+
+.status-info {
+    background-color: rgba(255, 255, 255, 0.96);
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.status-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 12.5px;
+}
+
+.status-text {
+    font-size: 11.5px;
+    line-height: 1.45;
+}
+
+.controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.96);
+    padding: 8px 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn {
+    padding: 7px 12px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-primary { background-color: #2196f3; color: white; }
+.btn-primary:hover { background-color: #1976d2; }
+.btn-secondary { background-color: #757575; color: white; }
+.btn-secondary:hover { background-color: #616161; }
+
+@media (max-width: 620px) {
+    .right-panel { width: 190px; }
+    .legend-item { font-size: 10px; }
+}

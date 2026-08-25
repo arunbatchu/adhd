@@ -48,3 +48,25 @@
 1. Implement MicroSims (microsim-generator) — 23 specified.
 2. Glossary (glossary-generator), FAQ (faq-generator), quizzes (quiz-generator), references (reference-generator).
 3. Deploy via mkdocs gh-deploy --force.
+
+## MicroSim implementation session (same day, second arc)
+
+All 23 sims implemented per microsim-generator v-skill conventions (hand-scaffolded;
+Dan's batch utilities absent on this machine except sync-iframe-heights.py, which ran
+and fixed all 23 chapter embeds from CANVAS_HEIGHT comments). Each sim: main.html
+(schema meta tag, CDN, <main>), <sim-id>.js with CANVAS_HEIGHT, index.md (frontmatter,
+iframe, fullscreen button, lesson plan, references), metadata.json; vis-network sims
+also style.css. Libraries: 17 p5.js, 3 vis-network, 2 Chart.js, 1 custom HTML/JS
+(capstone-builder, localStorage).
+
+QA: every sim loaded via mkdocs serve in the in-app browser; screenshots checked;
+interaction spot-tests on attention-spotlight, myth-sorter, stigma-cycle, capstone,
+distraction-lab, emotion-storm. Bugs found and fixed: p5 box-form text() center-x
+clipping (executive-function-explorer, emotion-storm-explorer), overlapping checkbox
+labels (distraction-defense-lab), overlapping milestone labels (brain-construction-
+explorer), Marcus preset double-toggle (symptom-presentation-explorer). Playwright
+iframe tests and bk-capture-screenshot unavailable - visual review done via browser
+pane instead; catalog screenshots not generated (no capture tool on this machine).
+
+mkdocs.yml MicroSims nav: 23 entries added alphabetically. sims/index.md catalog
+updated to implemented status.

@@ -74,7 +74,7 @@ Before you try the simulation below, keep those five skills in mind — it puts 
 
 #### Diagram: Attention Spotlight Simulator
 
-<iframe src="../../sims/attention-spotlight-simulator/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/attention-spotlight-simulator/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Attention Spotlight Simulator fullscreen](../../sims/attention-spotlight-simulator/main.html){ .md-button }
 
@@ -160,7 +160,7 @@ Before the next section, explore how these three traits look at different ages �
 
 #### Diagram: Three Traits Across Three Ages Explorer
 
-<iframe src="../../sims/three-traits-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/three-traits-explorer/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Three Traits Explorer fullscreen](../../sims/three-traits-explorer/main.html){ .md-button }
 
@@ -207,7 +207,7 @@ The timeline below makes the delayed-maturation finding explorable — drag the 
 
 #### Diagram: Brain Development Timeline
 
-<iframe src="../../sims/brain-development-timeline/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/brain-development-timeline/main.html" width="100%" height="482px" scrolling="no"></iframe>
 
 [Run the Brain Development Timeline fullscreen](../../sims/brain-development-timeline/main.html){ .md-button }
 
@@ -346,7 +346,7 @@ Ready to test yourself? The sorter below deals you claims one at a time — deci
 
 #### Diagram: Myth or Evidence Sorter
 
-<iframe src="../../sims/myth-or-evidence-sorter/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/myth-or-evidence-sorter/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Myth or Evidence Sorter fullscreen](../../sims/myth-or-evidence-sorter/main.html){ .md-button }
 
@@ -395,7 +395,7 @@ Trace the loop yourself below — click any node to see how it feeds the next, a
 
 #### Diagram: The Stigma Cycle
 
-<iframe src="../../sims/stigma-cycle-diagram/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/stigma-cycle-diagram/main.html" width="100%" height="522px" scrolling="no"></iframe>
 
 [Run the Stigma Cycle diagram fullscreen](../../sims/stigma-cycle-diagram/main.html){ .md-button }
 

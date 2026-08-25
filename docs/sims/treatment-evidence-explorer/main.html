@@ -1,19 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Treatment Evidence Explorer</title>
-<style>
-body { font-family: system-ui, sans-serif; display: flex; align-items: center; justify-content: center; min-height: 90vh; margin: 0; background: #fafafa; color: #444; }
-.card { text-align: center; padding: 2rem; max-width: 28rem; }
-h1 { font-size: 1.2rem; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="schema" content="https://dmccreary.github.io/intelligent-textbooks/ns/microsim/v1">
+    <title>Treatment Evidence Explorer MicroSim</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, Helvetica, sans-serif; background: aliceblue; }
+        .wrap { padding: 8px 12px; }
+        h1 { font-size: 18px; text-align: center; margin: 2px 0 6px 0; }
+        #chart-container { position: relative; height: 330px; width: 100%; background: white; border: 1px solid silver; border-radius: 6px; padding: 6px; }
+        .panel { margin-top: 8px; background: white; border: 1px solid silver; border-radius: 6px; padding: 8px 10px; min-height: 148px; }
+        .panel .q { font-size: 13px; font-weight: bold; margin-bottom: 6px; }
+        .panel .fb { font-size: 12px; line-height: 1.45; margin-top: 6px; }
+        .btn-row { display: flex; flex-wrap: wrap; gap: 6px; }
+        button { padding: 6px 10px; font-size: 12px; border: 1px solid #999; border-radius: 5px; background: #eef2f7; cursor: pointer; }
+        button:hover { background: #dbe4ef; }
+        button.picked { background: #2196f3; color: white; }
+        .good { color: seagreen; }
+        .bad { color: firebrick; }
+        a.back { font-size: 12px; }
+    </style>
 </head>
 <body>
-<div class="card">
-<h1>Treatment Evidence Explorer</h1>
-<p>This interactive MicroSim is specified but not yet built. It will appear here in a later update.</p>
-</div>
+    <main>
+        <div class="wrap">
+            <h1>What's the Evidence? ADHD Treatments Ranked Honestly</h1>
+            <div id="chart-container"><canvas id="chart"></canvas></div>
+            <div class="panel">
+                <div class="q" id="q">Click any bar for the full verdict - or test yourself on marketplace claims:</div>
+                <div class="btn-row" id="buttons"></div>
+                <div class="fb" id="fb">Bar length = strength of evidence (1 testimonial-only ... 5 meta-analytic). Color depth = approximate effect size. Both scales are deliberately qualitative.</div>
+            </div>
+        </div>
+    </main>
+    <a class="back" href=".">Back to Documentation</a>
+    <script src="treatment-evidence-explorer.js"></script>
 </body>
 </html>

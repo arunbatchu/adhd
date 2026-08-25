@@ -114,7 +114,7 @@ A worked example, one titration compressed: Dev's psychiatrist starts a low-dose
 
 #### Diagram: Titration Response Tracker
 
-<iframe src="../../sims/titration-response-tracker/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/titration-response-tracker/main.html" width="100%" height="507px" scrolling="no"></iframe>
 
 [Run the Titration Response Tracker fullscreen](../../sims/titration-response-tracker/main.html){ .md-button }
 

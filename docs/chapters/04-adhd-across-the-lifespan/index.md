@@ -82,7 +82,7 @@ Before the adult section, walk the whole arc yourself — the explorer below put
 
 #### Diagram: Lifespan Demands and Scaffolding Explorer
 
-<iframe src="../../sims/lifespan-scaffolding-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/lifespan-scaffolding-explorer/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Lifespan Demands and Scaffolding Explorer fullscreen](../../sims/lifespan-scaffolding-explorer/main.html){ .md-button }
 
@@ -156,7 +156,7 @@ The **adult diagnosis journey** — what it's actually like to be diagnosed late
 
 #### Diagram: The Adult Diagnosis Journey Map
 
-<iframe src="../../sims/adult-diagnosis-journey-map/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/adult-diagnosis-journey-map/main.html" width="100%" height="452px" scrolling="no"></iframe>
 
 [Run the Adult Diagnosis Journey Map fullscreen](../../sims/adult-diagnosis-journey-map/main.html){ .md-button }
 

@@ -1,19 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Comorbidity Map</title>
-<style>
-body { font-family: system-ui, sans-serif; display: flex; align-items: center; justify-content: center; min-height: 90vh; margin: 0; background: #fafafa; color: #444; }
-.card { text-align: center; padding: 2rem; max-width: 28rem; }
-h1 { font-size: 1.2rem; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="schema" content="https://dmccreary.github.io/intelligent-textbooks/ns/microsim/v1">
+    <title>The ADHD Comorbidity Map</title>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/vis-network/styles/vis-network.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="card">
-<h1>Comorbidity Map</h1>
-<p>This interactive MicroSim is specified but not yet built. It will appear here in a later update.</p>
-</div>
+    <div class="container">
+        <div id="network"></div>
+
+        <div class="title">The ADHD Comorbidity Map</div>
+
+        <div class="legend">
+            <div class="legend-item"><div class="legend-line line-roots"></div><span><strong>Shared roots</strong></span></div>
+            <div class="legend-item"><div class="legend-line line-consequence"></div><span><strong>Consequence</strong></span></div>
+            <div class="legend-item"><div class="legend-line line-entangled"></div><span><strong>Entangled</strong></span></div>
+            <div class="legend-item"><div class="legend-line line-lookalike"></div><span><strong>Look-alike</strong></span></div>
+        </div>
+
+        <div class="right-panel">
+            <div class="controls">
+                <button class="btn btn-small" data-filter="all">All</button>
+                <button class="btn btn-small" data-filter="roots">Roots</button>
+                <button class="btn btn-small" data-filter="consequence">Conseq.</button>
+                <button class="btn btn-small" data-filter="entangled">Entangled</button>
+                <button class="btn btn-small" data-filter="lookalike">Look-alike</button>
+                <button class="btn btn-small btn-dev" id="dev-btn">Dev, 15</button>
+            </div>
+            <div class="status-info">
+                <div class="status-title" id="status-title">Two-thirds travel with company</div>
+                <div class="status-text" id="status-text">
+                    Click any condition for its field-guide entry - the tell, the
+                    relationship, the treatment lane. Filter by relationship type,
+                    or load Dev's case.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="comorbidity-map.js"></script>
 </body>
 </html>

@@ -1,0 +1,28 @@
+{
+  "title": "The Stigma Cycle",
+  "description": "Interactive causal loop diagram of the six-stage ADHD stigma cycle with clickable stages, example dialogue, and two break-point nodes that cut the loop and explain what changes downstream.",
+  "creator": "Arun Batchu",
+  "date": "2026-08-24",
+  "subject": ["ADHD", "Stigma", "Self-Stigma", "Systems Thinking"],
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en-US",
+  "rights": "CC BY-NC-SA 4.0",
+  "contributor": ["Claude Code"],
+  "identifier": "https://arunbatchu.github.io/adhd/sims/stigma-cycle-diagram/",
+  "publisher": "Understanding ADHD",
+  "educationalLevel": "High School, Adult",
+  "learningResourceType": "simulation",
+  "audience": "People with ADHD, Family members, Students, Educators",
+  "version": "1.0.0",
+  "bloomLevel": ["Analyze"],
+  "concepts": ["ADHD stigma", "Self-stigma", "Feedback loops", "Late diagnosis"],
+  "prerequisites": ["Chapter 1 stigma section"],
+  "library": "vis-network",
+  "canvasHeight": 520,
+  "controls": [
+    {"type": "click", "label": "Loop stages", "purpose": "Show each stage's example and how it feeds the next"},
+    {"type": "click", "label": "Break points", "purpose": "Cut the edge that break point interrupts; click again to restore"},
+    {"type": "button", "label": "Restore the loop", "purpose": "Reset all cuts"}
+  ]
+}

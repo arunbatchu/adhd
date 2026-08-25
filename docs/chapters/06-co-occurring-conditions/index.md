@@ -89,7 +89,7 @@ Explore the whole territory below — each condition node shows its relationship
 
 #### Diagram: The ADHD Comorbidity Map
 
-<iframe src="../../sims/comorbidity-map/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/comorbidity-map/main.html" width="100%" height="560px" scrolling="no"></iframe>
 
 [Run the ADHD Comorbidity Map fullscreen](../../sims/comorbidity-map/main.html){ .md-button }
 
