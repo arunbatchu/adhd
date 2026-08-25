@@ -1,0 +1,2137 @@
+{
+  "faq_version": "1.0",
+  "generated_date": "2026-08-24",
+  "source_textbook": "Understanding ADHD",
+  "total_questions": 93,
+  "questions": [
+    {
+      "id": "faq-001",
+      "category": "Getting Started Questions",
+      "question": "What is this book about?",
+      "answer": "This is an evidence-based guidebook about Attention-Deficit/Hyperactivity Disorder, written for two readers at once: the person who has ADHD and the people who love and support them \u2014 parents, partners, siblings, and close friends. It combines the science of ADHD (what it is, how the brain works, how diagnosis and treatment actually operate) with practical strategies for daily life, school, work, and relationships. The organizing idea is that a diagnosis lands on a whole family, not just one person, so every major topic addresses both sides. See the course description for the full scope.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "overview",
+        "purpose",
+        "guidebook"
+      ],
+      "source_links": [
+        "docs/course-description.md"
+      ],
+      "has_example": false,
+      "word_count": 94
+    },
+    {
+      "id": "faq-002",
+      "category": "Getting Started Questions",
+      "question": "Who is this book for?",
+      "answer": "Two readers, by design. First: adults and teens who have been diagnosed with ADHD or suspect they have it \u2014 with particular attention to adults diagnosed late and to women whose ADHD went unrecognized for years. Second: the people around them \u2014 parents (including parents of grown children), spouses and partners, siblings, close friends, and teachers or mentors without specialized training. No medical background is assumed; every clinical term is explained in plain language when it first appears. The book works best when both readers read it and compare notes.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "audience",
+        "family",
+        "caregivers"
+      ],
+      "source_links": [],
+      "has_example": false,
+      "word_count": 90
+    },
+    {
+      "id": "faq-003",
+      "category": "Getting Started Questions",
+      "question": "Do I need any background knowledge to read this book?",
+      "answer": "No. There are no prerequisites. The book is written at a 9th-10th grade reading level, and every concept is built from the ground up: Chapter 1 defines attention itself before it defines ADHD, and Chapter 2 explains the brain science without assuming you have ever taken a biology class.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "prerequisites",
+        "background",
+        "reading level"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": false,
+      "word_count": 49
+    },
+    {
+      "id": "faq-004",
+      "category": "Getting Started Questions",
+      "question": "In what order should I read the chapters?",
+      "answer": "Front to back works best the first time, because later chapters deliberately build on vocabulary from earlier ones \u2014 the \"regulation lens\" from Chapter 1 and the executive-function toolkit from Chapter 2 get used everywhere afterward. But the book is also built as a reference: jump to Chapter 5 before an evaluation, Chapter 7 before a prescriber visit, or Chapter 12 before a school meeting. Each chapter opens by naming which earlier chapters it builds on.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "reading order",
+        "structure",
+        "navigation"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/05-getting-a-diagnosis/index.md",
+        "docs/chapters/07-medication/index.md",
+        "docs/chapters/12-school-and-college/index.md"
+      ],
+      "has_example": false,
+      "word_count": 76
+    },
+    {
+      "id": "faq-005",
+      "category": "Getting Started Questions",
+      "question": "What are the MicroSims and how do I use them?",
+      "answer": "MicroSims are small interactive simulations embedded in the chapters \u2014 23 in all, cataloged on the MicroSims page. Each one turns a concept into something you can operate: steer an attention spotlight, drag a reward along a delay curve and watch its motivational value collapse, or walk the family conflict cycle and cut it at its exits. They run in the page; each also has a fullscreen link and a short lesson plan. Nothing you do in a MicroSim leaves your browser.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "microsims",
+        "interactive",
+        "simulations"
+      ],
+      "source_links": [
+        "docs/sims/index.md"
+      ],
+      "has_example": false,
+      "word_count": 82
+    },
+    {
+      "id": "faq-006",
+      "category": "Getting Started Questions",
+      "question": "How should a family use this book together?",
+      "answer": "The book is built for shared reading: the person with ADHD and a family member read the same chapter and compare what rang true. Many chapters include a \"For both readers\" exercise designed to start that exact conversation \u2014 trading examples of attention steering in Chapter 1, mapping your household's executive-function trouble spots in Chapter 2, negotiating the help menu in Chapter 14. Reading together is not just preparation for helping; family psychoeducation is itself an evidence-backed intervention, as Chapter 8 explains. The two capstone documents in Chapter 15 \u2014 one written by each reader, then exchanged \u2014 are where the shared reading lands.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Family Psychoeducation"
+      ],
+      "keywords": [
+        "shared reading",
+        "family",
+        "together"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md",
+        "docs/chapters/08-treatment-beyond-medication/index.md",
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 104
+    },
+    {
+      "id": "faq-007",
+      "category": "Getting Started Questions",
+      "question": "Can this book diagnose me or someone I love?",
+      "answer": "No, and it says so plainly. The book explains what ADHD is, what an evaluation involves, and what a diagnosis means, so you can walk into the process informed \u2014 but only a qualified professional can diagnose, through the kind of thorough evaluation Chapter 5 describes. If reading the early chapters produces a strong feeling of recognition, the book's advice is consistent: treat that recognition as a valid reason to seek a proper evaluation, never as the evaluation itself.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "What A Diagnosis Means"
+      ],
+      "keywords": [
+        "diagnosis",
+        "self-diagnosis",
+        "evaluation"
+      ],
+      "source_links": [
+        "docs/chapters/05-getting-a-diagnosis/index.md"
+      ],
+      "has_example": false,
+      "word_count": 79
+    },
+    {
+      "id": "faq-008",
+      "category": "Getting Started Questions",
+      "question": "Does this book give medical or medication advice?",
+      "answer": "No. Chapter 7 explains how ADHD medications work, what titration is, and what questions to bring to appointments \u2014 but it contains no dosing advice and recommends no specific medication for any specific person. Every treatment decision in this book is framed the same way: informed by evidence, made with a qualified clinician.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Medication Overview"
+      ],
+      "keywords": [
+        "medical advice",
+        "dosing",
+        "prescriber"
+      ],
+      "source_links": [
+        "docs/chapters/07-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 53
+    },
+    {
+      "id": "faq-009",
+      "category": "Getting Started Questions",
+      "question": "How much time does the book take?",
+      "answer": "There are fifteen chapters totaling roughly 65,000 words \u2014 about the length of a short nonfiction book. A chapter takes most readers 20-35 minutes plus time with its MicroSims. Read one chapter a week with a shared conversation afterward and the whole book is a season; read it straight through and it is a long weekend. The ADHD-friendly advice from its own toolkit applies: a chapter a week on a standing calendar slot beats an ambitious plan that collapses by Thursday.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "time",
+        "length",
+        "chapters"
+      ],
+      "source_links": [],
+      "has_example": false,
+      "word_count": 81
+    },
+    {
+      "id": "faq-010",
+      "category": "Getting Started Questions",
+      "question": "What makes this book different from other ADHD books?",
+      "answer": "Three commitments. First, the dual audience: every major topic addresses the person with ADHD and their caregivers together, so both sides read the same book and meet in the middle. Second, special emphasis on the people the system misses \u2014 late-diagnosed adults, and girls and women whose masking hid the condition for decades (Chapter 4). Third, a strengths-honest stance: the book takes ADHD seriously as a disability where it is one and seriously as a difference with real strengths, without romanticizing either. It also treats supporting an adult without parenting them as a first-class subject (Chapter 14), and gives caregivers their own care chapter (Chapter 15).",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD"
+      ],
+      "keywords": [
+        "unique",
+        "dual audience",
+        "family-centered"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md",
+        "docs/chapters/14-family-life/index.md",
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 106
+    },
+    {
+      "id": "faq-011",
+      "category": "Getting Started Questions",
+      "question": "Where do I start if my family member was just diagnosed?",
+      "answer": "Read Chapter 1 first \u2014 it retires the myths (laziness, willpower, intelligence) that quietly damage families, and gives you the shared vocabulary everything else uses. Then read the section of Chapter 5 called \"What a Diagnosis Means \u2014 and Doesn't.\" If the person diagnosed is an adult, read Chapter 14 on supporting without parenting before you change anything about how you help. And if the diagnosis was late, Chapter 4's section on the adult diagnosis journey explains the relief-and-grief mix you may be watching.",
+      "bloom_level": "Apply",
+      "difficulty": "easy",
+      "concepts": [
+        "What A Diagnosis Means"
+      ],
+      "keywords": [
+        "new diagnosis",
+        "first steps",
+        "family"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/chapters/05-getting-a-diagnosis/index.md",
+        "docs/chapters/14-family-life/index.md",
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 84
+    },
+    {
+      "id": "faq-012",
+      "category": "Core Concept Questions",
+      "question": "How is attention actually supposed to work?",
+      "answer": "Attention is the brain's ability to select some information for processing and set the rest aside \u2014 a spotlight with an operator. It is really several skills working together: selecting a target, sustaining on it, resisting capture by louder or newer input, shifting deliberately when the task changes, and dividing when you must. ADHD is a problem with the *operator*, not the light: each of those steps costs more, especially for uninteresting targets. You can feel the difference yourself in the Attention Spotlight Simulator; Chapter 1 builds the whole model.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "Attention"
+      ],
+      "keywords": [
+        "attention",
+        "spotlight",
+        "selecting"
+      ],
+      "source_links": [
+        "docs/sims/attention-spotlight-simulator/index.md",
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 90
+    },
+    {
+      "id": "faq-013",
+      "category": "Core Concept Questions",
+      "question": "What does the prefrontal cortex do?",
+      "answer": "The front third of the brain, directly behind the forehead \u2014 the executive suite. It holds goals in mind, plans steps, suppresses derailing actions, weighs consequences, and adjusts when circumstances change. Two of its properties explain most of this book: it matures last (into the mid-20s, and later still in ADHD), and it is expensive to run \u2014 depleted by fatigue, stress, hunger, and poor sleep, which is why anyone's self-control is worse at 11 pm and why afternoon collapses after composed mornings are chemistry, not character. See Chapter 2.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Prefrontal Cortex"
+      ],
+      "keywords": [
+        "prefrontal",
+        "brain",
+        "self-control"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": false,
+      "word_count": 90
+    },
+    {
+      "id": "faq-014",
+      "category": "Core Concept Questions",
+      "question": "What is internal restlessness?",
+      "answer": "The hyperactive motor felt from inside with the outside stilled: a crawling, revving, can't-settle sensation \u2014 a mind that channel-surfs itself, a body that finds stillness genuinely uncomfortable even while sitting perfectly still. It is the form hyperactivity takes as people age and social pressure clamps the visible version, and it is among the most commonly reported adult symptoms \u2014 and the least visible to families. An adult saying \"I can't relax, my brain won't shut up, vacations stress me\" is reporting a core symptom, not ingratitude. See Chapter 3.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Internal Restlessness",
+        "Fidgeting"
+      ],
+      "keywords": [
+        "restlessness",
+        "inner motor",
+        "adults"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 90
+    },
+    {
+      "id": "faq-015",
+      "category": "Core Concept Questions",
+      "question": "What does ADHD look like in childhood?",
+      "answer": "Symptoms at their most visible: motor hyperactivity at its lifetime peak, impulsivity without social brakes, inattention colliding with school's first sit-still demands \u2014 which is why most diagnoses happen between six and nine, usually flagged by a teacher. The stage's blind spot: referral runs on disruption, so the child who bothers others gets evaluated while the quiet daydreamer reading two grade levels ahead never trips the alarm. And because parents and teachers do the executive functioning at this age, a well-scaffolded child can look nearly fine \u2014 support that quietly hides a skills gap the later transitions will expose. See Chapter 4.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD In Childhood"
+      ],
+      "keywords": [
+        "children",
+        "school",
+        "referral"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 102
+    },
+    {
+      "id": "faq-016",
+      "category": "Core Concept Questions",
+      "question": "How does ADHD change in the teenage years?",
+      "answer": "Three pressures converge. The visible motor goes underground \u2014 parents watch hyperactivity \"fade\" while inattention quietly takes over the grade book. Demands jump \u2014 seven teachers, long-horizon projects, and a planner-based life arrive exactly when adult supervision is expected to back off. And stakes get real: driving, substances, a permanent record. It is also when the gap versus peers looks widest, because classmates' self-management is accelerating while the maturation lag holds. The move that works is scaffolding *with* the teen rather than surveillance *around* them \u2014 systems they'll own pieces of, because the goal is transfer before the college cliff. See Chapter 4.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD In Adolescence",
+        "Driving And ADHD"
+      ],
+      "keywords": [
+        "teens",
+        "adolescence",
+        "middle school"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 103
+    },
+    {
+      "id": "faq-017",
+      "category": "Core Concept Questions",
+      "question": "What are the most damaging myths about ADHD?",
+      "answer": "The ones that convert symptoms into accusations. The laziness myth (\"they just don't want to work\") ignores the tell that separates ADHD from laziness: the suffering \u2014 lazy people are untroubled by not working; people with ADHD sit in escalating misery in front of the undone task. The willpower myth (\"just try harder\") prescribes the one strategy guaranteed to have already failed for years before anyone reaches an evaluation. Add the intelligence myth, the outgrow-it myth, and the modern-invention myth (clinical descriptions date to 1798) and you have Chapter 1's teardown table \u2014 and the Myth or Evidence Sorter to test yourself.",
+      "bloom_level": "Evaluate",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD Myths",
+        "Laziness Myth",
+        "Willpower Myth"
+      ],
+      "keywords": [
+        "myths",
+        "lazy",
+        "willpower"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/sims/myth-or-evidence-sorter/index.md"
+      ],
+      "has_example": false,
+      "word_count": 102
+    },
+    {
+      "id": "faq-018",
+      "category": "Core Concept Questions",
+      "question": "How does stigma actually hurt people with ADHD?",
+      "answer": "Through a feedback loop, not single insults. Public stigma (the jokes, the \"excuse\" talk) makes people hide symptoms and delay evaluation; delayed evaluation means years of unexplained struggle; unexplained struggle gets explained anyway \u2014 by the myths; the person internalizes those verdicts as self-stigma, which many late-diagnosed adults say hurt more than the symptoms; and the worsened visible struggle refreshes the public stigma. Families sit at the loop's two best cutting points: accurate information, and responding to symptoms with the regulation lens instead of character verdicts \u2014 because for one person's daily life, family is the loudest culture there is. Trace it yourself in The Stigma Cycle; Chapter 1 tells the full story.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD Stigma"
+      ],
+      "keywords": [
+        "stigma",
+        "judgment",
+        "hiding"
+      ],
+      "source_links": [
+        "docs/sims/stigma-cycle-diagram/index.md",
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 113
+    },
+    {
+      "id": "faq-019",
+      "category": "Core Concept Questions",
+      "question": "What happens to a family when one member has ADHD?",
+      "answer": "The system reorganizes around it, in patterns so consistent therapists can sketch them blind: one member absorbs the executive load and converts into a logistics department (the compensator); someone becomes the household's compliance officer (the auditor); the sibling without ADHD learns to need less and shine quietly; and resentments compound on both sides' ledgers. None of these roles is chosen \u2014 all are drift \u2014 and naming the system is itself the intervention, because a family that can say \"we've drifted into compensator-and-auditor\" has stopped arguing about who's lazy and who's a nag and started redesigning a system. Chapter 14 is the redesign manual.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Family System Impact",
+        "Caregiver Role"
+      ],
+      "keywords": [
+        "family system",
+        "roles",
+        "drift"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md"
+      ],
+      "has_example": false,
+      "word_count": 104
+    },
+    {
+      "id": "faq-020",
+      "category": "Core Concept Questions",
+      "question": "What is ADHD?",
+      "answer": "ADHD \u2014 Attention-Deficit/Hyperactivity Disorder \u2014 is a neurodevelopmental disorder defined by a persistent pattern of inattention and/or hyperactivity-impulsivity that is stronger than expected for a person's age, shows up across multiple settings, and genuinely interferes with life. \"Neurodevelopmental\" means it is brain-based, present from childhood, and lifelong \u2014 not caused by parenting, sugar, screens, or character. The name is admittedly a poor fit: attention isn't absent in ADHD, it steers unevenly. Chapter 1 builds this definition piece by piece.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD",
+        "Neurodevelopmental Disorder",
+        "Inattention",
+        "Hyperactivity",
+        "Impulsivity"
+      ],
+      "keywords": [
+        "definition",
+        "ADHD"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 79
+    },
+    {
+      "id": "faq-021",
+      "category": "Core Concept Questions",
+      "question": "What does \"ADHD is a regulation difference\" mean?",
+      "answer": "It is the single most useful sentence in the book: the core of ADHD is difficulty *regulating* \u2014 attention, action, impulses, emotions, motivation \u2014 rather than a shortage of any of those things. The capability is present; the management of it is inconsistent. This lens re-explains the observations that confuse families most: the child who plays chess for an hour but can't do five minutes of homework, the adult who hyperfocuses on a project all night but can't start the taxes. Through a deficit lens, those look like choices. Through a regulation lens, they are steering patterns \u2014 and steering patterns can be engineered around, which is what the whole second half of the book does. See Chapter 1.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD As Regulation Difference",
+        "Attention Regulation"
+      ],
+      "keywords": [
+        "regulation",
+        "deficit",
+        "lens"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 119
+    },
+    {
+      "id": "faq-022",
+      "category": "Core Concept Questions",
+      "question": "What is executive function?",
+      "answer": "Executive function is the umbrella name for the mental skills that manage other skills: holding information in mind while using it (working memory), stopping an action already loading (response inhibition), switching between tasks (cognitive flexibility), breaking goals into steps (planning), converting intention into action (task initiation), and tracking how you're doing (self-monitoring). Knowing how to do homework is a skill; getting yourself to start it is an executive function. ADHD is, in practical terms, executive function running inconsistently \u2014 which is why \"but she knows how to do this\" misses the point. Chapter 2 gives each component a plain-language name and a worked example.\n\n**Example:** A teen who aces the history test (knowledge) but leaves the finished permission slip on the counter (prospective memory) is showing exactly the split executive function predicts.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Executive Function",
+        "Response Inhibition",
+        "Cognitive Flexibility",
+        "Planning And Prioritizing",
+        "Self-Monitoring"
+      ],
+      "keywords": [
+        "executive function",
+        "skills",
+        "self-management"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": true,
+      "word_count": 132
+    },
+    {
+      "id": "faq-023",
+      "category": "Core Concept Questions",
+      "question": "What is working memory and why does it matter?",
+      "answer": "Working memory is the mental desk \u2014 the small workspace where you hold information *while using it*: a phone number while dialing, the first half of an instruction while hearing the second. It is small for everyone and smaller or leakier in ADHD. When it drops something, the information was never filed at all, which is why \"retracing your steps\" fails and why repeating an instruction louder doesn't help. The fix is never \"listen harder\" \u2014 it is writing things down at the moment they arrive, because paper has no capacity limit. See Chapter 2 and the externalizing systems in Chapter 9.\n\n**Example:** \"Print the deck, use Dana's updated numbers, and book the small room\" is three items on a desk that holds about three items \u2014 one of them usually slides off.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Working Memory"
+      ],
+      "keywords": [
+        "working memory",
+        "instructions",
+        "mental desk"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": true,
+      "word_count": 133
+    },
+    {
+      "id": "faq-024",
+      "category": "Core Concept Questions",
+      "question": "What is prospective memory?",
+      "answer": "Prospective memory is memory for intentions \u2014 remembering to *do* things at the moment they're due: take the medication at 8, bring the form Thursday, pick up the prescription after work. Its brutal feature is that nothing prompts it; the remembering has to fire by itself at the right instant. In ADHD it is among the most reliably impaired functions, and it is the single greatest generator of relationship damage, because from the outside a failed prospective-memory alarm is indistinguishable from not caring. The fix is refusing to let intentions live only in a brain: alarms set at the moment of promising, shared lists, items placed on the driving route. Chapter 2 explains the mechanism; Chapter 9 builds the system.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Prospective Memory"
+      ],
+      "keywords": [
+        "remembering to do",
+        "intentions",
+        "forgetting"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": false,
+      "word_count": 120
+    },
+    {
+      "id": "faq-025",
+      "category": "Core Concept Questions",
+      "question": "What does dopamine have to do with ADHD?",
+      "answer": "Dopamine is the neurotransmitter most tied to motivation and reward anticipation \u2014 the brain's tagging system for \"this matters, move toward it.\" In ADHD, dopamine signaling in the brain's reward circuits appears to run differently: weaker tagging for distant or mild rewards, stronger relative pull from immediate, novel, or intense ones. That is the engine under most everyday ADHD patterns \u2014 the deadline sprint, the abandoned hobby, the video-game hyperfocus. It is also why most ADHD medications work on dopamine and its partner norepinephrine. What it is not: a simple \"dopamine deficiency\" fixable with supplements \u2014 Chapter 1 takes that sales pitch apart, and Chapter 2 gives the honest version.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Dopamine",
+        "Reward System",
+        "Norepinephrine"
+      ],
+      "keywords": [
+        "dopamine",
+        "motivation",
+        "reward"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": false,
+      "word_count": 110
+    },
+    {
+      "id": "faq-026",
+      "category": "Core Concept Questions",
+      "question": "What is delay aversion, and why do deadlines change everything?",
+      "answer": "Everyone values a reward less as it moves away in time; in ADHD that discounting runs much steeper, so a reward three weeks out is motivationally almost invisible. This explains the pattern every family eventually notices: the assignment due tomorrow gets done tonight in ninety focused minutes, while the identical assignment due in three weeks sits untouched for twenty days \u2014 then gets done in the same ninety minutes the night before. Same student, same ability; the only variable was when the payoff entered motivational range. Deadlines don't create the ability, they move the reward close enough to see. The Reward Discounting Simulator lets you operate this curve directly, and Chapter 2 explains the research behind it.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Delay Aversion",
+        "Motivation And ADHD"
+      ],
+      "keywords": [
+        "deadlines",
+        "procrastination",
+        "discounting"
+      ],
+      "source_links": [
+        "docs/sims/reward-discounting-simulator/index.md",
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": false,
+      "word_count": 117
+    },
+    {
+      "id": "faq-027",
+      "category": "Core Concept Questions",
+      "question": "What is the interest-based nervous system?",
+      "answer": "A clinician's label (from William Dodson) for what reliably activates ADHD motivation: interest, novelty, challenge, urgency, and often competition or an audience \u2014 as opposed to the importance-based activation (priorities, obligations, consequences) that neurotypical planning runs on. It is a clinical description rather than a formal neuroscience category, but families find it immediately usable: stop asking \"how important is this?\" \u2014 a currency the system barely accepts \u2014 and start asking \"how can this become interesting, novel, urgent, or shared?\" Every practical trick in Chapter 9 \u2014 body doubling, gamified chores, artificial deadlines \u2014 is a currency exchange into one of those four.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Interest-Based Nervous System"
+      ],
+      "keywords": [
+        "interest",
+        "novelty",
+        "urgency",
+        "motivation"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": false,
+      "word_count": 103
+    },
+    {
+      "id": "faq-028",
+      "category": "Core Concept Questions",
+      "question": "Why is the ADHD brain described as maturing late?",
+      "answer": "Landmark brain-imaging studies that followed hundreds of children found the cortex in ADHD reaching its developmental milestones on the normal trajectory but roughly two to three years later \u2014 with the delay largest in the prefrontal regions that handle planning and self-control. That is why an 8-year-old with ADHD can seem, specifically in self-control terms, like a typical 5- or 6-year-old: in that dimension the comparison is close to literal. Three careful readings matter: it is a group average, not a measurement of your child; \"lag\" doesn't mean full catch-up \u2014 some differences persist into adulthood; and the lag is invisible from outside, so children get billed for hardware that isn't installed yet. See Chapter 2 and the Brain Development Timeline.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD Brain Maturation Lag",
+        "Brain Development"
+      ],
+      "keywords": [
+        "maturation",
+        "brain development",
+        "delay"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/sims/brain-development-timeline/index.md"
+      ],
+      "has_example": false,
+      "word_count": 121
+    },
+    {
+      "id": "faq-029",
+      "category": "Core Concept Questions",
+      "question": "What are the three presentations of ADHD?",
+      "answer": "The DSM-5 recognizes eighteen symptoms in two columns \u2014 nine inattentive, nine hyperactive-impulsive \u2014 and which column meets the diagnostic threshold determines the presentation. Predominantly inattentive: the daydreamer, the quietly drowning student, disproportionately girls and women, disproportionately missed. Predominantly hyperactive-impulsive: the classic visible picture, most common in young children and the rarest overall. Combined: both thresholds met, the most common in clinics. Crucially, presentations are snapshots that shift with age \u2014 a hyperactive child often becomes an inattentive-looking adult as the motor turns inward. Chapter 3 covers all three, and the Symptom and Presentation Explorer lets you operate the counting rules.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Inattentive Presentation",
+        "Hyperactive-Impulsive Type",
+        "Combined Presentation"
+      ],
+      "keywords": [
+        "presentations",
+        "types",
+        "subtypes"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md",
+        "docs/sims/symptom-presentation-explorer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 101
+    },
+    {
+      "id": "faq-030",
+      "category": "Core Concept Questions",
+      "question": "What is hyperfocus?",
+      "answer": "Hyperfocus is intense, tunnel-vision absorption \u2014 hours vanishing into a game, a project, or a rabbit hole, with time, hunger, and interruptions all muted. It is the other face of the same regulation coin: the spotlight that resists steering toward dull tasks also resists steering away from gripping ones. It is genuinely double-edged \u2014 aimed well, it produces extraordinary work; aimed anywhere, it makes a person unreachable and startled by nightfall. One family-relevant fact: being yanked out of hyperfocus is jarring and often triggers a snap that reads as hostility, so households do better with a negotiated interruption protocol than with shouted demands from another room. See Chapter 3.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "Hyperfocus"
+      ],
+      "keywords": [
+        "hyperfocus",
+        "absorption",
+        "tunnel vision"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 109
+    },
+    {
+      "id": "faq-031",
+      "category": "Core Concept Questions",
+      "question": "What is time blindness?",
+      "answer": "Time blindness is a weakened felt sense of time \u2014 how long things take, how much has passed, how far away a deadline sits. Researchers describe the ADHD time horizon as collapsed to \"now\" and \"not now\": a deadline is motivationally invisible until it crosses into now. Daily life: chronic lateness that surprises the person themselves, \"five more minutes\" that was forty, and the sincere belief that getting ready takes eight minutes when it has taken twenty-six every day this year. The fix is making time visible and external \u2014 analog clocks, countdown timers, and alarms at the *start* of getting-ready rather than at departure. Try measuring your own felt time in the Time Blindness Challenge; Chapter 3 has the full picture.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "Time Blindness"
+      ],
+      "keywords": [
+        "time",
+        "lateness",
+        "estimation"
+      ],
+      "source_links": [
+        "docs/sims/time-blindness-challenge/index.md",
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 122
+    },
+    {
+      "id": "faq-032",
+      "category": "Core Concept Questions",
+      "question": "What is masking?",
+      "answer": "Masking is the continuous, effortful concealment of symptoms \u2014 suppressing the fidget, rehearsing sentences to avoid blurting, triple-checking everything to hide the forgetting \u2014 plus the constructive twin, compensation: self-built workarounds that deliver normal-looking results at abnormal private cost. Three facts organize everything the book does with it: masking *works*, which is why masked ADHD goes undiagnosed for decades; it is *expensive*, spending the same executive budget everything else needs, with the bill arriving at home; and it *corrodes* from inside \u2014 exhaustion, anxiety, and the loneliness of being valued for a performance. The school-home behavior gap most families puzzle over is usually masking's bill coming due. See Chapter 3.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Masking",
+        "Compensation Strategies"
+      ],
+      "keywords": [
+        "masking",
+        "hiding",
+        "compensation"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 110
+    },
+    {
+      "id": "faq-033",
+      "category": "Core Concept Questions",
+      "question": "Why does my family member do fine some days and fall apart on others?",
+      "answer": "Because variability is the signature of the condition, not evidence against it. Symptoms genuinely change strength with the situation \u2014 interest, novelty, urgency, one-on-one attention, and immediate feedback all reduce them \u2014 and with the day: sleep, load, and stress move the executive budget. The trap families fall into is weaponizing the good day: \"you did it perfectly last week, so I know you can\" converts a best-ever performance into the new minimum standard. The accurate reading of a great day is \"conditions lined up,\" and the useful move is asking *which* conditions so you can line them up on purpose. Chapter 3 explains both concepts.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Performance Inconsistency",
+        "Situational Variability"
+      ],
+      "keywords": [
+        "inconsistency",
+        "good days",
+        "variability"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 106
+    },
+    {
+      "id": "faq-034",
+      "category": "Core Concept Questions",
+      "question": "Is ADHD really 70-80% heritable?",
+      "answer": "Yes \u2014 twin studies consistently put ADHD's heritability around 70-80%, roughly the heritability of height. Identical twins, who share all their genes, match on ADHD far more often than fraternal twins, who share half. There is no single \"ADHD gene\"; hundreds of common variants each nudge the odds. Two family implications: a child's diagnosis is frequently the clue that leads to a parent's own late diagnosis (the waiting-room moment in Chapter 1), and guilt about \"passing it on\" deserves retirement \u2014 nobody chooses their genes, and the same inheritance carries the strengths.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Genetics Of ADHD",
+        "Heritability Research"
+      ],
+      "keywords": [
+        "genetics",
+        "heritability",
+        "family"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 92
+    },
+    {
+      "id": "faq-035",
+      "category": "Core Concept Questions",
+      "question": "What actually causes ADHD \u2014 and what doesn't?",
+      "answer": "The evidence points to genes, heavily (70-80% heritability), plus modest early biological risk factors: prematurity, low birth weight, and prenatal exposure to alcohol, tobacco, or lead. The well-studied list of things that do **not** cause ADHD: sugar (tested repeatedly; the effect isn't there), screens and video games (they can worsen symptoms, they don't create the condition), parenting style (chaotic homes amplify struggles; calm homes contain plenty of ADHD), and vaccines (no credible evidence, ever). If someone in your family is quietly blaming themselves, this list is for them. See Chapter 1.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "Causes Of ADHD",
+        "Environmental Risk Factors"
+      ],
+      "keywords": [
+        "causes",
+        "sugar",
+        "screens",
+        "parenting"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 91
+    },
+    {
+      "id": "faq-036",
+      "category": "Core Concept Questions",
+      "question": "Why do girls and women get diagnosed so much later?",
+      "answer": "Because the referral system runs on disruption, and girls with ADHD disrupt less. They are more likely to have the inattentive presentation \u2014 the daydreamer by the window, not the boy out of his seat \u2014 and their struggle tends to turn inward as anxiety, perfectionism, and quiet shame rather than outward as behavior anyone flags. High-achieving girls add the cruelest layer: intelligence plus perfectionism builds a compensation machine that produces good grades while the private cost accumulates, so the diagnostic system's impairment requirement sees nothing wrong. The result: childhood diagnosis ratios near three boys per girl, converging toward parity in adulthood \u2014 a backlog of missed girls arriving at clinics decades late, typically via a crisis or their own child's diagnosis. Chapter 4 is the full story.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Gender Diagnosis Gap",
+        "ADHD In Girls",
+        "Late Diagnosis In Women",
+        "Internalized Symptoms",
+        "High Achievement Masking",
+        "ADHD In Women"
+      ],
+      "keywords": [
+        "girls",
+        "women",
+        "late diagnosis",
+        "missed"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 128
+    },
+    {
+      "id": "faq-037",
+      "category": "Core Concept Questions",
+      "question": "Does ADHD go away with age?",
+      "answer": "Mostly no \u2014 longitudinal research shows a substantial majority of childhood cases carry impairing symptoms into adult life. What changes is the costume: visible hyperactivity usually goes inside, becoming internal restlessness, overcommitment, the jiggling knee, and the mind with forty tabs open. An adult who \"sits still now\" hasn't necessarily outgrown anything; the presentation shifted while the invisible half kept running. Adult prevalence runs around 2.5-4%. Chapter 3 covers the shift; Chapter 4 follows it across the lifespan.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "ADHD In Adulthood",
+        "Restlessness In Adults",
+        "ADHD In Older Adults"
+      ],
+      "keywords": [
+        "outgrow",
+        "adults",
+        "persistence"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md",
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 78
+    },
+    {
+      "id": "faq-038",
+      "category": "Core Concept Questions",
+      "question": "What is emotional dysregulation, and is it part of ADHD?",
+      "answer": "Yes \u2014 emotions that arrive faster, hit harder, and take longer to release are part of ADHD's core machinery, even though they were dropped from the formal diagnostic criteria along the way. The mechanism is the same brake that fails on blurted words failing on feelings headed for expression. Two facts change how households read the storms: the reaction is real, not theatrical \u2014 nobody chooses the surge, only what happens next \u2014 and the storm passes fast, typically a squall rather than a front, which is why the person is often puzzled that everyone else is still shaken an hour later. Chapter 11 covers the storms and the learnable skills for steering them.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Emotional Dysregulation"
+      ],
+      "keywords": [
+        "emotions",
+        "anger",
+        "storms"
+      ],
+      "source_links": [
+        "docs/chapters/11-emotional-life-and-identity/index.md"
+      ],
+      "has_example": false,
+      "word_count": 114
+    },
+    {
+      "id": "faq-039",
+      "category": "Core Concept Questions",
+      "question": "What is rejection sensitive dysphoria (RSD)?",
+      "answer": "RSD is the community's name \u2014 coined by clinician William Dodson, and not a formal diagnosis \u2014 for a specific, brutal pattern: disproportionate, sometimes physically painful emotional collapse in response to rejection, criticism, or *perceived* failure, including rejection that turns out to be imagined. The \"ok\" text read as relationship-ending; the one item of feedback that erases the week. Its signature is speed and totality \u2014 it arrives as fact, in the body, not as a thought to evaluate. Knowing its name is genuinely therapeutic: \"this is the RSD spike, it's a false alarm at least half the time, and it will pass.\" For families, the rule is reassure during the spike, never litigate the trigger's size mid-storm. See Chapter 11 and the Ninety-Second Storm Explorer.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Rejection Sensitive Dysphoria"
+      ],
+      "keywords": [
+        "RSD",
+        "rejection",
+        "criticism"
+      ],
+      "source_links": [
+        "docs/chapters/11-emotional-life-and-identity/index.md",
+        "docs/sims/emotion-storm-explorer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 126
+    },
+    {
+      "id": "faq-040",
+      "category": "Core Concept Questions",
+      "question": "Are there real strengths that come with ADHD?",
+      "answer": "The book's answer is deliberately two-sided. No, ADHD is not a superpower \u2014 the impairments are real, and telling a drowning person they're secretly lucky insults the water. And yes, the strengths are real: divergent creative thinking (with actual research behind it), energy and enthusiasm that can outwork a building when pointed at loved work, crisis calm, and a resilience forged by decades of adapting and rebuilding. Some strengths are the same traits that impair, running in contexts that reward them. Naming them matters practically, not decoratively: Chapter 13 argues that designing life around your traits beats fighting them, and you can't design around strengths you haven't inventoried. See Chapter 11.",
+      "bloom_level": "Evaluate",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD Strengths",
+        "Creativity And ADHD"
+      ],
+      "keywords": [
+        "strengths",
+        "creativity",
+        "superpower"
+      ],
+      "source_links": [
+        "docs/chapters/13-work-and-career/index.md",
+        "docs/chapters/11-emotional-life-and-identity/index.md"
+      ],
+      "has_example": false,
+      "word_count": 111
+    },
+    {
+      "id": "faq-041",
+      "category": "Core Concept Questions",
+      "question": "What is cognitive load, and why does it explain so many evening fights?",
+      "answer": "Cognitive load is the total demand on working memory and executive systems at a given moment \u2014 every instruction held, decision pending, and distraction resisted draws on one small budget. ADHD's budget is smaller and drains faster, and load is invisible, so observers bill people for failures of an account they can't see. \"Empty the dishwasher\" is trivial on a fresh budget and genuinely undoable at 9 pm after a day of masking at school or work \u2014 and the snap it provokes reads as attitude when it's arithmetic. The load lens converts whole categories of family fight into engineering problems: fewer simultaneous demands, instructions on paper, and hard conversations scheduled for funded hours. See Chapter 2.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Cognitive Load"
+      ],
+      "keywords": [
+        "load",
+        "budget",
+        "evenings",
+        "overwhelm"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md"
+      ],
+      "has_example": false,
+      "word_count": 117
+    },
+    {
+      "id": "faq-042",
+      "category": "Technical Detail Questions",
+      "question": "How do I read an evaluation report?",
+      "answer": "Like a map, not a title page. Check the conclusion's specificity (a real one names the presentation); find the evidence trail (interview findings, scale scores, collateral, childhood documentation); read the differential paragraph closely \u2014 co-occurring diagnoses listed there set up everything that follows; and mine the recommendations section, which is frequently the most valuable and least read part: treatment directions, accommodation language schools and employers will accept verbatim, and referrals. Store the document somewhere retrievable \u2014 accommodation processes will ask for exactly this file for years. Chapter 5 includes a worked example of two families reading the same report very differently.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Evaluation Report"
+      ],
+      "keywords": [
+        "report",
+        "results",
+        "reading"
+      ],
+      "source_links": [
+        "docs/chapters/05-getting-a-diagnosis/index.md"
+      ],
+      "has_example": false,
+      "word_count": 101
+    },
+    {
+      "id": "faq-043",
+      "category": "Technical Detail Questions",
+      "question": "What does the DSM-5 actually require for an ADHD diagnosis?",
+      "answer": "Five gates, all of which must be met: at least 6 of 9 symptoms in a category (5 for people 17 and older); present at least six months at a level out of step with developmental age; several symptoms present before age 12; symptoms in two or more settings; and clear interference with functioning \u2014 plus a check that nothing else explains the picture better. The counting rules are what separate a lifelong regulation pattern from a rough semester. Chapter 1 walks the criteria; Chapter 5 shows how evaluators apply them.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "DSM-5 Definition Of ADHD",
+        "Symptom Thresholds",
+        "Age Of Onset Criterion",
+        "Impairment Criterion",
+        "Symptom Criteria"
+      ],
+      "keywords": [
+        "DSM-5",
+        "criteria",
+        "requirements"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md",
+        "docs/chapters/05-getting-a-diagnosis/index.md"
+      ],
+      "has_example": false,
+      "word_count": 91
+    },
+    {
+      "id": "faq-044",
+      "category": "Technical Detail Questions",
+      "question": "What's the difference between ADD and ADHD?",
+      "answer": "ADD (Attention Deficit Disorder) was the official name from 1980 to 1987 and survives in everyday speech, but it hasn't been a diagnosis for decades. Today there is one condition \u2014 ADHD \u2014 with three presentations, and what people mean by \"ADD\" is now \"ADHD, predominantly inattentive presentation.\" If a grandparent or an old school record uses ADD, nothing is wrong; the vocabulary is just from a previous edition. See Chapter 1.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "ADD Vs ADHD Terminology"
+      ],
+      "keywords": [
+        "ADD",
+        "terminology",
+        "old name"
+      ],
+      "source_links": [
+        "docs/chapters/01-what-adhd-is/index.md"
+      ],
+      "has_example": false,
+      "word_count": 72
+    },
+    {
+      "id": "faq-045",
+      "category": "Technical Detail Questions",
+      "question": "What does a thorough ADHD evaluation include?",
+      "answer": "Every legitimate evaluation is built from the same components: a long clinical interview (the spine \u2014 60-90 minutes walking current symptoms, history back to childhood, sleep, family history), standardized rating scales with population norms, self-report questionnaires, collateral information from people who see the person daily, and childhood evidence such as old report cards. Neuropsychological testing is optional \u2014 valuable for complicated pictures, not required for diagnosis \u2014 and a computer attention test is one data point, never the verdict. There is no blood test and no diagnostic brain scan. Chapter 5 explains each piece and the Anatomy of a Thorough Evaluation makes it explorable.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Diagnostic Evaluation",
+        "Clinical Interview",
+        "ADHD Rating Scales",
+        "Self-Report Questionnaires",
+        "Collateral Information",
+        "Childhood History Requirement",
+        "Neuropsychological Testing",
+        "Continuous Performance Tests"
+      ],
+      "keywords": [
+        "evaluation",
+        "components",
+        "assessment"
+      ],
+      "source_links": [
+        "docs/chapters/05-getting-a-diagnosis/index.md",
+        "docs/sims/evaluation-anatomy-map/index.md"
+      ],
+      "has_example": false,
+      "word_count": 104
+    },
+    {
+      "id": "faq-046",
+      "category": "Technical Detail Questions",
+      "question": "Who is qualified to diagnose ADHD?",
+      "answer": "In the US, three main figures: psychiatrists (medical doctors who can diagnose and prescribe \u2014 strongest for complicated pictures), psychologists (doctoral-level clinicians who conduct the most thorough testing but mostly don't prescribe), and primary care providers (who diagnose much real-world ADHD, best for straightforward childhood presentations). Some other licensed professionals can diagnose depending on the state. The license matters less than the process \u2014 which is why Chapter 5 teaches you to judge the evaluation itself.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Who Can Diagnose ADHD",
+        "Psychiatrists",
+        "Psychologists",
+        "Primary Care Providers"
+      ],
+      "keywords": [
+        "diagnose",
+        "clinician",
+        "qualified"
+      ],
+      "source_links": [
+        "docs/chapters/05-getting-a-diagnosis/index.md"
+      ],
+      "has_example": false,
+      "word_count": 76
+    },
+    {
+      "id": "faq-047",
+      "category": "Technical Detail Questions",
+      "question": "What are stimulant medications and how do they work?",
+      "answer": "Stimulants are the first-line ADHD medications, in exactly two classes: methylphenidate (the molecule in Ritalin and Concerta) and amphetamines (the molecules in Adderall and Vyvanse). Both raise dopamine and norepinephrine signaling in the prefrontal circuits that do the steering \u2014 methylphenidate mainly by blocking the \"vacuum\" that recycles those messengers, amphetamines by also nudging more release. In a brain whose regulation circuits are under-signaling, stimulating those circuits produces better steering, which often looks like calm \u2014 the famous \"paradox\" that was never a paradox. Across the two classes, roughly 70-80% of people respond meaningfully, and response to one class doesn't predict the other. Chapter 7 covers all of it, with no dosing advice.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Stimulant Medications",
+        "How Stimulants Work",
+        "Methylphenidate",
+        "Amphetamine Medications",
+        "Dopamine Reuptake",
+        "Medication Overview"
+      ],
+      "keywords": [
+        "stimulants",
+        "methylphenidate",
+        "amphetamine"
+      ],
+      "source_links": [
+        "docs/chapters/07-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 113
+    },
+    {
+      "id": "faq-048",
+      "category": "Technical Detail Questions",
+      "question": "What are the non-stimulant options?",
+      "answer": "The second family: slower-acting, generally more modest on average, genuinely valuable in specific situations \u2014 stimulant side effects, co-occurring conditions that tilt the calculus, or preference. Atomoxetine (Strattera) blocks norepinephrine reuptake and builds effect over several weeks. Guanfacine and clonidine work on different receptors and are used especially in children, often alongside a stimulant, with particular value for reactivity and sleep-onset trouble. Prescribers also sometimes use off-label options like bupropion. All of it is prescriber territory; Chapter 7 equips you for that conversation.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Non-Stimulant Medications",
+        "Atomoxetine",
+        "Guanfacine",
+        "Off-Label Options"
+      ],
+      "keywords": [
+        "non-stimulant",
+        "Strattera",
+        "guanfacine"
+      ],
+      "source_links": [
+        "docs/chapters/07-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 83
+    },
+    {
+      "id": "faq-049",
+      "category": "Technical Detail Questions",
+      "question": "What is titration?",
+      "answer": "Titration is the deliberate process of finding the right medication and dose: start low, hold each step for days to weeks, collect structured feedback, and adjust \u2014 up, down, sideways to a different release form, or across to the other class. The effective dose is a property of an individual nervous system, findable only by trying; expect several weeks to a few months to a settled regimen, sometimes with an overshoot along the way (flatness or irritability that steps the dose back down \u2014 the system working, not failing). Structured weekly tracking is the family's biggest contribution. See Chapter 7 and the Titration Response Tracker.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Titration",
+        "Finding The Right Dose",
+        "Tracking Medication Response"
+      ],
+      "keywords": [
+        "titration",
+        "dose",
+        "adjustment"
+      ],
+      "source_links": [
+        "docs/chapters/07-medication/index.md",
+        "docs/sims/titration-response-tracker/index.md"
+      ],
+      "has_example": false,
+      "word_count": 105
+    },
+    {
+      "id": "faq-050",
+      "category": "Technical Detail Questions",
+      "question": "What side effects should we watch for with stimulants?",
+      "answer": "The honest list: reduced appetite (the most common \u2014 worked around with breakfast before the dose and calories at wear-off), delayed sleep onset, headaches and stomachaches early on, small increases in heart rate and blood pressure (hence the cardiac screening questions), emotional flatness or irritability (usually a wrong-dose signal, not a preview of medicated life), and end-of-dose \"rebound\" \u2014 the 5 pm cliff many parents recognize. Most are front-loaded in the first weeks and manageable by engineering. Report everything with times of day; the prescriber is tuning against exactly that data. Chapter 7 covers each one.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Side Effects",
+        "Appetite And Sleep Effects",
+        "Cardiovascular Considerations",
+        "Medication Onset And Duration"
+      ],
+      "keywords": [
+        "side effects",
+        "appetite",
+        "sleep"
+      ],
+      "source_links": [
+        "docs/chapters/07-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 96
+    },
+    {
+      "id": "faq-051",
+      "category": "Technical Detail Questions",
+      "question": "What is an IEP, and how is it different from a 504 plan?",
+      "answer": "Both are US legal vehicles for school support, on different chassis. A 504 plan (civil-rights law) provides *access* changes \u2014 extended test time, preferential seating, written instructions \u2014 without changing what is taught. An IEP (special-education law) provides everything a 504 can, plus actual services, instruction changes, and measurable annual goals, with a mandated team and annual review. Rule of thumb: a 504 changes the conditions; an IEP can change the teaching. Many students with ADHD are well served by a 504; ADHD plus a learning disability often needs the IEP. Chapter 12 has the comparison table and the request playbook.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "IEP",
+        "504 Plan",
+        "School Accommodations",
+        "Requesting Accommodations"
+      ],
+      "keywords": [
+        "IEP",
+        "504",
+        "school plans"
+      ],
+      "source_links": [
+        "docs/chapters/12-school-and-college/index.md"
+      ],
+      "has_example": false,
+      "word_count": 101
+    },
+    {
+      "id": "faq-052",
+      "category": "Technical Detail Questions",
+      "question": "How do college accommodations work?",
+      "answer": "On a different legal chassis than K-12 \u2014 IEPs end at high school graduation \u2014 and with one structural change that matters more than every detail: the student drives everything. The college acts only when the student self-identifies to disability services, provides documentation, and completes intake; parents are legally outside the process. Typical accommodations: extended test time, reduced-distraction testing rooms, note-taking support, priority registration. One quirk catches students every term: accommodation letters must usually be *activated* \u2014 requested each term and delivered to each professor \u2014 which is itself a prospective-memory task that belongs on a calendar with an alarm. See Chapter 12.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "College Disability Services",
+        "College Accommodations"
+      ],
+      "keywords": [
+        "college",
+        "disability services",
+        "letters"
+      ],
+      "source_links": [
+        "docs/chapters/12-school-and-college/index.md"
+      ],
+      "has_example": false,
+      "word_count": 103
+    },
+    {
+      "id": "faq-053",
+      "category": "Technical Detail Questions",
+      "question": "What workplace protections does the ADA provide?",
+      "answer": "In the US, the Americans with Disabilities Act requires employers with 15+ employees to provide reasonable accommodations to qualified employees with disabilities \u2014 and ADHD can qualify when it substantially limits major life activities. Key details: you must be able to perform the job's essential functions with or without accommodation; the employer owes an interactive process, not your first-choice fix; and protection only activates once the employer knows \u2014 which is the disclosure decision. Most ADHD accommodations are cheap and quiet: written follow-ups, agendas in advance, deadline checkpoints, focus blocks. Chapter 13 covers the law and the strategy.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "ADA Basics",
+        "Workplace Accommodations"
+      ],
+      "keywords": [
+        "ADA",
+        "workplace",
+        "accommodations"
+      ],
+      "source_links": [
+        "docs/chapters/13-work-and-career/index.md"
+      ],
+      "has_example": false,
+      "word_count": 98
+    },
+    {
+      "id": "faq-054",
+      "category": "Technical Detail Questions",
+      "question": "What is comorbidity, and how common is it with ADHD?",
+      "answer": "Comorbidity means two or more conditions in the same person \u2014 and with ADHD it is the norm, not the exception: studies consistently find a majority of children with ADHD (commonly cited around two-thirds) have at least one traveling condition, with adult rates comparably high. The common travelers: anxiety, depression, learning disabilities, autism, sleep disorders, and more. The practical habit it teaches: when treatment stalls or a new life stage collapses, ask \"what else is true?\" before turning the one dial you know. Chapter 6 is the field guide, and the Comorbidity Map makes the relationships explorable.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Comorbidity"
+      ],
+      "keywords": [
+        "comorbidity",
+        "co-occurring",
+        "conditions"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md",
+        "docs/sims/comorbidity-map/index.md"
+      ],
+      "has_example": false,
+      "word_count": 97
+    },
+    {
+      "id": "faq-055",
+      "category": "Technical Detail Questions",
+      "question": "How is ADHD different from bipolar disorder?",
+      "answer": "The surfaces overlap \u2014 energy, impulsivity, talkativeness, sleep changes \u2014 but the distinguishing structure is time. ADHD is chronic and always-on: traits present since childhood, varying by situation but never absent for months. Bipolar disorder is episodic: distinct periods, days to weeks long, that are a departure from the person's baseline, often with reduced *need* for sleep (not trouble sleeping \u2014 genuinely not needing it). \"She's always been like this\" points one way; \"this is a different person than last month\" points the other. Both can be true in one person, which is psychiatrist territory. See Chapter 6.",
+      "bloom_level": "Analyze",
+      "difficulty": "hard",
+      "concepts": [
+        "Bipolar Disorder Distinction"
+      ],
+      "keywords": [
+        "bipolar",
+        "differential",
+        "episodes"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md"
+      ],
+      "has_example": false,
+      "word_count": 98
+    },
+    {
+      "id": "faq-056",
+      "category": "Technical Detail Questions",
+      "question": "Can you have both autism and ADHD?",
+      "answer": "Yes \u2014 and medicine only officially admitted it in 2013, when the DSM-5 first allowed both diagnoses in one person. They co-occur often enough that clinicians now screen for each when they find the other. They share surface features (social friction, sensory sensitivity, executive struggles) with different machinery underneath: ADHD's social missteps are typically performance failures \u2014 the person knows the norms and blurts anyway \u2014 while autistic social differences involve the norms themselves being non-obvious. This book covers autism only at that boundary; Chapter 6 explains when to seek autism-specific resources.",
+      "bloom_level": "Remember",
+      "difficulty": "medium",
+      "concepts": [
+        "Autism And ADHD"
+      ],
+      "keywords": [
+        "autism",
+        "AuDHD",
+        "co-occurring"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md"
+      ],
+      "has_example": false,
+      "word_count": 92
+    },
+    {
+      "id": "faq-057",
+      "category": "Technical Detail Questions",
+      "question": "What is body doubling?",
+      "answer": "Doing your work in the presence of another person who is simply there \u2014 working on their own things, not helping and not supervising. The spouse reading nearby during tax preparation; the friend on a muted video call doing separate chores. Mere presence supplies mild arousal, a whiff of social accountability, and interest-currency \u2014 enough to convert some people's worst task categories from impossible to routine. It costs nothing and is the first thing to try on any chronically stalled chore. One caution for helpers: narrating or correcting converts a body double into a foreman and cancels the effect. See Chapter 9.",
+      "bloom_level": "Remember",
+      "difficulty": "easy",
+      "concepts": [
+        "Body Doubling"
+      ],
+      "keywords": [
+        "body doubling",
+        "presence",
+        "coworking"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": false,
+      "word_count": 102
+    },
+    {
+      "id": "faq-058",
+      "category": "Technical Detail Questions",
+      "question": "What is the Pomodoro technique, and why does it fit ADHD?",
+      "answer": "A work rhythm: commit to one task for a fixed sprint (classically 25 minutes), take a short timed break, repeat. It fits the ADHD brain for three mechanical reasons: the sprint is small enough for the starter motor (you're not starting the thesis, you're starting 25 minutes), the ticking countdown manufactures urgency the far deadline can't supply, and the sanctioned break gives restlessness a legal exit. ADHD adaptations: tune sprint length to your actual attention, alarm the *end* of the break (where Pomodoro dies), and if hyperfocus arrives on the right task, let it run. See Chapter 9.",
+      "bloom_level": "Understand",
+      "difficulty": "easy",
+      "concepts": [
+        "Pomodoro Technique"
+      ],
+      "keywords": [
+        "pomodoro",
+        "timer",
+        "sprints"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": false,
+      "word_count": 98
+    },
+    {
+      "id": "faq-059",
+      "category": "Technical Detail Questions",
+      "question": "What is an ADHD coach, and how is that different from a therapist?",
+      "answer": "A coach works on this week's actual logistics \u2014 systems, schedules, accountability check-ins \u2014 without treating mental illness; a therapist (for ADHD, ideally ADHD-adapted CBT) works on the thought habits and avoidance loops built during the unmanaged years, plus co-occurring anxiety or depression. Coaching suits people whose main need is scaffolding; therapy suits internalized-verdict work and clinical conditions. One consumer caution: \"coach\" is an unregulated title anyone can claim, so vet credentials and ask how they handle missed sessions \u2014 the answer reveals whether they understand ADHD. Chapter 8 maps who does what.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD Coaching",
+        "Cognitive Behavioral Therapy"
+      ],
+      "keywords": [
+        "coaching",
+        "therapy",
+        "difference"
+      ],
+      "source_links": [
+        "docs/chapters/08-treatment-beyond-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 93
+    },
+    {
+      "id": "faq-060",
+      "category": "Technical Detail Questions",
+      "question": "What is the treatment evidence hierarchy?",
+      "answer": "The two-minute version of how medicine ranks proof: anecdotes and testimonials at the bottom (unverifiable, cherry-picked), expert opinion above that, observational studies next, randomized controlled trials near the top (chance decides who gets the treatment, so groups differ only by treatment), and meta-analyses pooling many trials at the summit. You don't need to read studies \u2014 you need to ask which floor a claim lives on. Stimulants and parent training live at the top; neurofeedback's effects shrink as controls improve (the classic tell); supplement blends live on the testimonial floor. See Chapter 8 and the Treatment Evidence Explorer.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Treatment Evidence Hierarchy",
+        "Evaluating Treatment Claims",
+        "Supplement Claims"
+      ],
+      "keywords": [
+        "evidence",
+        "pyramid",
+        "studies"
+      ],
+      "source_links": [
+        "docs/chapters/08-treatment-beyond-medication/index.md",
+        "docs/sims/treatment-evidence-explorer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 98
+    },
+    {
+      "id": "faq-061",
+      "category": "Common Challenge Questions",
+      "question": "Why is the first year of college so dangerous for students with ADHD?",
+      "answer": "Because in one week the student loses every external structure that was quietly doing their executive functioning \u2014 parents' schedule, teachers who notice, daily deadlines, enforced routines \u2014 and gains 30 invisible self-scheduled study hours, a December deadline mentioned in August, and total anonymity. That is a direct assault on exactly the functions ADHD impairs: initiation without deadlines, time management without anchors, prospective memory without cues. The classic casualty is the bright, masked student whose intelligence improvised past every earlier demand. The preparation that beats all others: transfer the systems in eleventh grade, while mistakes are cheap \u2014 and register with disability services before the first semester, not after the first disaster. See Chapter 12 and Chapter 4.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD In College Years",
+        "Transition To College",
+        "Academic Transitions",
+        "Independent Living Skills"
+      ],
+      "keywords": [
+        "college",
+        "freshman",
+        "collapse"
+      ],
+      "source_links": [
+        "docs/chapters/12-school-and-college/index.md",
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 118
+    },
+    {
+      "id": "faq-062",
+      "category": "Common Challenge Questions",
+      "question": "Why can't my son just start his homework?",
+      "answer": "Because starting is its own brain function \u2014 task initiation, the starter motor \u2014 separate from ability and separate from desire. A distant due date sits below the motivation threshold (delay aversion), and a big vague assignment offers the starter motor nothing its size to grab. The tell that this isn't indifference: the misery. Genuinely unbothered people don't sit in escalating distress in front of the undone thing. What works: shrink the first step to ninety seconds (\"open the portal and screenshot the requirements\"), add urgency or company (a timer, a body double), and anchor homework to a decision-free time and place. Chapter 2 explains the machinery; Chapter 9 and the Next-Action Trainer build the fix.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Task Initiation",
+        "Procrastination"
+      ],
+      "keywords": [
+        "homework",
+        "starting",
+        "procrastination"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/09-building-daily-systems/index.md",
+        "docs/sims/next-action-trainer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 116
+    },
+    {
+      "id": "faq-063",
+      "category": "Common Challenge Questions",
+      "question": "Why does she forget things I told her five minutes ago, but remember our first date perfectly?",
+      "answer": "Because those are different memory machines. Long-term memory \u2014 the filing cabinet \u2014 is generally fine in ADHD, which is why 2014's insult and your first date are in high fidelity. What fails are the operations that route through executive systems: encoding (information that arrives while working memory is full never gets filed at all) and prospective memory (remembering to act at the right unprompted moment). The forgetting isn't selective by importance \u2014 it's selective by *cue*: what got externalized fires; what lived only in a brain doesn't. Sorting a week of forgetting by cue availability, together, ends more \"you'd remember if you cared\" fights than any apology. See Chapter 2 and Chapter 3.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD And Memory",
+        "Forgetfulness",
+        "Losing Things",
+        "Working Memory",
+        "Prospective Memory"
+      ],
+      "keywords": [
+        "forgetting",
+        "memory",
+        "selective"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 114
+    },
+    {
+      "id": "faq-064",
+      "category": "Common Challenge Questions",
+      "question": "Why do reminders turn into fights in our house?",
+      "answer": "Because of a predictable loop, not a character flaw on either side. An unrequested verbal reminder lands on the same leaky working memory as the original task, so it gets repeated; irritation loads onto the repetition; the person with ADHD starts reacting to the tone instead of the content (the RSD alarm reads it as correction); reminders get tuned out wholesale; the reminder-giver escalates. Six months later one person is \"a nag\" and the other is \"impossible\" \u2014 and both are right. The exit is structural: reminders move from people to systems, by agreement \u2014 alarms and shared boards do the nagging, and the human sentence becomes \"want me to add it to the board?\" Chapter 14 and the Conflict Cycle Breaker map the loop and its exits.",
+      "bloom_level": "Analyze",
+      "difficulty": "medium",
+      "concepts": [
+        "Reminders Without Nagging",
+        "Parent-Child Conflict Cycles",
+        "Rejection Sensitive Dysphoria"
+      ],
+      "keywords": [
+        "nagging",
+        "reminders",
+        "fights"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md",
+        "docs/sims/conflict-cycle-breaker/index.md"
+      ],
+      "has_example": false,
+      "word_count": 128
+    },
+    {
+      "id": "faq-065",
+      "category": "Common Challenge Questions",
+      "question": "Why does every system we set up stop working after a few weeks?",
+      "answer": "Because that is normal operation, not failure. Novelty is fuel for this brain, and every new system arrives with a full tank that burns down over weeks \u2014 the abandoned-planner curve. People whose lives look organized aren't running ten-year-old systems; they're running this month's versions: patched, shrunk, restarted. The missing skill is maintenance: a ten-minute weekly review (with its own alarm) asking what's decaying and what the five-minute patch is, deliberate novelty refreshes, and cheerful funerals for dead systems that harvest the parts that worked. A system that ran six weeks worked for six weeks. Chapter 10 treats this as the hardest skill in the toolkit.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "System Maintenance"
+      ],
+      "keywords": [
+        "systems fail",
+        "novelty",
+        "abandoned planner"
+      ],
+      "source_links": [
+        "docs/chapters/10-tools-and-system-upkeep/index.md"
+      ],
+      "has_example": false,
+      "word_count": 106
+    },
+    {
+      "id": "faq-066",
+      "category": "Common Challenge Questions",
+      "question": "My child behaves at school and falls apart at home. Are we doing something wrong?",
+      "answer": "Almost certainly the opposite. Holding it together at school is expensive masking \u2014 suppressing the fidget, forcing the focus, performing fine \u2014 and it spends the same executive budget everything else runs on. The bill arrives at 3:30 in your kitchen because home is where the mask can come off. The book's counsel: hear the school-home gap as evidence of effort, and read the fact that the collapse happens *with you* as a form of trust rather than targeting. Practical help: a decompression buffer after school before any demands, and hard asks scheduled for funded hours, not the empty 9 pm account. See Chapter 3.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Masking",
+        "Cognitive Load"
+      ],
+      "keywords": [
+        "school-home gap",
+        "meltdowns",
+        "masking"
+      ],
+      "source_links": [
+        "docs/chapters/03-presentations-and-traits/index.md"
+      ],
+      "has_example": false,
+      "word_count": 105
+    },
+    {
+      "id": "faq-067",
+      "category": "Common Challenge Questions",
+      "question": "Why is bedtime such a battle \u2014 for kids and adults?",
+      "answer": "Three converging mechanisms. Many people with ADHD run a genuinely delayed body clock that isn't ready for sleep until well past midnight. The default mode network starts racing the moment the lights go off. And \"revenge bedtime procrastination\" \u2014 staying up because night is finally the quiet, demand-free time that never appeared during the day \u2014 steals the rest. It matters doubly because sleep loss degrades exactly the functions ADHD already strains, so a short night amplifies the condition itself. Fixes are boring and effective: a fixed wake time (the anchor), morning light, a wind-down with its own start alarm, and scheduled enjoyable time *earlier* in the evening so \"me time\" doesn't have to be stolen from sleep. See Chapter 2, Chapter 6, and Chapter 8.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "Sleep And The ADHD Brain",
+        "Delayed Sleep Phase Syndrome",
+        "Sleep Disorders",
+        "Sleep Hygiene",
+        "Default Mode Network"
+      ],
+      "keywords": [
+        "sleep",
+        "bedtime",
+        "night owl"
+      ],
+      "source_links": [
+        "docs/chapters/02-the-adhd-brain/index.md",
+        "docs/chapters/06-co-occurring-conditions/index.md",
+        "docs/chapters/08-treatment-beyond-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 126
+    },
+    {
+      "id": "faq-068",
+      "category": "Common Challenge Questions",
+      "question": "The medication seemed to stop working. What should we check before raising the dose?",
+      "answer": "Re-screen before you re-dose. A treatment that \"stops working\" at a new life stage is often something else arriving: a learning disability finally exceeding its camouflage (is the collapse domain-specific?), sleep (a body clock at 2 am, morning fog), anxiety or depression (does interest still light anything up?), substance self-medication, or burnout after a long masking run. Also check the unglamorous basics: is the medication actually being taken (prospective memory), and did demands simply outgrow the support system? A dose change might still be right \u2014 but it's one hypothesis among several, and the others don't respond to milligrams. Chapter 6 has the full checklist.",
+      "bloom_level": "Evaluate",
+      "difficulty": "hard",
+      "concepts": [
+        "Medication And Comorbidities",
+        "Screening For Comorbidities",
+        "Learning Disabilities"
+      ],
+      "keywords": [
+        "medication stopped working",
+        "re-screen",
+        "dose"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md"
+      ],
+      "has_example": false,
+      "word_count": 105
+    },
+    {
+      "id": "faq-069",
+      "category": "Common Challenge Questions",
+      "question": "How do I know if it's ADHD or just anxiety (or depression)?",
+      "answer": "You mostly don't, alone \u2014 that's the differential-diagnosis work of a thorough evaluation, and the honest answer is often \"both.\" But the textures differ. Anxiety alone shreds focus through worry; ADHD's inattention drifts toward interest even when nothing is wrong. Depression flattens even the interesting things for weeks; ADHD's discouragement is situational and lights up when novelty arrives. And the timeline talks: ADHD's pattern runs back to childhood, while a picture that genuinely began at 35 points elsewhere. Years of unexplained ADHD also *manufacture* anxiety and depression, which is why evaluators ask what came first. See Chapter 5 and Chapter 6.",
+      "bloom_level": "Analyze",
+      "difficulty": "hard",
+      "concepts": [
+        "Differential Diagnosis",
+        "Anxiety Disorders"
+      ],
+      "keywords": [
+        "anxiety",
+        "depression",
+        "differential"
+      ],
+      "source_links": [
+        "docs/chapters/05-getting-a-diagnosis/index.md",
+        "docs/chapters/06-co-occurring-conditions/index.md"
+      ],
+      "has_example": false,
+      "word_count": 101
+    },
+    {
+      "id": "faq-070",
+      "category": "Common Challenge Questions",
+      "question": "What is ADHD burnout?",
+      "answer": "The crash at the end of an unsustainable compensation run: profound exhaustion, plummeting function, and emotional depletion after months or years of masking and white-knuckled over-performance. It looks like depression from outside (and can become it), but its signature is collapse-after-overextension \u2014 the all-nighter machine running until it doesn't, often at a first job or after a life transition. The remedy starts with reducing load and rebuilding sustainable supports; pushing through is the disease. For families: a burned-out person hasn't become lazy \u2014 they've hit the wall the mask was hiding. See Chapter 6.",
+      "bloom_level": "Understand",
+      "difficulty": "medium",
+      "concepts": [
+        "ADHD Burnout"
+      ],
+      "keywords": [
+        "burnout",
+        "collapse",
+        "exhaustion"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md"
+      ],
+      "has_example": false,
+      "word_count": 94
+    },
+    {
+      "id": "faq-071",
+      "category": "Common Challenge Questions",
+      "question": "I think I've had ADHD my whole life. Is it worth getting diagnosed at my age?",
+      "answer": "The honest case for yes has four parts: treatment works in adults; the explanation has value independent of treatment (it redirects decades of self-blame toward mechanism); it unlocks practical doors like workplace accommodations; and, given the heritability, it often improves how quickly your children's ADHD gets recognized. The case for \"not now\" \u2014 cost, waitlists, a stable life that's working \u2014 also deserves respect. Two things to expect on the journey: the near-universal waiting-room doubt (\"what if I'm faking?\" \u2014 a normal station, not a verdict), and, if the answer is yes, relief arriving braided with grief for the unexplained decades. Both are covered in Chapter 4 and the Adult Diagnosis Journey Map.",
+      "bloom_level": "Evaluate",
+      "difficulty": "medium",
+      "concepts": [
+        "Late Diagnosis",
+        "Adult Diagnosis Journey"
+      ],
+      "keywords": [
+        "late diagnosis",
+        "adult",
+        "worth it"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md",
+        "docs/sims/adult-diagnosis-journey-map/index.md"
+      ],
+      "has_example": false,
+      "word_count": 113
+    },
+    {
+      "id": "faq-072",
+      "category": "Common Challenge Questions",
+      "question": "How do we handle the emotional explosions?",
+      "answer": "With engineering, not virtue. The surge peaks and begins to fall within roughly ninety seconds *if it isn't refueled by action* \u2014 so the whole game is buying ninety seconds. Pre-decided mechanical buys: the drafts-folder rule (hot messages get written and saved, never sent, for an hour), the leave-the-room protocol agreed in advance (\"I'm taking ten\" is the skill working, not storming off \u2014 and the return is guaranteed), and spending the surge somatically (stairs, a walk). For the family: reassure during a spike; never litigate the trigger's size mid-storm \u2014 and praise the pause when you see it. Chapter 11 teaches the skills; the Ninety-Second Storm Explorer lets you practice them.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Emotion Regulation Skills",
+        "Pausing Before Reacting",
+        "Emotional Dysregulation",
+        "Emotional Impulsivity"
+      ],
+      "keywords": [
+        "explosions",
+        "anger",
+        "pause"
+      ],
+      "source_links": [
+        "docs/chapters/11-emotional-life-and-identity/index.md",
+        "docs/sims/emotion-storm-explorer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 112
+    },
+    {
+      "id": "faq-073",
+      "category": "Common Challenge Questions",
+      "question": "What do we do about the shame \u2014 theirs and ours?",
+      "answer": "Name the mechanism first: by some estimates a child with ADHD hears tens of thousands more corrective messages by age twelve than a typical child, and no child files those as commentary on neurology \u2014 they file them as data about who they are. Guilt says \"I did a bad thing\" and repairs; shame says \"I am the bad thing\" and hides \u2014 the unopened mail, the two-day avoidance of a two-minute task. The repair work is real: self-compassion (which research shows *improves* follow-through, unlike shame), reframing the past against mechanism instead of character, sometimes ADHD-adapted therapy. For families: watch your corrective-message ratio \u2014 you control today's weather \u2014 and offer the reframe out loud: \"we were grading you on hardware you didn't have.\" See Chapter 11 and Chapter 4.",
+      "bloom_level": "Apply",
+      "difficulty": "hard",
+      "concepts": [
+        "Shame And ADHD",
+        "Self-Compassion",
+        "Years Of Negative Feedback",
+        "Self-Esteem And ADHD",
+        "Cognitive Reframing",
+        "Reframing Your Past"
+      ],
+      "keywords": [
+        "shame",
+        "self-esteem",
+        "repair"
+      ],
+      "source_links": [
+        "docs/chapters/11-emotional-life-and-identity/index.md",
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 130
+    },
+    {
+      "id": "faq-074",
+      "category": "Best Practice Questions",
+      "question": "What is externalizing memory, and what's the one rule to start with?",
+      "answer": "The master principle of the entire toolkit: if it matters, it doesn't live in your head. Move information out of the brain and into reliable external storage \u2014 paper, phone, whiteboard, alarm, a bowl by the door \u2014 at the moment it arrives. It patches the two most reliable failure points at once: working memory (information never encoded can't be recalled) and prospective memory (intentions kept \"in mind\" don't fire on schedule). The starter rule: one capture point with a monopoly \u2014 every commitment and idea lands in the same always-present place, captured mid-conversation if necessary. Chapter 9 builds the whole system from this principle.\n\n**Example:** Promising to pick up a prescription and, at the moment of promising, setting a 5:05 pm alarm labeled \"PHARMACY before home\" \u2014 in front of the person you promised.",
+      "bloom_level": "Apply",
+      "difficulty": "easy",
+      "concepts": [
+        "Externalizing Memory",
+        "Capture Systems"
+      ],
+      "keywords": [
+        "externalize",
+        "capture",
+        "write it down"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": true,
+      "word_count": 135
+    },
+    {
+      "id": "faq-075",
+      "category": "Best Practice Questions",
+      "question": "How should to-do lists work for an ADHD brain?",
+      "answer": "Three rules fix most of what standard list advice gets wrong. Keep today's list to three to five items, physically separate from the everything-list \u2014 a forty-item list is decision paralysis printed out, and its daily non-completion is a shame generator. Write items as physical actions, not topics: \"find last year's return in email and download it,\" never \"work on taxes\" \u2014 the test of a real next action is that you could start it right now without deciding anything further. And put the list where the eyes already go, because a list that must be remembered-to-be-checked dies by the exact failure it was built to fix. See Chapter 9 and the Next-Action Trainer.",
+      "bloom_level": "Apply",
+      "difficulty": "easy",
+      "concepts": [
+        "To-Do Lists That Work",
+        "Defining Next Actions",
+        "Task Breakdown",
+        "Decision Paralysis"
+      ],
+      "keywords": [
+        "to-do list",
+        "today list",
+        "next actions"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md",
+        "docs/sims/next-action-trainer/index.md"
+      ],
+      "has_example": false,
+      "word_count": 114
+    },
+    {
+      "id": "faq-076",
+      "category": "Best Practice Questions",
+      "question": "What's the best way to defend focus from the phone?",
+      "answer": "In layers, because single defenses fail independently and stacks degrade gracefully: physical distance (the phone charges in the kitchen during work), friction (a 30-second unblock delay beats an absolute wall, which gets uninstalled by day four), silence (notifications off by default, re-authorizing only the short list that genuinely warrants an interruption), and urgency (a visible sprint timer). Schedule blocks in advance \u2014 the decision to block made calmly at breakfast beats the same decision attempted mid-doomscroll. And treat defeats as data: 9 pm tired-scrolling is usually a sleep problem wearing a willpower costume. Chapter 10 and the Distraction Defense Lab let you test the stack.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Distraction Blockers",
+        "Notification Management"
+      ],
+      "keywords": [
+        "phone",
+        "focus",
+        "blockers"
+      ],
+      "source_links": [
+        "docs/chapters/10-tools-and-system-upkeep/index.md",
+        "docs/sims/distraction-defense-lab/index.md"
+      ],
+      "has_example": false,
+      "word_count": 105
+    },
+    {
+      "id": "faq-077",
+      "category": "Best Practice Questions",
+      "question": "How do we make mornings less chaotic?",
+      "answer": "Move every possible decision to the night before, because mornings run on the day's least medicated, most rushed brain. The evening \"launchpad\" ritual \u2014 bag packed, clothes chosen, keys in the bowl, tomorrow's three-item list written \u2014 takes five minutes and de-mines the morning into pure execution on rails. Keep the live morning sequence stupid-simple (three to five steps), posted where it happens, anchored to an existing event (\"after the coffee finishes,\" which survives weekends) rather than a clock time. When the routine collapses \u2014 it will \u2014 rebuild it shrunk, not bigger. See Chapter 9.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Morning Routines",
+        "Evening Routines",
+        "Routines And Habits",
+        "Habit Stacking",
+        "Environment Design"
+      ],
+      "keywords": [
+        "mornings",
+        "routines",
+        "launchpad"
+      ],
+      "source_links": [
+        "docs/chapters/09-building-daily-systems/index.md"
+      ],
+      "has_example": false,
+      "word_count": 96
+    },
+    {
+      "id": "faq-078",
+      "category": "Best Practice Questions",
+      "question": "How should families divide chores when one person has ADHD?",
+      "answer": "By task *shape*, not just quantity. The partner with ADHD may be catastrophic at recurring-invisible-deadline tasks (bills, renewals, scheduling \u2014 pure prospective memory) and genuinely excellent at burst tasks (the pre-guest deep-clean, crisis repairs, elaborate cooking \u2014 anything with urgency or novelty). A fitted split beats a \"fair\" 50/50 that guarantees failures. Two conditions: burst work must count as real work in the fairness accounting, and the recurring tasks the ADHD partner keeps must be armored with systems, not promises. Also divide the *mental load* \u2014 the tracking, not just the doing \u2014 by transferring whole domains (\"you own everything car-shaped: noticing, scheduling, doing\") and automating what no one should carry. See Chapter 14 and Chapter 15.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Dividing Household Labor",
+        "Dividing Mental Load"
+      ],
+      "keywords": [
+        "chores",
+        "fairness",
+        "mental load"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md",
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 117
+    },
+    {
+      "id": "faq-079",
+      "category": "Best Practice Questions",
+      "question": "How do I support my adult child without parenting them?",
+      "answer": "Hold one distinction: support is what the person asked for; parenting is what you decided they need. The same act can be either \u2014 the test is always \"who asked?\" The protocol: ask what kind of help is wanted before providing any (offer the menu: solutions, company, a reminder system, or just listening), wait to be invited into problems you've noticed, and let a declined offer stand \u2014 including when you're fairly sure the consequence will arrive, because adults own their consequences and intercepting them blocks the learning while broadcasting \"I don't believe you can run your life.\" The narrow exception that outranks autonomy: genuine safety signals, not lifestyle choices. Chapter 14 treats this as the book's hardest and most important discipline.",
+      "bloom_level": "Apply",
+      "difficulty": "hard",
+      "concepts": [
+        "Supporting Without Parenting",
+        "Adult Child Autonomy"
+      ],
+      "keywords": [
+        "adult child",
+        "autonomy",
+        "boundaries"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md"
+      ],
+      "has_example": false,
+      "word_count": 122
+    },
+    {
+      "id": "faq-080",
+      "category": "Best Practice Questions",
+      "question": "Should I tell my employer about my ADHD?",
+      "answer": "It's a strategic decision with real trade-offs, not a moral test of self-acceptance \u2014 and deciding not to disclose is a legitimate outcome. The graduated path most people use: start by asking informally for the specific conditions you need, no diagnosis attached (\"I do my best work with written follow-ups and morning focus blocks \u2014 can we set that up?\"); escalate to partial disclosure (\"a medical condition that affects attention\") if needed; reserve formal ADA disclosure \u2014 in writing, through HR \u2014 for when you need the actual legal machinery, and do it *before* a performance crisis, never after. Decide in calm weather with a trusted sounding board. Chapter 13 and the Disclosure Decision Navigator walk the ladder.",
+      "bloom_level": "Evaluate",
+      "difficulty": "hard",
+      "concepts": [
+        "Workplace Disclosure"
+      ],
+      "keywords": [
+        "disclosure",
+        "employer",
+        "work"
+      ],
+      "source_links": [
+        "docs/chapters/13-work-and-career/index.md",
+        "docs/sims/disclosure-decision-navigator/index.md"
+      ],
+      "has_example": false,
+      "word_count": 118
+    },
+    {
+      "id": "faq-081",
+      "category": "Best Practice Questions",
+      "question": "How do I choose work that fits an ADHD brain?",
+      "answer": "Invert the question: not \"what's wrong with me at this job?\" but \"what does this job pay for, and is it what my brain produces?\" Fit is a shape, not a job-title list: urgency or deadline rhythm built in, novelty and variation, visible immediate results, movement, and interest strong enough to survive the field's boring stretches. The shapes that fight: long-horizon self-scheduled work with no external structure, and high-volume administrative precision. Before quitting, try renegotiating \u2014 the job is often wrong by 30%, and 30% is tradeable. The same person can be the office disaster or the team's engine depending on the water. See Chapter 13.",
+      "bloom_level": "Evaluate",
+      "difficulty": "medium",
+      "concepts": [
+        "Career Fit",
+        "ADHD-Friendly Jobs"
+      ],
+      "keywords": [
+        "career",
+        "job fit",
+        "choosing work"
+      ],
+      "source_links": [
+        "docs/chapters/13-work-and-career/index.md"
+      ],
+      "has_example": false,
+      "word_count": 106
+    },
+    {
+      "id": "faq-082",
+      "category": "Best Practice Questions",
+      "question": "How should I study if I have ADHD?",
+      "answer": "Make studying an activity with feedback, never an exposure. Rereading and highlighting are passive \u2014 eyes finish the page, nothing lands. The replacements: active recall (close the book and retrieve \u2014 flashcards, practice problems, blank-page brain dumps), spaced repetition run by an app that fires (never by prospective memory), reading converted into a search task (write three questions the section should answer before starting), and writing split into ugly-draft-then-edit so perfectionism can't block the start. For tests: write a per-section time budget on the margin at minute zero, and annotate question stems to slow the impulsive first-plausible-answer grab. Chapter 12 covers each technique.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Study Strategies",
+        "Active Recall",
+        "Spaced Repetition",
+        "Reading With ADHD",
+        "Writing With ADHD",
+        "Test-Taking Strategies"
+      ],
+      "keywords": [
+        "studying",
+        "active recall",
+        "school"
+      ],
+      "source_links": [
+        "docs/chapters/12-school-and-college/index.md"
+      ],
+      "has_example": false,
+      "word_count": 103
+    },
+    {
+      "id": "faq-083",
+      "category": "Best Practice Questions",
+      "question": "What actually helps besides medication?",
+      "answer": "The strong-evidence, non-pill list: behavioral parent training (the best-evidenced intervention for young children \u2014 first-line before medication for preschoolers), ADHD-adapted CBT for adults and teens, psychoeducation (learning how ADHD works measurably changes outcomes \u2014 reading this book together counts), sleep repair (the cheapest symptom reduction available), and regular exercise (real short-term attention effects, modest long-term ones). Moderate evidence: adapted mindfulness. Honest verdicts on the contested: omega-3 has a real but small effect; neurofeedback's results shrink as study controls improve; supplement blends live on the testimonial floor. The consensus is a portfolio, not a silver bullet. Chapter 8 ranks everything honestly.",
+      "bloom_level": "Evaluate",
+      "difficulty": "medium",
+      "concepts": [
+        "Multimodal Treatment",
+        "Behavioral Parent Training",
+        "Cognitive Behavioral Therapy",
+        "Psychoeducation",
+        "Exercise As Treatment",
+        "Mindfulness And Meditation",
+        "Omega-3 Evidence",
+        "Neurofeedback Evidence"
+      ],
+      "keywords": [
+        "non-medication",
+        "therapy",
+        "treatment"
+      ],
+      "source_links": [
+        "docs/chapters/08-treatment-beyond-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 100
+    },
+    {
+      "id": "faq-084",
+      "category": "Best Practice Questions",
+      "question": "How do we rebuild after a blowup?",
+      "answer": "With a sequence, usable by either person. Wait out the squall (minutes, not days \u2014 and respect the other person's longer recovery: \"I know you're past it; I need ten more minutes\" is legitimate in both directions). Repair the relationship before relitigating the content: \"that got away from us \u2014 we're okay \u2014 can we try again after dinner?\" Own your side in mechanism terms without hiding behind them: \"my alarm system failed and I snapped when you raised it \u2014 the snap's on me; here's what I'm changing.\" Then close with a system change, because a repair that ends in hugs but no redesign schedules the same fight for next month. Families that repair well fight cheaper, then less. See Chapter 14.",
+      "bloom_level": "Apply",
+      "difficulty": "medium",
+      "concepts": [
+        "Repair After Conflict"
+      ],
+      "keywords": [
+        "repair",
+        "apology",
+        "after fight"
+      ],
+      "source_links": [
+        "docs/chapters/14-family-life/index.md"
+      ],
+      "has_example": false,
+      "word_count": 123
+    },
+    {
+      "id": "faq-085",
+      "category": "Best Practice Questions",
+      "question": "What should go in a Personal Owner's Manual?",
+      "answer": "The book's first capstone: a short document the person with ADHD writes for the people who love them. Its sections, each built by an earlier chapter: how my brain works (the mechanism paragraph, written without shame); my executive-function profile; my conditions (when I work best, what reliably breaks me); my tells and my weather (what overwhelm looks like from outside, what helps mid-squall); what masking costs me and where the mask comes off; the systems I run; the help I actually want \u2014 and don't; and my strengths. Two pages is plenty. The Capstone Builder walks you through it section by section, saving only to your own browser; Chapter 15 has the template.",
+      "bloom_level": "Create",
+      "difficulty": "medium",
+      "concepts": [
+        "Personal Owner's Manual"
+      ],
+      "keywords": [
+        "owner's manual",
+        "capstone",
+        "self-knowledge"
+      ],
+      "source_links": [
+        "docs/sims/capstone-builder/index.md",
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 113
+    },
+    {
+      "id": "faq-086",
+      "category": "Advanced Topic Questions",
+      "question": "How do caregivers avoid burning out?",
+      "answer": "By treating caregiver strain as a first-class clinical topic rather than a virtue contest. Strain progresses from tiredness to resentment (the ledger) to the dangerous stage: identity (\"I'm the one who holds everything together\"), where help gets refused because being needed became the compensation. The self-screening tells: you can't remember your last unscheduled afternoon; your inner monologue about your person is mostly audit; your own things have quietly disappeared; offers of help irritate you. The kit is unglamorous: your own sleep, your own activities kept on the calendar with appointment status, respite that is genuinely off-duty, a support group of your own, and boundaries \u2014 their unopened mail and treatment choices are not yours to manage. The airline instruction is a procedure, not a metaphor. Chapter 15.",
+      "bloom_level": "Evaluate",
+      "difficulty": "hard",
+      "concepts": [
+        "Caregiver Strain",
+        "Caregiver Self-Care",
+        "Caregiver Burnout",
+        "Respite And Boundaries",
+        "Support For Caregivers",
+        "Caregiver Role"
+      ],
+      "keywords": [
+        "caregiver burnout",
+        "strain",
+        "oxygen mask"
+      ],
+      "source_links": [
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 127
+    },
+    {
+      "id": "faq-087",
+      "category": "Advanced Topic Questions",
+      "question": "What is the partner-parent trap, and how do couples escape it?",
+      "answer": "The drift where one partner slides from lover into logistics manager \u2014 tracking, reminding, auditing \u2014 and the other into supervised teenager. Research on ADHD-affected couples names it the strongest predictor of misery, for a blunt reason: nobody sustains desire for their case manager. Each rescue is individually reasonable; the sum is a role. The exits: move the load to systems rather than to the non-ADHD partner (the shared calendar does the reminding), divide labor by task shape with the tracking included, quarantine logistics into a weekly twenty-minute meeting so date night can be date night, and deliberately re-book time in the roles the drift crowded out. See Chapter 15 and Chapter 14.",
+      "bloom_level": "Analyze",
+      "difficulty": "hard",
+      "concepts": [
+        "Partner-Parent Trap"
+      ],
+      "keywords": [
+        "partner",
+        "marriage",
+        "case manager"
+      ],
+      "source_links": [
+        "docs/chapters/15-partners-and-caregivers/index.md",
+        "docs/chapters/14-family-life/index.md"
+      ],
+      "has_example": false,
+      "word_count": 113
+    },
+    {
+      "id": "faq-088",
+      "category": "Advanced Topic Questions",
+      "question": "How does ADHD interact with hormones across a woman's life?",
+      "answer": "Estrogen interacts with the dopamine systems ADHD runs on, so hormonal shifts move symptom intensity \u2014 a late-arriving research area most evaluations never mention. Three checkpoints: many women report symptoms and medication effectiveness dipping in the premenstrual days when estrogen falls (tracking symptoms against the cycle for two or three months turns a mystery into a calendar); pregnancy and especially postpartum combine hormone shifts with sleep deprivation and new executive demands \u2014 a predictable spike to plan around; and menopause, where falling estrogen weakens decades-old compensation systems, is producing today's wave of diagnoses at fifty. A woman who \"suddenly develops attention problems\" at 51 deserves both hormonal and lifelong-history questions \u2014 the explanations are not rivals. Chapter 4.",
+      "bloom_level": "Understand",
+      "difficulty": "hard",
+      "concepts": [
+        "Hormones And ADHD",
+        "Menopause And ADHD"
+      ],
+      "keywords": [
+        "hormones",
+        "menstrual",
+        "menopause"
+      ],
+      "source_links": [
+        "docs/chapters/04-adhd-across-the-lifespan/index.md"
+      ],
+      "has_example": false,
+      "word_count": 118
+    },
+    {
+      "id": "faq-089",
+      "category": "Advanced Topic Questions",
+      "question": "Is stimulant medication risky for people with substance-use concerns?",
+      "answer": "The evidence surprises most families: untreated ADHD carries elevated substance risk (earlier starts, faster escalation \u2014 often self-medication of under-arousal or misery), while *treating* ADHD shows neutral-to-protective effects on that risk. Medical formulations are engineered opposite to abuse pharmacology \u2014 slow delivery to the brain is the safety feature. Where real substance-use history exists, prescribers adjust: long-acting formulations with lower diversion potential, non-stimulants, closer monitoring \u2014 and severe dependence can jump the treatment queue entirely. The family's job is honest reporting, not managing the chemistry. See Chapter 6 and Chapter 7.",
+      "bloom_level": "Evaluate",
+      "difficulty": "hard",
+      "concepts": [
+        "Substance Use Risk",
+        "Stimulant Misconceptions"
+      ],
+      "keywords": [
+        "substance use",
+        "addiction",
+        "stimulants"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md",
+        "docs/chapters/07-medication/index.md"
+      ],
+      "has_example": false,
+      "word_count": 91
+    },
+    {
+      "id": "faq-090",
+      "category": "Advanced Topic Questions",
+      "question": "How should someone with ADHD approach remote work?",
+      "answer": "Eyes open to both edges. The gains: total environment control, no commute, no open-office capture field. The losses: the entire invisible scaffold of a workplace \u2014 ambient body doubling, physical transitions that bound the day, visible social accountability. Fully remote plus ADHD plus no compensating structure is the college cliff with a salary. The engineering: a dedicated workspace with a boundary, virtual body-doubling sessions, hard start/stop rituals replacing the commute's transitions, and deliberately over-communicated visibility \u2014 ship stage plans, because remote work makes output the only signal, which punishes quiet strugglers and rewards externalizers. See Chapter 13.",
+      "bloom_level": "Evaluate",
+      "difficulty": "hard",
+      "concepts": [
+        "Remote Work And ADHD"
+      ],
+      "keywords": [
+        "remote work",
+        "home office",
+        "structure"
+      ],
+      "source_links": [
+        "docs/chapters/13-work-and-career/index.md"
+      ],
+      "has_example": false,
+      "word_count": 97
+    },
+    {
+      "id": "faq-091",
+      "category": "Advanced Topic Questions",
+      "question": "What does a good family support plan contain?",
+      "answer": "The book's second capstone, written by the family as their half of the alliance \u2014 a plan for the family's own conduct, never a management plan for the person. Sections: our understanding (the mechanism-language summary, including the myths being retired); our agreements (the shared calendar, reminder channels and their limits, the meeting slot, the squall and repair protocols \u2014 each traceable to \"who asked?\"); our lines (no unrequested tracking, no treatment surveillance, consequences belong to their owner \u2014 plus the narrow safety exception, written down in calm weather); each supporter's role, including who is deliberately just family; the caregiver's own plan, in writing; and a review date. Exchange it for the Owner's Manual over a scheduled dinner. Chapter 15 and the Capstone Builder.",
+      "bloom_level": "Create",
+      "difficulty": "hard",
+      "concepts": [
+        "Family Support Plan"
+      ],
+      "keywords": [
+        "support plan",
+        "capstone",
+        "family agreements"
+      ],
+      "source_links": [
+        "docs/chapters/15-partners-and-caregivers/index.md",
+        "docs/sims/capstone-builder/index.md"
+      ],
+      "has_example": false,
+      "word_count": 123
+    },
+    {
+      "id": "faq-092",
+      "category": "Advanced Topic Questions",
+      "question": "How do you tell ADHD-related struggles from trauma responses?",
+      "answer": "Carefully, and usually with professional help, because the surfaces overlap: hypervigilance, concentration problems, emotional volatility, and disrupted sleep can look strikingly like ADHD. The differential runs on onset and texture \u2014 a lifelong pattern versus a change after events, and interest-steered drift versus threat-scanning attention. Both can be true in one person, and children with ADHD are at elevated risk of accumulating adverse experiences, so the conditions entangle. The clinical rule the book emphasizes: when trauma is in the history, it needs its own treatment lane \u2014 no stimulant treats hypervigilance. See Chapter 6 and Chapter 5.",
+      "bloom_level": "Analyze",
+      "difficulty": "hard",
+      "concepts": [
+        "Trauma And ADHD"
+      ],
+      "keywords": [
+        "trauma",
+        "differential",
+        "hypervigilance"
+      ],
+      "source_links": [
+        "docs/chapters/06-co-occurring-conditions/index.md",
+        "docs/chapters/05-getting-a-diagnosis/index.md"
+      ],
+      "has_example": false,
+      "word_count": 97
+    },
+    {
+      "id": "faq-093",
+      "category": "Advanced Topic Questions",
+      "question": "Our systems, meds, and agreements all decayed this year. Did we fail?",
+      "answer": "No \u2014 you reached the maintenance stage, which is the book's actual final lesson. Systems are perishable by design for this brain: novelty fuel burns down, plans stop fitting new life stages, and the conflict loop resumes on decayed infrastructure. The move is the one the toolkit taught: no character verdicts, a cheerful funeral for what died, harvest the parts that worked, restart shrunk (maybe just the shared calendar and one weekly meeting), and reread the capstone documents together with a new review date. Rebuilding is not the fallback plan; it is the plan. Chapter 10 for systems; Chapter 15 for the family version.",
+      "bloom_level": "Evaluate",
+      "difficulty": "medium",
+      "concepts": [
+        "System Maintenance",
+        "Family Meetings"
+      ],
+      "keywords": [
+        "decay",
+        "relapse",
+        "starting over"
+      ],
+      "source_links": [
+        "docs/chapters/10-tools-and-system-upkeep/index.md",
+        "docs/chapters/15-partners-and-caregivers/index.md"
+      ],
+      "has_example": false,
+      "word_count": 104
+    }
+  ]
+}
