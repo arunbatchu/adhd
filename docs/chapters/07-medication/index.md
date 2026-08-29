@@ -58,6 +58,11 @@ No ADHD topic carries more freight than medication. One grandparent is sure it's
 
 Two boundaries, stated up front because they're load-bearing. This book gives no dosing advice and recommends no specific medication for any specific person — that is the prescriber's job, done with a medical history in hand. And medication is a *choice*, not a consequence of diagnosis: some people take it and call it life-changing, some try it and stop, some never start, and all three can be reasonable outcomes of a good decision process. What this chapter guarantees is that your version of that process will be informed.
 
+!!! mascot-welcome "The most loaded topic in the book"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    One grandparent is certain it's overprescribed mind control; one influencer is certain it's a miracle. This chapter clears the freight so you can make an actual decision — which is what this is, not a consequence of the diagnosis. I'll sit with you.
+
 ## The Lay of the Land
 
 The **medication overview** in one honest paragraph: ADHD medications are the most-studied psychiatric medications in children and among the best-evidenced treatments in all of psychiatry. They divide into two families — stimulants and non-stimulants. Stimulants are the first-line treatment in most guidelines because their evidence is strongest: across the two stimulant classes, roughly 70-80% of people respond meaningfully. They begin working within an hour of a dose and stop when the dose wears off — which makes them unusually *testable*: a trial tells you something in weeks, not months. Non-stimulants are the smaller, slower-acting family — genuine alternatives when stimulants don't fit. What medication does, when it works, follows straight from Chapter 2: it raises dopamine and norepinephrine signaling in the prefrontal circuits that do the steering, so regulation improves — attention holds longer, the brake works faster, the noise quiets. What it doesn't do matters just as much, and deserves its own early sentence: *pills don't build skills*. Medication can make the executive machinery work better for some hours a day; it doesn't install routines, teach planning, repair a relationship, or organize a backpack. The families who report the best outcomes treat medication — when they choose it — as one pillar alongside the skills, systems, and structures of Chapters 8 through 10, not as the whole building.
@@ -75,6 +80,12 @@ There are exactly two classes, and every brand name you've heard belongs to one 
 **Medication onset and duration** is the practical physics every family scheduling a life around doses needs: stimulants start working roughly 30-60 minutes after swallowing, and their effect ends the same day — nothing accumulates, and each day is its own experiment. The choice within that physics is **immediate vs extended release**: immediate-release (IR) forms last roughly 3-5 hours — precise, flexible, but requiring midday doses and producing more noticeable "cliffs" as they wear off; extended-release (XR) forms package the same molecules in slow-delivery systems lasting roughly 8-14 hours depending on product — one morning dose covering school or work, smoother curves, at more cost and less flexibility. Real-world regimens are often engineered from both (an XR morning plus a small IR "booster" for evening homework or the after-work hours) — engineered being the operative word, by the prescriber, around when *this person's* day actually demands regulation. Notice what that implies for families: "the medication wore off" is a real, physical event that happens at roughly the same time every day — the 5 pm irritability isn't a character reversion, it's pharmacokinetics, and it's schedulable-around.
 
 ## The Non-Stimulants
+
+!!! mascot-thinking "Why the name confuses everyone"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    They're called stimulants because they raise activity in specific brain systems. In a brain whose regulation circuits are under-signalling, that produces better steering — which looks like calm from the outside. It was never a paradox, just a misleading category name.
+
 
 **Non-stimulant medications** are the second family: slower-acting, generally more modest in average effect, and genuinely valuable in specific situations — when stimulants cause intolerable side effects, when they underperform in both classes, when co-occurring conditions (anxiety, tics, substance-use history from Chapter 6) tilt the calculus, when the controlled-substance logistics below are unworkable, or when a person simply prefers to start elsewhere. The two named members: **Atomoxetine** (Strattera) works by blocking norepinephrine reuptake — the same vacuum-blocking logic, different transmitter emphasis — taken daily, building effect over several weeks (patience is part of the prescription), with no controlled-substance status. **Guanfacine** (and its cousin clonidine) takes a different road entirely: it stimulates certain norepinephrine receptors (alpha-2) that strengthen prefrontal signaling, and in practice it's used especially in children — often *alongside* a stimulant — with particular value for hyperactivity, impulsivity, emotional reactivity, and sleep-onset trouble. A newer non-stimulant, viloxazine, works along atomoxetine-like lines. **Off-label options** rounds out the map: prescribers sometimes use medications approved for other conditions — most commonly bupropion (an antidepressant with dopamine-norepinephrine activity), occasionally modafinil or others — when the standard menu hasn't fit; "off-label" means "outside the approved indication," which is legal, common across medicine, and reasonable to ask direct questions about, starting with "what's the evidence for this in ADHD?"
 
@@ -96,6 +107,12 @@ A worked example, one titration compressed: Dev's psychiatrist starts a low-dose
 
 ## Side Effects, Honestly
 
+!!! mascot-warning "Flatness is a dose signal"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    The "zombie" effect families fear is overwhelmingly a wrong-dose phenomenon. If it shows up during titration, that's the process working — it moves the dose. It is not a preview of medicated life.
+
+
 **Side effects** are real, mostly manageable, and mostly front-loaded — worst in the first weeks, often easing as the body adjusts or the regimen gets engineered. The honest list for stimulants: reduced appetite (the most common), delayed sleep onset, headaches and stomachaches early on, small increases in heart rate and blood pressure, irritability or emotional flatness (the dose-signal above), and end-of-dose "rebound" — a short window of amplified symptoms as the medication exits, familiar to every parent who's met the 5 pm cliff. Two clusters get their own attention.
 
 **Appetite and sleep effects** are the daily-management pair. Appetite suppression tracks the medication's active hours — which yields its own workarounds: real breakfast before the dose kicks in, calorie-dense options at the times hunger returns, dinner after wear-off, and in children, growth tracked at checkups (research shows small average effects on growth trajectory — a monitoring item, not an alarm). Sleep-onset delay compounds Chapter 6's existing ADHD sleep story; the levers are dose timing, release-form choice, and honest reporting — and untangling "medication insomnia" from the pre-existing 1 am body clock is exactly the kind of question prescribers need your data for. **Cardiovascular considerations** are the reason for the screening questions at the first appointment: personal heart history, fainting, family history of early cardiac events. For healthy people the increases are small and well-tolerated; for specific cardiac histories, the prescriber may involve cardiology first. Take the screening seriously, answer it completely, and then let its results — not internet fear — set your level of concern.
@@ -109,6 +126,12 @@ A worked example, one titration compressed: Dev's psychiatrist starts a low-dose
 **Controlled substance rules** are the logistics tax on stimulant treatment, worth knowing in advance so they're annoying instead of alarming: in the US, stimulants are Schedule II — typically no automatic refills (a new prescription each month), quantity limits, ID checks at pharmacies, state monitoring databases, and rules about early refills and travel. The unfunny irony is that this system demands monthly executive function from the population least equipped for it — so treat refill logistics as a Chapter 9 system from day one: calendar alarms for reorder day, pharmacy apps, and (for the family) an agreed reminder protocol rather than an ad-hoc nag. **Medication shortages** have been a real recurring feature since 2022, especially for amphetamine-class products: practical moves are refilling on the earliest allowed day, calling pharmacies before transferring prescriptions (stock varies block to block), asking the prescriber about equivalent alternatives when a specific product is dry, and never stretching doses silently — tell the prescriber and re-plan together.
 
 ## Knowing Whether It's Working
+
+!!! mascot-tip "Ten minutes a week"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Before starting, write down three to five concrete things you'd expect to change — homework started before 8pm, mornings without a fight. Rate them weekly with side-effect notes and times of day. That sheet is what turns anecdotes into dosage decisions.
+
 
 **Tracking medication response** is the difference between "I think he seems better?" and an actual titration signal, and it's the family's biggest contribution to the whole process. The method is simple and worth doing formally for the first months: *before* starting, write down the three-to-five target problems that matter most in this household (homework started before 8 pm; morning routine without a fight; meetings survived without a phone spiral — concrete, observable, yours); rate them for a baseline week; then rate them briefly each week of titration, alongside side-effect notes with times of day. Add collateral (Chapter 5's lesson applies here too — teacher input for children, partner observations for adults, since self-report on one's own attention is exactly what ADHD makes unreliable). Bring the sheet to every appointment. Ten minutes a week converts anecdotes into dosage decisions.
 
@@ -166,6 +189,11 @@ Implementation: Chart.js with annotation plugin behavior implemented in config; 
 
 ??? question "Check yourself: two weeks into a stimulant trial, a 10-year-old is doing homework without battles — but she's flat at dinner, barely touching food, and up past 11. Her parent concludes 'the medication isn't for her' and wants to stop. What does this chapter say? Click to check."
     Every item on that list is a titration signal, not a verdict. Flatness suggests the dose may be too high (the overshoot pattern — moves the dose, doesn't end the trial); appetite suppression is the most common side effect with standard engineering responses (breakfast before dose, dense calories at wear-off, growth monitoring); sleep delay responds to dose timing and release-form changes — and needs untangling from any pre-existing ADHD sleep phase. The homework result shows real target-symptom response, which is exactly what you'd hate to abandon unexamined. The chapter's move: record all of it with times of day, report to the prescriber, and let the process adjust — two weeks into titration is the middle of the experiment, not its conclusion. (And if, after proper adjustment, the trade-offs still aren't worth it — stopping is a legitimate outcome of a good process, made with the prescriber.)
+
+!!! mascot-celebration "You can hold this conversation now"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You know the two families, what titration is, which side effects are engineerable, and how to tell whether it's working. Whatever this family decides, the next chapter matters either way — because pills don't build skills.
 
 ## What to Carry Out of This Chapter
 

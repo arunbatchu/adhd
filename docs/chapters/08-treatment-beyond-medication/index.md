@@ -51,11 +51,22 @@ This chapter builds on concepts from:
 
 Chapter 7 ended with a promise: pills don't build skills. This chapter is the skills side of the ledger — everything beyond medication that has real evidence — plus the consumer training to survive the marketplace that has grown up around desperate families. Both halves matter, because the non-medication space contains this odd mixture: some of the best-supported interventions in the field, and most of its snake oil, sitting on the same shelf.
 
+!!! mascot-welcome "The skills side of the ledger"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Everything beyond medication that has real evidence — plus the consumer training to survive a marketplace aimed at tired families. Both halves matter, because this space holds some of the best interventions in the field and most of its snake oil, on the same shelf. I'll sit with you.
+
 ## Multimodal Treatment: The Portfolio Approach
 
 **Multimodal treatment** means combining several kinds of intervention — medication (if chosen), skills-based therapy, family training, school or workplace supports, and lifestyle foundations — rather than betting everything on one. It's the consensus recommendation across major guidelines, and the reasoning follows from what you already know: ADHD costs a person across multiple systems (regulation hours, skills never practiced, family patterns, sleep, self-story), and no single intervention touches all of them. Medication can restore steerable hours but doesn't fill them; therapy builds skills but can't run at 2 am when the body clock is broken; a fixed sleep schedule helps everything but doesn't teach planning. The landmark MTA study — the largest ADHD treatment trial ever run — found carefully managed medication the strongest single lever for core symptoms in children, *and* found combined treatment better on the outcomes families actually live with: parent-child relations, co-occurring anxiety, academics. The practical translation for a family: think portfolio, not silver bullet. A worked example of the portfolio mindset: after Dev's titration settled (Chapter 7), his family's instinct was "done." The clinician's counter: medication had bought Dev regulated hours — now was exactly the moment to spend some of them building what the unregulated years never let him build: a homework system he owns (Chapter 9), parent training so the household stops running on nagging (below), and the reading intervention from Chapter 6. Two semesters later, when a growth spurt forced a dose change, the systems held the floor while the chemistry was re-tuned. That's the portfolio working: no single point of failure.
 
 ## Psychoeducation: The Treatment You're Doing Right Now
+
+!!! mascot-thinking "Yes, reading counts"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Psychoeducation sounds too soft to be treatment; the guidelines list it as a first step of care. Accurate models change behaviour — the parent who understands the transition tax stops issuing surprise demands. Reading this together isn't homework about treatment. It is the treatment.
+
 
 **Psychoeducation** is structured learning about the condition — what it is, how it works, what helps — for the person and their family. It sounds too soft to be a treatment; the evidence disagrees, and so do the guidelines, which list it as a first step of care. The mechanism is everything this book has been doing: accurate models change behavior. The parent who understands the transition tax (Chapter 3) stops issuing surprise demands; the adult who understands delay aversion (Chapter 2) stops moralizing her own deadline sprints and starts engineering them; the couple who understands prospective memory (Chapter 2) replaces the "if you loved me you'd remember" fight with an alarm made together. Chapter 1's stigma loop gets cut at both ends by nothing more exotic than correct information. This book *is* psychoeducation — and the dual-audience design is deliberate, because the evidence for family-inclusive psychoeducation is part of why outcomes improve. Reading it together, as the course description suggested, is not homework about treatment; it is treatment.
 
@@ -78,6 +89,12 @@ Four structured helping approaches dominate the space; here's each one's actual 
 
 ## The Foundations: Exercise, Sleep, Food
 
+!!! mascot-tip "The cheapest win available"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Fix the wake time first. It anchors the whole clock, costs nothing, and sleep repair reduces more symptoms per unit of effort than anything else in this chapter.
+
+
 Three lifestyle pillars have evidence worth acting on and hype worth trimming. None replaces treatment; all raise the floor under everything else.
 
 **Exercise as treatment** has honest, useful evidence: aerobic exercise produces measurable short-term improvements in attention and executive function — Chapter 2 gives you the mechanism (dopamine and norepinephrine both rise) — and regular exercise shows modest benefits for symptoms, mood, and sleep over time. The practical reading: exercise is a legitimate *daily tool* (a morning run before the hardest class; a walk before the tax paperwork) and a floor-raiser, not a cure. The ADHD-specific trick is adherence design — Chapter 2's interest-based system predicts that the boring-but-optimal program loses to the fun-enough program you'll actually repeat: team sports, climbing, martial arts, dance, anything with novelty or people built in.
@@ -91,6 +108,12 @@ Three lifestyle pillars have evidence worth acting on and hype worth trimming. N
 **Mindfulness and meditation** — training attention on the present moment, noticing when the mind wanders, returning without self-criticism — has grown a respectable ADHD evidence base: moderate improvements in attention, executive function, and especially *emotional* regulation across multiple trials (with the honest caveats that many studies are small and blinding is impossible). Two reframes make it usable rather than laughable to this population. First, the practice is not "having an empty mind" — it's *reps of noticing-and-returning*, which is literally exercising the redirect-the-spotlight muscle from Chapter 1; a session with sixty wanderings and sixty returns is sixty reps, not a failure. Second, ADHD-adapted formats exist and matter: short sessions (three minutes counts), movement-based practice (walking meditation, yoga), guided audio rather than silence, and zero shame about restlessness. Its most valuable ADHD application may be the emotional one — building the half-second gap between trigger and reaction that Chapter 11 will need when it takes on rejection sensitivity.
 
 ## The Gray Zone: Honest Verdicts on Two Contested Options
+
+!!! mascot-warning "The tell for a weak treatment"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch what happens to the effect as the study design improves. If it shrinks when controls tighten — especially against sham comparisons — that's placebo-plus-practice, not specific efficacy. It's the pattern that separates the real options from the expensive ones.
+
 
 **Neurofeedback evidence** deserves a fair, unsparing summary, because it's heavily marketed at ADHD families at real cost. The idea: sensors read brainwave patterns while the person trains, via feedback games, to shift them. The verdict after decades of research: results are mixed — unblinded studies look encouraging, but the better-controlled the trial (especially with sham-feedback comparisons), the smaller the effect gets, which is the classic signature of placebo-plus-practice rather than specific efficacy. It's generally safe; it's also typically expensive (dozens of sessions, rarely covered by insurance). A family with money to burn and mainstream treatment already in place loses little but cash; a family choosing neurofeedback *instead of* evidence-based care is making a trade the data doesn't support.
 
@@ -154,6 +177,11 @@ Implementation: Chart.js with custom click/hover handlers; responsive; qualitati
 
 ??? question "Check yourself: a clinic offers a '12-week ADHD reset: neurofeedback + custom supplement stack + weekly coaching, $4,800, backed by hundreds of success stories.' Give the full evaluation. Click to check."
     Component by component: neurofeedback — decades of research, effects shrink under proper controls; the well-controlled evidence doesn't support it as core treatment. Supplement stack — testimonial-floor; supplements aren't required to prove efficacy before sale, and beyond omega-3's small effect the category is unsupported. Coaching — legitimately helpful, but unregulated; vet this coach's credentials separately, and note it's the cheap part of the bundle priced into the expensive part. Cross-cutting red flags: "success stories" as the named evidence (bottom of the pyramid), bundling (obscures which component you're paying for), a guarantee-shaped promise, and the compared-to-what problem — $4,800 buys a lot of parent training, ADHD-adapted CBT, or a properly monitored medication trial, all higher on the pyramid. The move: take the claim tester's verdict to your actual care team, and spend on the strong-evidence gaps first.
+
+!!! mascot-celebration "You can read the marketplace now"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You know which floor of the evidence pyramid a claim lives on, and you can tell a genuine option from a confident one. That skill outlasts this chapter — it works on anything anyone tries to sell you.
 
 ## What to Carry Out of This Chapter
 

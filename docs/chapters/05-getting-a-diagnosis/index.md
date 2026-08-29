@@ -58,6 +58,11 @@ Somewhere between "I think this might be ADHD" and an actual answer sits a proce
 
 One orientation note before the details. A good ADHD evaluation is, at its core, a *structured act of history-taking* — the DSM-5 criteria you learned in Chapters 1 and 3 are about lifelong patterns across settings, so the evaluation's job is assembling an accurate picture of a life, not administering one magic test. There is no blood test, no brain scan (Chapter 2 settled that), and no single computer game that settles the question. Anyone selling a one-test answer is answering a different question than the one that matters.
 
+!!! mascot-welcome "Turning the lights on"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Most families walk into an evaluation blind — unfamiliar titles, forms about childhood, a report full of clinical language. This chapter won't diagnose anyone, but it will make you the most prepared person in the waiting room. I'll sit with you.
+
 ## Who Can Diagnose ADHD
 
 **Who can diagnose ADHD** varies by country and, in the US, by state — but the practical landscape has three main figures, each defined here and compared in the table after.
@@ -76,6 +81,12 @@ Two practical notes complete the search picture. **Telehealth evaluations** are 
 
 ## Preparing: Do the Homework Before the Homework
 
+!!! mascot-tip "The hour that pays for itself"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Old report cards are gold — "does not apply herself," written in 1998, is exactly the childhood evidence the evaluator needs and cannot get anywhere else. Dig them out before the first appointment, along with three concrete current examples.
+
+
 **Preparing for an evaluation** is worth an hour of effort, because the evaluation is history-taking and you are the archive. Gather before the first appointment:
 
 - Old report cards and school records — the evaluator is hunting Chapter 4's childhood evidence, and "does not apply herself" written in 1998 is gold
@@ -88,6 +99,12 @@ Two practical notes complete the search picture. **Telehealth evaluations** are 
 One preparation instruction outranks the rest, and it's for the person being evaluated: *do not perform wellness*. The masking reflexes from Chapter 3 — minimizing, tidying the story, being a good patient — are precisely the machinery that hid the condition this long, and evaluators can only assess what they're shown. Bring the unedited version. For families: your role is the collateral evidence below, and offering to contribute it is concrete help; insisting on controlling the story is not.
 
 ## The Anatomy of a Real Evaluation
+
+!!! mascot-thinking "What an evaluation actually is"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    It's structured history-taking, not a single test. There is no blood test, no brain scan, and no computer game that settles this — because the criteria are about lifelong patterns across settings. Anyone selling a one-test answer is answering a different question.
+
 
 The **diagnostic evaluation** is the assembled whole — typically one to three sessions across a few weeks — and every legitimate version is built from the same components, whatever the clinician's title. Here is each part and what it contributes, so you can recognize a thorough evaluation and notice a hollow one.
 
@@ -135,6 +152,12 @@ Implementation: p5.js, responsive hub-and-spoke layout, side panel in HTML.
 
 ## When the Process Goes Wrong
 
+!!! mascot-warning "Don't perform wellness"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    The reflexes that got you here — minimizing, tidying the story, being an easy patient — are the same machinery that hid this for years. Evaluators can only assess what they're shown. Bring the unedited version.
+
+
 Four failure modes deserve names, because informed families are the main defense against all of them.
 
 **Misdiagnosis** runs both directions: ADHD labeled as something else (the Chapter 4 pattern — a woman treated for years for anxiety that was downstream of unrecognized ADHD), or something else labeled as ADHD (sleep apnea, trauma, or bipolar disorder wearing a distractible surface). The differential discipline above is the safeguard; its absence is the cause. **Underdiagnosis** is the population-scale version you already know from Chapter 4 — girls, women, inattentive presentations, high maskers, adults, and communities with less access or more stigma — worth restating here as a consumer instruction: if the evaluator seems to be pattern-matching against the hyperactive-boy template, mentioning this book's Chapter 4 vocabulary (masking, internalized symptoms, impairment costs behind good grades) is legitimate self-advocacy, and an evaluator who dismisses it without engaging is telling you something. The **overdiagnosis debate** is the mirror-image public argument — that ADHD is handed out too freely, especially where evaluations are thin. The honest position this book takes: both failures are real and coexist; sloppy quick diagnoses genuinely happen (the mills exist) *and* massive missed populations genuinely exist, and the resolution of both is the same thing — thorough evaluations of exactly the kind this chapter teaches you to recognize. The debate is a reason for care, never a reason to skip the question. **Second opinions** are the ordinary remedy and nobody should feel awkward seeking one: when the conclusion doesn't fit the lived evidence, when the process was thin, when treatment built on the diagnosis isn't working, or when something was diagnosed *instead of* ADHD and isn't responding to treatment either. Medicine treats second opinions as routine; psychiatry is medicine.
@@ -166,6 +189,11 @@ And if the answer comes back *no ADHD*: a good evaluation still owes you an expl
 
 ??? question "Check yourself: an online clinic offers 'ADHD diagnosis in 30 minutes — take our attention test, meet a provider, medication shipped same week.' Using this chapter's anatomy, list what's missing. Click to check."
     Nearly everything: no real clinical interview (30 minutes can't walk a life history), no childhood-onset evidence (report cards, parent input — the age-of-onset criterion is unverifiable), no collateral information (one person's self-view, unchecked), no differential diagnosis (sleep, anxiety, depression, thyroid never ruled out), and an "attention test" standing alone — a CPT-style instrument explicitly warned against as a sole basis. The impairment criterion likely gets a checkbox instead of an inquiry. Same-week medication also skips the medical screening Chapter 7 describes. It fails not because it's online — telehealth done right is legitimate — but because it's hollow: it's the evaluation-anatomy map with every node missing except the least reliable one.
+
+!!! mascot-celebration "You know what good looks like now"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can recognise a thorough evaluation, spot a hollow one, and read the report as a map rather than a verdict. That's genuinely more than most people bring to this appointment.
 
 ## What to Carry Out of This Chapter
 
