@@ -399,6 +399,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -535,6 +539,48 @@
   
   <span class="md-ellipsis">
     Taxonomy Distribution
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../book-metrics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Book Metrics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-metrics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chapter Metrics
   </span>
   
 
@@ -708,6 +754,15 @@
   <a href="#recommendations" class="md-nav__link">
     <span class="md-ellipsis">
       Recommendations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applied-quiz-set-added-2026-08-29" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applied Quiz Set (added 2026-08-29)
     </span>
   </a>
   
@@ -1030,6 +1085,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#applied-quiz-set-added-2026-08-29" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applied Quiz Set (added 2026-08-29)
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1233,6 +1297,54 @@ Execution Mode: Serial (1 agent)</p>
 <li>Consider a second quiz per chapter drawing on the remaining untested leaf concepts if readers want more practice.</li>
 <li>The quiz bank (learning-graph/quiz-bank.json) is ready for LMS export or chatbot integration.</li>
 </ol>
+<hr />
+<h2 id="applied-quiz-set-added-2026-08-29">Applied Quiz Set (added 2026-08-29)<a class="headerlink" href="#applied-quiz-set-added-2026-08-29" title="Permanent link">&para;</a></h2>
+<p>A second quiz was added to every chapter as <code>quiz-applied.md</code> — 150 further
+questions, 10 per chapter, bringing the book to <strong>300 quiz questions</strong>.</p>
+<p>The two sets are complementary by design. The original set leans toward
+Remember and Understand (62% combined), which suits a first pass after
+reading. The applied set is scenario-based and weighted toward the higher
+Bloom levels: each question opens with a situation drawn from the chapter's
+own worked examples — Omar's forty minutes of homework, Dana's eight-minute
+belief, Sana's collapse at 24, the mother who sent eleven articles — and asks
+the reader to apply the chapter's framework rather than recall a definition.</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Original set</th>
+<th>Applied set</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Questions</td>
+<td>150 (10 per chapter)</td>
+<td>150 (10 per chapter)</td>
+</tr>
+<tr>
+<td>Emphasis</td>
+<td>Remember / Understand</td>
+<td>Apply / Analyze / Evaluate</td>
+</tr>
+<tr>
+<td>Stem style</td>
+<td>Direct question</td>
+<td>Situation, then "what does this chapter say?"</td>
+</tr>
+<tr>
+<td>Best used</td>
+<td>After first reading</td>
+<td>Before an exam, or on a second pass</td>
+</tr>
+</tbody>
+</table>
+<p>Verification performed on the applied set: sequential numbering 1-10 per
+chapter, exactly four options per question, one answer block per question, and
+every <code>Concept Tested</code> value matched against a real <code>ConceptLabel</code> in
+<code>learning-graph.csv</code> (150/150 matched). Answer-position distribution across the
+150 questions is A 36, B 41, C 39, D 34 — no positional bias a test-taker could
+exploit.</p>
 
 
 
