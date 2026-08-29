@@ -87,6 +87,8 @@ this book's tone is worth more than mascot coverage.
 
 ## Regenerating art
 
-Prompts are in [image-prompts.md](image-prompts.md). Keep the coat, eyes, and
+Prompts are in [image-prompts.md](https://github.com/arunbatchu/adhd/blob/main/docs/img/mascot/image-prompts.md)
+(kept out of the built site by `exclude_docs`, so this points at the source).
+Keep the coat, eyes, and
 style identical across any new pose — a mascot that drifts between images stops
 reading as one character.
