@@ -36,6 +36,14 @@ What she is **not**:
   traits into a punchline
 - Never a clinician; she has no medical opinions
 
+## Catchphrase
+
+> **"I'll sit with you."**
+
+Bhindi's one signature line, used in chapter welcomes. It says what she is —
+present, not instructing — and it works for both of this book's readers. Use it
+sparingly; a catchphrase in every admonition stops being one.
+
 ## Voice
 
 Short sentences. Plain words. First person, present tense. One or two

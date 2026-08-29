@@ -54,6 +54,11 @@ Somebody in your life was just diagnosed with ADHD. Maybe it was you. Maybe it w
 
 This chapter builds the vocabulary the rest of the book depends on. We'll define attention, hyperactivity, and impulsivity carefully, because those everyday words mean something more precise here. Then we'll assemble them into the formal definition of ADHD, look at where the condition comes from, and take apart the myths one at a time. If you and the person you care about each read this chapter and compare notes, you'll be having the first of many conversations this book is designed to start.
 
+!!! mascot-welcome "Hello — I'm Bhindi"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    I'll be turning up now and then through this book, usually when something is worth slowing down for. This first chapter is the one that gives you words for what you've been living with, which is why the arguments at home start changing here. I'll sit with you.
+
 ## Attention: More Than One Thing
 
 **Attention** is the brain's ability to select some information for processing and set the rest aside. Right now, your brain is receiving far more input than it can use: the hum of a refrigerator, the pressure of the chair, a conversation in the next room, this sentence. Attention is the mechanism that picks this sentence and mutes the rest.
@@ -125,6 +130,11 @@ Now we can name the concept this whole book turns on. **Attention regulation** i
 This distinction rescues families from a common dead end. People with ADHD do not have a shortage of attention. Anyone who has watched a twelve-year-old with ADHD play Minecraft for four unbroken hours, or an adult with ADHD rebuild a spreadsheet until 2 am, has seen attention in industrial quantities. What's inconsistent is the *steering*. Interest, novelty, urgency, and challenge grab the ADHD spotlight powerfully — sometimes too powerfully to break away from. Important-but-boring tasks barely tug at it, no matter how sincerely the person wants to do them.
 
 Consider a worked example that plays out in thousands of homes. Maya, 24, spends Saturday afternoon deep in a coding side project — six hours, no breaks, forgets lunch. Sunday she needs forty minutes to renew her car registration online, and she cannot make herself start. Monday her mother calls, hears about the unrenewed registration, and thinks: *she managed six hours for a hobby but not forty minutes for something that matters?* The natural conclusion is that Maya doesn't care. The accurate conclusion is that Maya's attention steers toward interest and urgency, and away from tedium, far more strongly than her mother's does. The registration will likely get done in a panicked burst the day before the deadline — when urgency finally gives her spotlight something to lock onto.
+
+!!! mascot-thinking "This is the idea the whole book turns on"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Not a shortage of attention — a steering problem. Once that lands, Maya's six hours of coding and her forty unstartable minutes stop contradicting each other. Almost every confusing thing in the next fourteen chapters resolves through this one sentence.
 
 If you have ADHD, learning your own steering patterns — what reliably grabs your attention, what reliably repels it — is the first practical skill in this book, and later chapters build systems around it. If you love someone with ADHD, this concept asks something specific of you: when effort looks wildly inconsistent, read it as a steering pattern to work with rather than a report on how much the person cares about you.
 
@@ -325,6 +335,12 @@ High intelligence deserves a special note because it *hides* ADHD. A bright stud
 
 ## The Myths, Taken Apart
 
+!!! mascot-warning "The costly misreading"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    When effort looks wildly inconsistent, the natural conclusion is that the person doesn't care. It's the wrong conclusion, and it's the one that does the most damage in families. Watch for it in yourself as you read on.
+
+
 **ADHD myths** are false beliefs about the condition that survive because they feel intuitive, and they do their damage in kitchens and classrooms: every myth converts a symptom into an accusation. A family that believes the laziness myth responds to missed homework with punishment; a family that understands regulation responds with structure. Same child, same homework, opposite outcomes — multiplied across years. That's why this section exists, and why it addresses both readers: the person with ADHD has usually *internalized* these myths ("maybe I really am just lazy"), and the family has usually *deployed* them, generally with love and good intentions. Both need the replacement facts.
 
 The **laziness myth** says people with ADHD just don't want to work. It survives on a bad inference: this person works intensely on things they enjoy and stalls on things they don't, so the stalling must be chosen. You already own the rebuttal — that pattern is attention regulation, the signature of the condition itself. What laziness can't explain, and ADHD explains cleanly, is the suffering: genuinely lazy people are untroubled by not working, while people with ADHD sit in front of the undone task in escalating misery, wanting desperately to start and unable to. The trying is invisible; the undone task is visible; observers grade only what they can see.
@@ -445,6 +461,12 @@ The practical damage follows a predictable script. A worked example: Teresa, 43,
 
 ## Misinformation, and How to Find Information You Can Trust
 
+!!! mascot-tip "Something you can use today"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Before you accept any confident claim about ADHD — including one from me — ask who benefits if you believe it. That single question filters out most of what's wrong on the internet, and it costs you three seconds.
+
+
 **ADHD misinformation** is false or misleading ADHD content in circulation — and it's abundant, because ADHD sits at the intersection of three misinformation magnets: parental worry, product marketing, and viral self-diagnosis content. The classics: miracle supplements that "fix ADHD naturally," claims that medication is poison or a Big Pharma plot, "signs you have ADHD" videos so generic they describe everyone (do you sometimes procrastinate? lose your keys?), and diet cures with testimonials instead of trials. Some of it is cynical marketing; much is sincere people generalizing their own experience to the whole world. Sincerity doesn't make it safe: misinformation costs families money on things that don't work, scares them off things that do, and — the generic-symptom genre especially — either false-alarms people into identity crises or lets them dismiss ADHD as "just being human."
 
 The antidote is a skill, not a subscription. **Evidence-based information** is information grounded in systematic research — controlled studies, replicated across independent teams, synthesized by professional bodies — rather than in anecdotes, testimonials, or someone's certainty. You don't need to read journals to apply the standard; you need five questions, asked in order:
@@ -459,6 +481,11 @@ A worked example, run at full speed. A cousin forwards a video: a confident man 
 
 ??? question "Check yourself: a friend says 'ADHD isn't real — it was invented to sell drugs in the 90s.' You have three facts from this chapter that answer this. Can you name them? Click to check."
     Any three of these work: (1) Clinical descriptions date to 1798 (Crichton) and 1902 (Still) — long before any drug existed to sell. (2) Bradley's stimulant discovery in 1937 predates the modern pharmaceutical industry's marketing era; the condition was described first, the treatment found later. (3) Heritability of 70-80% from twin studies — invented conditions don't run in families at the rate height does. (4) Brain-imaging studies show measurably delayed cortical maturation — invented conditions don't appear on scanners. You might also note the DSM-5's strict criteria: impairment in multiple settings over years is required precisely so that ordinary distractibility doesn't qualify.
+
+!!! mascot-celebration "That was the hardest vocabulary in the book"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    Everything after this builds on what you just read, and none of it is denser than this chapter was. If you're reading alongside someone, this is a good moment to stop and compare notes before Chapter 2.
 
 ## What to Carry Out of This Chapter
 
