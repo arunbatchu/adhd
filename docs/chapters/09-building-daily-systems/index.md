@@ -48,6 +48,11 @@ Eight chapters of understanding now get cashed in. Everything here follows one e
 
 Two ground rules before the toolkit. First, systems beat willpower — Chapter 1's willpower myth retired trying-harder as a strategy, and this chapter is what replaced it. Second, expect iteration: the first version of any system will half-work, and per Chapter 3's variability, a system that fails on Tuesday may fit fine with one adjustment. Tinkering is the method, not a sign of failure. For the family reader: your role throughout this chapter is collaborator and occasional infrastructure — never enforcement. A system imposed on a person with ADHD is a nag with laminations; a system built *with* them is scaffolding they'll actually stand on. Chapter 14 draws these lines carefully; keep them in view all chapter.
 
+!!! mascot-welcome "The chapter that changes Tuesdays"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Everything so far has been understanding. This is where it turns into a better Tuesday — capture, next actions, timers, routines, and the room itself doing some of the remembering. Try one thing tonight rather than all of it. I'll sit with you.
+
 ## The Master Principle: Externalizing Memory
 
 **Externalizing memory** means moving information out of your head and into reliable external storage — paper, phone, whiteboard, alarm, a bowl by the door — the moment it arrives. It's the master principle because it directly patches the two most reliable failure points from Chapter 2: working memory (the leaky desk — information never encoded can't be recalled) and prospective memory (the alarm that doesn't fire — intentions kept "in mind" don't surface on schedule). The rule in its usable form: **if it matters, it doesn't live in your head.** Not the appointment, not the promise to your wife, not the great idea in the shower, not "I'll bring the form Thursday." Heads are for having thoughts, not holding them.
@@ -55,6 +60,12 @@ Two ground rules before the toolkit. First, systems beat willpower — Chapter 1
 The worked example is Chapter 2's Sam, re-run with the system installed. Tuesday morning, Sam promises to pick up the prescription. *At the moment of promising* — this timing is the whole trick — he sets a 5:05 pm phone alarm labeled "PHARMACY before home," in front of his wife. At 5:05 the alarm fires as he's walking out into the same distracting phone call as before; the label steers the drive. Nothing about Sam's brain changed between the two versions of this story. The intention was moved from the least reliable storage he owns (prospective memory) to the most reliable (a device that never forgets and interrupts on schedule). His wife's part also changed: instead of testing his love nightly against his weakest brain function, she watched him build the alarm — which reads as the promise being taken seriously, because it is. Externalization done at the moment of commitment is what taking-it-seriously *looks like* in an ADHD household.
 
 ## Capture, Lists, and the Art of Starting
+
+!!! mascot-thinking "One rule holds up the whole chapter"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    If it matters, it doesn't live in your head. Not the appointment, not the promise, not the idea in the shower. Heads are for having thoughts, not holding them — and every system below is that one sentence, applied.
+
 
 **Capture systems** are externalization's front door: one *always-available* place where every incoming commitment, idea, and obligation lands the instant it appears — before working memory can drop it. The operative word is *one*: five capture points (a notebook here, three apps, a sticky note ecosystem) recreate the original problem as "which list was that on?" Pick the tool that is always physically present (for most people, the phone's notes or reminders app; for some, a pocket notebook or a kitchen whiteboard for household items) and grant it a monopoly. The capture habit itself — reaching for it *mid-conversation*, at the mailbox, in the parking lot — feels rude and mechanical for about two weeks, and then it quietly removes a whole category of failure. Families: when your person pauses a conversation to capture, that's the system working; the respectful move is to wait, not to add two more items while they type.
 
@@ -106,11 +117,23 @@ The **Pomodoro technique** packages timers into a work rhythm: commit to one tas
 
 ## Borrowing Other People's Presence
 
+!!! mascot-tip "The one to try first"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Body doubling costs nothing and converts some people's worst task categories from impossible to routine. Someone nearby, doing their own thing, not helping and not watching. If a chore has been stalled for weeks, start here.
+
+
 **Body doubling** is the strategy with the strangest name and the most devoted users: doing your work *in the presence of another person* who is simply there — working on their own things, not helping, not supervising. The wife reading while you do taxes; the friend on a video call, each muted, doing separate chores; a café's ambient population. Why mere presence works maps onto Chapter 2: another person supplies mild arousal (climbing out of the under-stimulated fog), a whiff of social accountability (someone would notice you wandering off), and interest-currency (even boring tasks become slightly performed). It costs nothing and converts some people's worst task categories from impossible to routine — which makes it the first thing to try on any chronically stalled chore. For the family reader, note what body doubling asks of you and what it doesn't: sit nearby with your own book — and resist narrating, correcting, or supervising, which converts a body double into a foreman and cancels the effect.
 
 **Accountability partners** are the scheduled version of the same physics: a specific person expecting a specific thing at a specific time — the gym friend at 7 am, the Sunday "did we both do our admin?" text, the writing group's Friday pages. The mechanism is external deadline manufacture: the reward system that ignores "someday" responds to "Casey is standing outside at 7." Design rules learned the hard way: make the commitment concrete and dated (not "let's keep each other on track"), keep stakes friendly (shame-based accountability gets avoided along with the task — the partner you start dodging has become a second deadline problem), and prefer peers over spouses for recurring task accountability, because Chapter 14 will have strong opinions about what chronic monitor-roles do to a marriage.
 
 ## Routines: Automating the Decisions Away
+
+!!! mascot-warning "Where families accidentally break this"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A body double who narrates, corrects, or checks progress has become a foreman, and the effect cancels. Sit nearby with your own book. That's the whole job, and it's harder than it sounds.
+
 
 **Routines and habits** matter to this brain for a reason Chapter 2 makes precise: every decision spends load, and a routine is a *decision eliminator* — the sequence runs on rails, so the executive budget stays unspent for things that deserve it. The honest ADHD caveat comes first: habits form more slowly and break more easily with ADHD (interest fades, one disrupted week derails the rails), so the design rules below matter more here than for other brains, and a collapsed routine is a Tuesday event to be re-started, not a character verdict. The rules: anchor every routine to an existing fixed event rather than a clock time ("after the coffee finishes" survives weekends; "at 7:15" doesn't); keep chains short (three-to-five steps — long routines fail at their weakest link); externalize the sequence itself (a checklist on the bathroom mirror is the routine's memory, so the head doesn't have to be); and rebuild shrunk, not bigger, after a collapse (the two-step version that runs beats the seven-step version that doesn't).
 
@@ -142,6 +165,11 @@ Here's the starter set, collected — every row explained above:
 
 ??? question "Check yourself: 'I bought her a beautiful planner and she used it for nine days. She just won't stick to anything.' Diagnose with this chapter. Click to check."
     Several mechanisms, no character required. (1) The planner was likely *given*, not co-built — imposed systems become laminated nags. (2) A planner is five systems in one (capture, lists, calendar, breakdown, review) — installed all at once, the classic collapse pattern the chapter warns about. (3) Paper planners must be *remembered-to-be-checked* — they die by the exact prospective-memory failure they're meant to fix, unless placed in a forced sightline or paired with an alarm. (4) Nine days is the novelty curve expiring on schedule; the fix is anchoring the check to an existing habit (stack: after coffee, open planner), not re-motivating. (5) A collapsed system gets rebuilt *shrunk* — maybe just the today-list on the lock screen — not re-imposed whole. And the "won't stick to anything" framing is Chapter 1's willpower myth; nine days of use is evidence of effort meeting an unengineered tool.
+
+!!! mascot-celebration "Pick one, not ten"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    The table above is a menu, not a checklist — installing five habits in one motivated weekend is how this fails. One capture point, or one labeled alarm, running by Friday, beats a beautiful system that lasts nine days.
 
 ## What to Carry Out of This Chapter
 

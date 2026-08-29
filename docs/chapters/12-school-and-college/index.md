@@ -49,6 +49,11 @@ School is where ADHD gets graded — literally, daily, for sixteen-plus years. I
 
 For the parent reading this: your role changes across this chapter — heavy lifting in elementary school, coaching from nearby in high school (Chapter 4's transfer-before-the-cliff), and, by college, nothing without invitation. Every section marks where the handoff stands.
 
+!!! mascot-welcome "Study skills, and the paperwork that protects them"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Two halves here: techniques that fit this brain, and the accommodation machinery that exists whether or not anyone tells you about it. Parents — your role shrinks as this chapter goes on, by design. I'll sit with you.
+
 ## Studying: Techniques That Fit the Machine
 
 **Study strategies** for ADHD start from an honest diagnosis of the default method: rereading and highlighting — the strategies most students use — are *passive*, and passive input is exactly what an interest-based attention system slides off (Chapter 3's mind wandering: eyes finish the page, nothing lands). The replacement principle across every technique below: make studying an *activity with feedback* rather than an exposure. Active methods aren't just better pedagogy — they're better *ADHD* pedagogy, because activity supplies the engagement, urgency, and immediate feedback the reward system runs on (Chapter 2). What follows is each core technique, its mechanism, and its ADHD adaptation.
@@ -60,6 +65,12 @@ For the parent reading this: your role changes across this chapter — heavy lif
 **Test-taking strategies** for ADHD target the two test-day failure modes that aren't knowledge problems: time blindness (the exam is a fixed-time task run without external cues — so bring the wristwatch where allowed, write a per-section time budget on the exam's margin at minute zero, and set checkpoint questions: "at halfway, I should be at question 20") and impulsive answering (the blurt, in multiple-choice form — misread stems, the first plausible option grabbed; the mechanical counter is annotating the stem: circle *not*, underline *always*, and physically touch every option before committing). Add the triage pass — answer everything easy first, mark and return to the hard ones — because sunk-cost hyperfocus on question 7 is how strong students with ADHD hand back exams that are 40% blank. **Homework systems** close the private toolkit by pointing Chapter 9 at the backpack: the assignment must be *captured at the moment of assignment* (planner, phone, photo of the board — the monopoly capture point, because "I'll remember it" is the leak this system exists to plug), the work needs a launchpad-and-time anchor (same place, same after-school slot, stacked on a snack — decision-free by design), and the finished work needs the step families forget to engineer: *turned in*. Chapter 4's Marcus did the assignments; they died in the backpack — so the system's last link is a submission ritual (homework goes in the folder, folder goes in the bag, bag goes by the door, at the moment of completion, every time). For parents: build these systems *with* the student per Chapter 9's rule, and let the weekly review (Chapter 10) be the oversight mechanism rather than nightly inspection — the goal is a system the student runs by eleventh grade, because the college sections below have no parent slot in them.
 
 ## The Legal Toolkit: Accommodations in K-12
+
+!!! mascot-thinking "Accommodations are the ramp, not a head start"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    A student taking a test without extended time is being assessed on time blindness and working memory alongside the chemistry. The accommodation removes the disability from the measurement, so the chemistry is what gets measured. Some families need permission to accept that.
+
 
 **School accommodations** are changes to *how* a student learns and is assessed — not *what* they're expected to learn — that offset a disability's impact: extended time on tests, preferential seating, chunked instructions, reduced-repetition homework, movement breaks, a quiet testing room. The premise, which some families need permission to accept: accommodations aren't advantages — they're the ramp, not a head start. The student with ADHD taking an exam without extended time is being tested on *time blindness and working memory* alongside the chemistry; the accommodation removes the disability from the measurement so the chemistry can be measured. In the US, two legal vehicles deliver them, and the difference confuses everyone, so here it is clean.
 
@@ -110,6 +121,11 @@ Instructional rationale: The processes are genuinely procedural — an Apply obj
 Implementation: p5.js, responsive flowchart layout, HTML side panel.
 </details>
 
+!!! mascot-tip "Put it in writing"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    An email to the principal or counsellor requesting a 504/IEP evaluation starts legal clocks that a hallway conversation doesn't. Attach the evaluation report — its recommendations section was written for exactly this moment.
+
 ## College: Same Rights, Different Rules
 
 **College disability services** run on a different legal chassis (the ADA and Section 504's post-secondary provisions — IDEA and IEPs end at high school graduation), and one structural change matters more than every other detail: *the student drives everything*. The college will not find you, call your parents, or notice you're drowning; disability services activate only when the student self-identifies, provides documentation (that Chapter 5 evaluation report again — check the college's recency requirements before freshman year), and completes an intake conversation. Parents are legally outside this process — FERPA even keeps grades private — which is exactly why Chapter 4 insisted the systems transfer *before* the cliff, and why the eleventh-grade goal was a student who runs their own plan. The practical checklist for the transition summer: register with disability services *before* the first semester (not after the first disaster — accommodations don't apply retroactively to failed midterms), know what documentation the office requires, and rehearse the twenty-second mechanism → pattern → ask (Chapter 11), because the student will deliver it, in person, to real adults.
@@ -123,6 +139,11 @@ Implementation: p5.js, responsive flowchart layout, HTML side panel.
 
 ??? question "Check yourself: 'My daughter's college grades are collapsing, so I called the dean's office and her professors to get her accommodations set up. They refused to even talk to me. Isn't this discrimination?' What does this chapter say? Click to check."
     It's the college pathway working as designed, not discrimination. Post-secondary disability law (ADA/504) makes the *student* the sole driver: she must self-identify to disability services, provide documentation, complete intake, and activate letters with professors — and FERPA bars the college from discussing her situation with a parent regardless of who pays tuition. The useful parental moves are all indirect: make sure she *has* the documentation (the evaluation report, meeting the office's recency rules), point her at the disability services office and this chapter's checklist, offer to rehearse her mechanism → pattern → ask, and support the daily-systems layer (Chapters 9-10) that accommodations don't cover. If the collapse is bigger than logistics — sleep gone, mood flat, isolation (Chapter 6's tells) — the right door is the campus counseling center, and she opens that one too. The hardest sentence in this chapter belongs here: at college, help that isn't invited isn't help the system can accept.
+
+!!! mascot-warning "The step that loses the most support"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    In college, accommodation letters usually must be activated *each term* and delivered to each professor. Being approved once is not the same as having accommodations this semester — so it goes on the calendar with an alarm, first week, every term.
 
 ## What to Carry Out of This Chapter
 

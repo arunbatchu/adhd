@@ -101,9 +101,18 @@ grief, shame, or caregiver-burnout material. A cartoon cat next to Chapter 6's
 Dan's `mascot-placement-rules.md` also apply — at most six per chapter, one
 welcome and one celebration, never two back-to-back, never decorative.
 
-Bhindi is **installed but not yet placed in any chapter.** Chapter placement is
-`book-installer` feature 35 (`mascot-chapter-updater`), still to be run, and it
-should be run chapter by chapter with the exclusions above respected.
+**Placement, as it stands (2026-08-29):** 52 admonitions across 11 chapters —
+1-5, 7-10, 12, 13 — at 4-5 per chapter, well under Dan's ceiling of 9. Chapters
+**6, 11, 14, and 15 are deliberately mascot-free**: they carry the crisis
+guidance, grief, shame, and caregiver-burnout material, and a cartoon cat there
+undercuts the book. Keep them clean.
+
+Chapter 4 also has no `celebration` — it ends in late-diagnosis grief and
+reframing, where a celebration lands wrong. Validate any change with:
+
+```bash
+for f in docs/chapters/*/index.md; do python3 "$HOME/projects/claude-skills/skills/book-installer/scripts/validate-chapter-mascots.py" "$f"; done
+```
 
 ## Working rules
 

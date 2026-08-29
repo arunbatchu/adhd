@@ -46,6 +46,11 @@ This chapter builds on concepts from:
 
 Chapter 9 built the systems; this chapter equips and defends them. The first half tours the tools — physical and digital — with the ADHD-specific selection rules that generic productivity advice leaves out. The second half faces the two problems that actually kill systems: the environment's constant bid for your attention, and the quiet decay that sets in once any system stops being new. That last topic is the chapter's real destination, because everyone with ADHD has a graveyard of abandoned planners, and the difference between people whose systems work isn't better systems — it's knowing that maintenance is a skill of its own.
 
+!!! mascot-welcome "Tools, and the skill nobody teaches"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    The rest of the toolkit — reminders, calendars, planners, blockers — and then the part most books leave out: what to do when all of it stops working. Because it will, and that's normal operation rather than failure. I'll sit with you.
+
 ## The Physical Layer
 
 **Visual reminders** apply Chapter 9's out-of-sight rule as a tool class: the environment itself becomes the reminder. The trash can *in front of* the door on trash night, the sticky note on the steering wheel, the library book on the driver's seat, the whiteboard at eye height by the coffee maker. Two rules keep them working. Put the reminder *where the action happens or where the body will be at action time* — a note in the kitchen can't fire at the car. And rotate their look: visual reminders suffer the same novelty decay as everything else — a note that hangs for three weeks becomes wallpaper, so move it, change the color, rewrite it. A stale reminder isn't neutral; it trains the eyes to skip that spot.
@@ -55,6 +60,12 @@ Chapter 9 built the systems; this chapter equips and defends them. The first hal
 **Designated places** got their principle in Chapters 3 and 9 — the bowl, the hook, the charger shelf; locations doing the remembering — and here's the tool-level addendum: the home must be *at the point of use* (keys live where you exit, medication lives where the morning coffee happens, the dog leash lives on the actual door). A designated place across the room from the habit it serves is a system with a commute, and systems with commutes die. When an object keeps failing to come home, move the home closer to the behavior instead of re-committing to the walk.
 
 ## The Digital Layer
+
+!!! mascot-tip "The single highest-value setting"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Give travel time its own alert, before the event. "Leave for dentist" at 2:30 does work that "dentist" at 3:00 cannot, because the 3:00 alert fires when you're already late. Time blindness needs the departure cued, not the destination.
+
 
 **Digital calendars** are the highest-value digital tool for this brain, for one mechanical reason: they *fire* — a paper calendar must be remembered-to-be-checked (Chapter 9's planner autopsy), while a digital one interrupts on schedule. The ADHD usage rules: everything dated goes in at capture time (the moment of commitment, Sam's rule), every entry gets an alert — and travel-time gets its own alert *before* the event ("leave for dentist" at 2:30, not "dentist" at 3:00, because the 3:00 alert fires when you're already late — time blindness needs the departure cued, not the destination). Shared family calendars deserve a sentence: they externalize the household's prospective memory in one place both readers can see, replacing a whole genre of "I told you about this" fights with infrastructure.
 
@@ -110,6 +121,11 @@ Implementation: p5.js, responsive, seeded-random capture generation varied per r
 
 **Email and message triage** applies the same defense to the inboxes: process in *batches at chosen times* (two or three daily windows beat continuous monitoring, which converts the whole workday into one long interruption), use the two-minute rule at the moment of reading (act now if tiny; otherwise capture to the real list and archive — re-reading a message six times *deciding* about it is the load leak), and grant yourself inbox amnesty when the backlog is measured in thousands (archive everything older than a month, declare bankruptcy honestly, and defend the fresh start with the batching rule). The unanswered-message shame spiral — where a reply gets harder every day it ages, until avoidance is total (Chapter 11 will name the feeling) — has one mechanical fix: the reply that says "sorry for the delay, short answer below," sent imperfect today, beats the perfect reply that never ships.
 
+!!! mascot-warning "Absolute walls get uninstalled"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A blocker with no override gets removed by day four. Make unblocking slow but possible — a 30-second delay outperforms a hard wall, and layered defences beat any single perfect one.
+
 ## Choosing, Starting, and Paying Yourself
 
 **Prioritization methods** exist because the everything-list (Chapter 9) still needs three items pulled from it, and ADHD complicates the pull in a known way: urgency and interest shout, importance whispers. The two tools worth owning: the urgent/important grid — whose entire ADHD value is the quadrant it *exposes*: important-but-not-urgent, the quadrant delay aversion renders invisible (the checkup, the retirement form, the maintenance this chapter ends with), which never wins an auction and must therefore be *scheduled*, not willpowered — and the one-question shortcut for overwhelmed mornings: "what, undone, causes the most damage by Friday?" Do that first; the rest is genuinely negotiable, whatever its volume.
@@ -121,6 +137,12 @@ Implementation: p5.js, responsive, seeded-random capture generation varied per r
 **Reward systems** — self-administered payoffs for completed work — need one honest ADHD-specific redesign: distant rewards don't motivate (the discount curve again), so pay *immediately and small* (the episode after the sprint, the good coffee during the boring task — bundling beats sequencing when the task is long), make the payment *visible in advance* (written on the today-list next to the task it's wired to), and actually collect (skipped rewards teach the system the currency is fake — collecting is maintenance, not indulgence). For families: rewards you *offer* an adult are wages from a boss; rewards they *design* and you help defend are infrastructure. The difference is Chapter 14's whole subject.
 
 ## System Maintenance: The Skill Nobody Teaches
+
+!!! mascot-thinking "Decay is the design, not the failure"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Every system arrives with a full tank of novelty that burns down over weeks. People whose lives look organised aren't running ten-year-old systems — they're running this month's version, patched and restarted. A system that ran six weeks worked for six weeks.
+
 
 Here's the tool layer summarized — each row explained above, with its ADHD selection rule:
 
@@ -153,6 +175,11 @@ The worked example that reframes the whole toolkit: two years of Rosa's househol
 
 ??? question "Check yourself: 'He set up the perfect focus system in September — blockers, notifications off, a starting ritual, rewards. It's November and he's doomscrolling through homework again. The system failed.' What does this chapter say actually happened, and what's the move? Click to check."
     What happened is the documented lifecycle, not a failure: novelty fuel burned down on schedule (the system ran two months — that's two months of wins already banked), and without a maintenance loop, decay went unpatched until collapse. Probably several small deaths compounded: the ritual drifted, one blocker got uninstalled on a bad night, badges crept back on. The move is the maintenance loop, not a rebuild-from-zero: hold the cheerful funeral, harvest the parts that worked (the kitchen charger held; the ritual worked until it drifted), restart *shrunk* — maybe just distance-plus-timer — and install the missing piece, a weekly ten-minute review with its own alarm, so the next decay gets a five-minute patch instead of a November discovery. Also check the 9 pm doomscrolling against Chapter 6: if it's guarding exhaustion or low mood, no blocker configuration fixes what sleep or screening should.
+
+!!! mascot-celebration "Nobody's character is on trial"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    When the whiteboard goes stale and the routine collapses, that's a Tuesday event with a Tuesday fix: harvest what worked, restart smaller. That stance is the actual deliverable of these two chapters.
 
 ## What to Carry Out of This Chapter
 

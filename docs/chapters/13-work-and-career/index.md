@@ -45,6 +45,11 @@ This chapter builds on concepts from:
 
 Chapter 4 made a promise this chapter keeps: work is the first life stage where you get to *choose the environment* — and for a brain whose symptoms are situational (Chapter 3), choosing the environment is choosing the symptom load. The same person can be the office disaster or the team's engine depending almost entirely on what the job asks for and how it's structured. So this chapter treats career the way an engineer would: fit first, legal tools second, daily craft third, and sustainability last. The family reader has a real but bounded role here — sounding board on fit and disclosure decisions, and early-warning system on burnout — and this chapter marks those spots; the driving is all done by the person with the career.
 
+!!! mascot-welcome "Design the water, not the fish"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This chapter inverts the usual question. Not "what's wrong with me at this job?" but "what does this job pay for, and is it what my brain produces?" Same person, different water, opposite performance reviews. I'll sit with you.
+
 ## Fit: Choose the Water You Swim In
 
 **Career fit** for ADHD starts by inverting the usual question. Not "what's wrong with me at this job?" but "what does this job *pay for*, and is it what my brain produces?" You've spent twelve chapters inventorying the machine: an interest-based motivation system, deadline-powered output, novelty hunger, hyperfocus under the right load, restless energy, divergent idea generation — and, on the cost side, war with slow paperwork, long unstructured projects, repetitive maintenance, and sustained administrative precision. Fit means a role where the paid-for column overlaps your production column and the war column is small or delegated. The worked example is a tale of one nurse: Priya's cousin spent three miserable years in a records-and-compliance role — every day a stack of Chapter 3's worst task shapes — concluded she was "bad at working," and nearly left nursing. The ER position she finally took asks for exactly what her brain volunteers: triage urgency, novelty by the hour, visible immediate results, movement, a team. Same credential, same person, opposite performance reviews. Nothing about her ADHD changed; the water did.
@@ -54,6 +59,12 @@ Chapter 4 made a promise this chapter keeps: work is the first life stage where 
 **Job search with ADHD** gets a paragraph because the search itself is a hostile task shape — a long, unstructured, rejection-rich project with distant payoffs, run entirely on self-scheduling: essentially a stress test of everything Chapter 2 said is hardest. Run it as a Chapter 9-10 project: scaffold it (daily next-actions — "send two applications," never "job hunt"), body-double it (a friend, a career center, a weekly accountability check), timebox the applications (they expand to fill any container), and expect the RSD hazard (Chapter 11) — rejections and silence are the medium of every search, so pre-decide the reframe: a non-reply is a statistic, not a verdict, and volume is the strategy. Interview prep, on the other hand, plays to strengths: it's novel, social, high-urgency, and improvisational — many people with ADHD interview far better than they apply.
 
 ## The Legal Layer: ADA, Accommodations, Disclosure
+
+!!! mascot-thinking "Most accommodations need no diagnosis attached"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Written follow-ups, a quieter desk, protected focus blocks — these are things a good manager would grant anyone who asked well. Ask for the specific condition rather than presenting the diagnosis; the formal process is what you escalate to when that fails.
+
 
 **ADA basics** in plain language: in the US, the Americans with Disabilities Act requires employers (with 15+ employees) to provide *reasonable accommodations* to qualified employees with disabilities — and ADHD can qualify when it substantially limits major life activities, which the diagnosed readers of this book will generally recognize in themselves. Three load-bearing details: you must be able to perform the job's *essential functions* with or without accommodation (the ADA levels the field; it doesn't waive the job); the employer owes you an *interactive process* — a good-faith conversation about what would work — not necessarily your first-choice accommodation; and "reasonable" excludes *undue hardship*, so the scale of the ask matters. The protection only activates when the employer *knows* — which is the disclosure decision below — and other countries have parallel frameworks under different names (the strategy layer, as usual, travels; the statute names don't).
 
@@ -96,6 +107,12 @@ Implementation: p5.js with HTML panels, responsive.
 
 ## The Daily Craft
 
+!!! mascot-tip "The move that reads as professionalism"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Send your manager a stage plan with dates — draft Friday, revisions Tuesday, final Thursday. It manufactures the witnesses that make near deadlines bind, and it has a side effect: the person who ships stage plans reads as exceptionally organised.
+
+
 **Managing meetings** compresses three known hazards — sitting still (Chapter 3's internal restlessness), sustained passive listening (attention's worst input shape), and the blurt (Chapter 2's brake) — into a conference room. The craft: bring a legal fidget (doodling and note-taking are socially invisible movement, and doodling genuinely aids listening for many); capture in real time (the meeting *is* a capture-point situation — actions land on the list as they're assigned, because "I'll remember what I agreed to" is Chapter 9's retired strategy); park the blurts on paper (write the interjection down — it holds the thought so working memory can release it, which is most of why interruption happens); and where you have any influence, shape the meeting itself — agendas in advance, walking 1:1s, and a hard stop.
 
 **Focus blocks at work** are Chapter 10's defense stack negotiated into a calendar: recurring, visibly-booked blocks (mornings, for most — or wherever *your* medication and energy curves peak, Chapter 7's pharmacokinetics applied to scheduling) with notifications batched, status set, and the block defended like a client meeting — because an unprotected calendar at a modern workplace defaults to being everyone else's capture system. **Deadlines at work** get the full Chapter 10 scaffold with an organizational twist: self-imposed checkpoints don't bind (no witness), so *manufacture institutional witnesses* — send the manager a stage plan with dates ("draft to you Friday, revisions Tuesday, final Thursday"), which converts one distant deadline into three near ones with an audience, and has a career side effect: the person who ships stage plans reads as exceptionally organized. That's the recurring irony of this section — ADHD-driven workarounds, externally visible, look like elite professionalism.
@@ -107,6 +124,11 @@ Implementation: p5.js with HTML panels, responsive.
 **Remote work and ADHD** cuts both ways, and knowing which edge is which prevents a bad decision made on a good day. The gains: total environment control (Chapter 10's defense stack, no negotiation required), no commute or open-office capture field, and schedule freedom to match energy curves. The losses: the *entire structural scaffold* of a workplace — other people's presence (ambient body doubling nobody counts until it's gone), physical transitions that bound the workday, and visible social accountability. Fully remote plus ADHD plus no compensating structure is Chapter 4's college cliff with a salary. The engineering, for those who choose it: rebuild what the office provided on purpose — a dedicated workspace with a door (environment boundary), virtual body doubling (Chapter 9 — the muted-video coworking session is a remote-work staple in the ADHD community), hard start/stop rituals to replace the commute's transitions, and deliberately over-communicated visibility (ship the stage plans; remote work makes output the only signal, which punishes quiet strugglers and rewards the externalizers this book has been training).
 
 **Entrepreneurship and ADHD** deserves its honest two-sided paragraph, because the mythology runs hot in both directions. The genuine affinity: self-employment maximizes interest-alignment, novelty, urgency, and autonomy — the four currencies Chapter 2 said this motivation system accepts — and the founder population visibly over-indexes on ADHD traits (risk tolerance, idea generation, crisis performance). The genuine hazard: a founder is their own manager, bookkeeper, and compliance department — the *entire* admin tax, unbuffered, lands on the person the tax hits hardest, with no institutional scaffolding anywhere. The people who make it work usually do one thing early and unromantically: *buy or partner for the executive functions* — a bookkeeper before it's affordable, a detail-strong cofounder or first hire, systems (Chapters 9-10) treated as company infrastructure rather than personal virtue. Chase the fit; staff the war column.
+
+!!! mascot-warning "The yes that arrives with no bill attached"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    The interest-based system says yes to every novel project at the moment of maximum shine, and the costs all arrive together, weeks later. A yes-budget enforced by the calendar beats in-the-moment judgment, because in-the-moment judgment is exactly what's compromised.
 
 ## Sustainability: Burnout Prevention at Work
 
