@@ -123,6 +123,7 @@ nav:
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
       - Book Metrics: learning-graph/book-metrics.md
       - Chapter Metrics: learning-graph/chapter-metrics.md
+      - Mascot Test Page: learning-graph/mascot-test.md
       - Glossary Quality Report: learning-graph/glossary-quality-report.md
       - FAQ Quality Report: learning-graph/faq-quality-report.md
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
@@ -163,9 +164,9 @@ nav:
 # Theme configuration
 theme:
   name: material
-  # Once a logo is generated, point this at docs/img/logo.png or a mascot pose:
-  # logo: img/logo.png
-  # favicon: img/favicon.ico
+  # Bhindi, the learning mascot — see docs/img/mascot/character-sheet.md
+  logo: img/mascot/logo.png
+  favicon: img/favicon.ico
   palette:
     primary: 'teal'
     accent: 'amber'
@@ -227,6 +228,7 @@ markdown_extensions:
 # Custom CSS — file is created by init-textbook
 extra_css:
   - css/extra.css
+  - css/mascot.css
 
 # Custom JavaScript — uncomment once a corresponding file exists
 # extra_javascript:

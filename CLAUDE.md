@@ -86,6 +86,25 @@ Quizzes row reads 150. The real total is 300 — each chapter also has a
 complements the recall-weighted original. Keep the reader-facing counts in
 `README.md`, `docs/about.md`, and `docs/index.md` in sync by hand.
 
+## Mascot
+
+**Bhindi** is the book's learning mascot — a caring bluish-grey shorthair cat
+with yellow eyes. Canonical description, voice rules, and placement limits are
+in `docs/img/mascot/character-sheet.md`; read it before writing Bhindi dialogue
+or generating new art. Seven poses live in `docs/img/mascot/`, generated with
+OpenAI `gpt-image-2` via `scripts/generate-mascot.py` (prompts preserved in
+`docs/img/mascot/image-prompts.md`). Rendering check: `learning-graph/mascot-test.md`.
+
+**The rule that matters most:** Bhindi never appears beside crisis guidance,
+grief, shame, or caregiver-burnout material. A cartoon cat next to Chapter 6's
+988 guidance or Chapter 11's shame sections undercuts the book. Hard limits from
+Dan's `mascot-placement-rules.md` also apply — at most six per chapter, one
+welcome and one celebration, never two back-to-back, never decorative.
+
+Bhindi is **installed but not yet placed in any chapter.** Chapter placement is
+`book-installer` feature 35 (`mascot-chapter-updater`), still to be run, and it
+should be run chapter by chapter with the exclusions above respected.
+
 ## Working rules
 
 - **Read `CONTENT-GENERATION-GUIDE.md` before generating any chapter content.**
