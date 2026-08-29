@@ -99,3 +99,34 @@
 .md-status--scaffold:hover:after { background-color: #b71c1c; }
 .md-status--built:hover:after    { background-color: #ef6c00; }
 .md-status--approved:hover:after { background-color: #1b5e20; }
+
+/* MicroSim catalog cards — thumbnail grid on docs/sims/index.md */
+.md-typeset .sim-card {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(50% - 1.2rem);
+  margin: 0 .5rem 1.4rem 0;
+}
+
+.md-typeset .sim-card img {
+  width: 100%;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .2rem;
+  display: block;
+  transition: border-color .15s, box-shadow .15s;
+}
+
+.md-typeset .sim-card a:hover img {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 .2rem .5rem rgba(0, 0, 0, .18);
+}
+
+.md-typeset .sim-card p {
+  margin: .3rem 0 0;
+  font-size: .74rem;
+  line-height: 1.35;
+}
+
+@media screen and (max-width: 600px) {
+  .md-typeset .sim-card { width: 100%; margin-right: 0; }
+}
