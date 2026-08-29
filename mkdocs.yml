@@ -106,6 +106,8 @@ nav:
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Graph Quality Analysis: learning-graph/quality-metrics.md
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+      - Book Metrics: learning-graph/book-metrics.md
+      - Chapter Metrics: learning-graph/chapter-metrics.md
       - Glossary Quality Report: learning-graph/glossary-quality-report.md
       - FAQ Quality Report: learning-graph/faq-quality-report.md
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
@@ -249,6 +251,9 @@ extra:
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: 'Understanding ADHD'
   textbook_version: '0.1'
+
+  # Book Composition element #12, read by bk-generate-book-metrics.
+  development_stage: 'Complete draft - awaiting clinical review'
 
   # Google Analytics — uncomment once a property ID exists:
   # analytics:

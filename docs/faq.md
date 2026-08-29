@@ -307,6 +307,42 @@ With engineering, not virtue. The surge peaks and begins to fall within roughly 
 
 Name the mechanism first: by some estimates a child with ADHD hears tens of thousands more corrective messages by age twelve than a typical child, and no child files those as commentary on neurology — they file them as data about who they are. Guilt says "I did a bad thing" and repairs; shame says "I am the bad thing" and hides — the unopened mail, the two-day avoidance of a two-minute task. The repair work is real: self-compassion (which research shows *improves* follow-through, unlike shame), reframing the past against mechanism instead of character, sometimes ADHD-adapted therapy. For families: watch your corrective-message ratio — you control today's weather — and offer the reframe out loud: "we were grading you on hardware you didn't have." See [Chapter 11](chapters/11-emotional-life-and-identity/index.md) and [Chapter 4](chapters/04-adhd-across-the-lifespan/index.md).
 
+### How do I stop losing my keys, phone, and wallet?
+
+Give each one a designated place, and put that place where you already arrive. A bowl by the door beats a drawer in the bedroom, because a home with a commute is a home that doesn't get used — you'll drop the keys wherever you land instead. Pick the spot by watching what you actually do for a week, not by deciding what would be tidy.
+
+Three rules make it stick. Keep the container open — a lid or a drawer adds friction, and friction is what rebuilt the pile last time. Put it at the point of use, so the wallet lives where you empty your pockets and the medication lives beside the coffee maker. And accept that one bowl per item beats one beautiful organizer holding everything, because the organizer requires a decision and the bowl doesn't.
+
+For the family reader: the useful contribution is building the spot together, not announcing where things "should" go. And when the keys still end up on the counter, moving them to the bowl silently is help; narrating it is a correction, and [Chapter 11](chapters/11-emotional-life-and-identity/index.md) explains what a lifetime of those does.
+
+Chapter 10 has the full tool layer, including why designated places die and how to revive them.
+
+**See:** [Chapter 10: Tools And Keeping Systems Alive](chapters/10-tools-and-system-upkeep/index.md)
+
+### How do we get out the door on time?
+
+Stop negotiating with your estimate and go measure it. Time out three ordinary mornings — start to door — and write the actual number down. Most people discover the "ten-minute" routine is twenty-six minutes, and the gap, not any lack of effort, is what's making everyone late.
+
+Then schedule backward from the hard deadline using the measured number, and set the alarm at the *start* of the sequence rather than the end. "Leave at 6:00" is not an instruction anyone can act on; "shower at 5:20" is. Label the alarm with the action, because an unlabeled alarm two hours after you set it is a mystery.
+
+Move every decision you can to the night before: clothes out, bag packed, keys in the bowl, forms in the bag. Mornings run on the least medicated, least caffeinated brain of the day, so the live sequence should be pure execution with nothing left to choose.
+
+For the family: the transition warning is the highest-value thing you can offer, and it works because it pays the switching cost in advance. "Twenty minutes, then ten, then we're leaving" beats one announcement at zero. Delivering it once per interval, in a flat voice, is a reminder. Delivering it four times with rising heat is the loop [Chapter 14](chapters/14-family-life/index.md) describes.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md) and the [Time Blindness Challenge](sims/time-blindness-challenge/index.md)
+
+### Our routine collapsed. How do we restart it?
+
+Restart it smaller. The two-step version that runs beats the seven-step version that doesn't, and the version that just died tells you which steps were carrying weight and which were decoration.
+
+Do it in this order. First, name what actually worked before you name what failed — "the alarms fired, the categories never got used" is a parts list, and the parts go into the next version. Second, cut the routine to the two or three steps you'd keep if you could only keep three. Third, re-anchor it to a fixed event rather than a clock time, because "after the coffee finishes" survives weekends and "at 7:15" doesn't. Fourth, refresh the novelty on purpose — new color, different app, moved location. This brain runs on novelty, so a cosmetic change is fuel, not vanity.
+
+The part worth internalizing: collapse is normal operation, not failure. Every system arrives with a full tank of novelty that burns down over weeks. People whose lives look organized aren't running ten-year-old systems — they're running this month's version, patched and restarted. A routine that ran six weeks worked for six weeks.
+
+So hold what Chapter 10 calls a cheerful funeral: harvest the parts, skip the self-indictment, and stand up a smaller version this week. Nobody's character is on trial when a whiteboard goes stale.
+
+**See:** [Chapter 10: Tools And Keeping Systems Alive](chapters/10-tools-and-system-upkeep/index.md)
+
 ## Best Practice Questions
 
 ### What is externalizing memory, and what's the one rule to start with?
@@ -358,6 +394,164 @@ With a sequence, usable by either person. Wait out the squall (minutes, not days
 ### What should go in a Personal Owner's Manual?
 
 The book's first capstone: a short document the person with ADHD writes for the people who love them. Its sections, each built by an earlier chapter: how my brain works (the mechanism paragraph, written without shame); my executive-function profile; my conditions (when I work best, what reliably breaks me); my tells and my weather (what overwhelm looks like from outside, what helps mid-squall); what masking costs me and where the mask comes off; the systems I run; the help I actually want — and don't; and my strengths. Two pages is plenty. The [Capstone Builder](sims/capstone-builder/index.md) walks you through it section by section, saving only to your own browser; [Chapter 15](chapters/15-partners-and-caregivers/index.md) has the template.
+
+### How do I set up a capture system in one sitting?
+
+Pick one tool that is always physically on you, and give it a monopoly. For most people that's the phone's notes or reminders app; for some it's a pocket notebook, and for household items a kitchen whiteboard. The specific tool matters far less than the number, which must be one — five capture points recreate the original problem as "which list was that on?"
+
+Setup takes about ten minutes. Put the app on your home screen or lock screen so capture costs one tap, not four. Delete or ignore the other four places you've been jotting things. Then add a nightly two-minute sort: move what's actionable onto tomorrow's list, delete what's dead.
+
+The habit is the hard part, and it has a specific shape: you reach for the tool *mid-conversation*, at the mailbox, in the parking lot — the instant the commitment appears, before working memory can drop it. It feels rude and mechanical for about two weeks. Then it quietly removes an entire category of failure.
+
+For the family reader: when your person stops mid-sentence to capture something, that's the system working. The respectful move is to wait while they type — not to keep talking, and definitely not to add two more items while they're at it.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I turn a stalled task into something I can start right now?
+
+Name the physically next thing. Not "work on taxes" but "find last year's return in the email and download it." The test of a real next action is that you could do it right now without deciding anything further.
+
+Most of what gets called procrastination on a big project is an undefined next action — the task is a project wearing a task's name, fifty invisible steps with no marked entrance, and the starter motor has nothing its size to grab. "Renew the car registration" can sit for three weeks; "find the renewal notice on the counter and put it by the laptop" takes ninety seconds and breaks the dam, because the ninety-second version asks nothing of planning, only of doing.
+
+The procedure: write the stalled item, then write the smallest physical action that moves it. If that action still produces the avoidance feeling, split it again. Keep splitting until the step is boring. A step you'd be slightly embarrassed to write down is usually the right size.
+
+The [Next-Action Trainer](sims/next-action-trainer/index.md) drills exactly this — it shows candidate next actions and names which test each bad one fails, then has you write your own.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I find out how long things actually take me?
+
+Measure, don't estimate. Keep a log for a week or two: before a recurring task, write your guess; after, write the actual. Review on the weekend.
+
+That's the whole technique, and it works because time blindness degrades the estimate but not the stopwatch. A belief that getting ready takes eight minutes survives only as long as it's never confronted with data. Three logged mornings turn it into twenty-six, and the revised number — not more self-scolding — is what changes the departure math.
+
+Two rules of thumb while your calibration builds. Multiply gut estimates for boring multi-step tasks by 1.5 to 2. And schedule backward from hard deadlines using the logged numbers, setting the alarm at the start of the sequence.
+
+Log the tasks that keep making you late, not everything. Five recurring items — morning routine, commute, the weekly report, grocery run, bedtime — cover most of the damage.
+
+For the family: the log settles arguments that opinions can't. "You always underestimate" is a character claim and gets defended against; a column of guessed-versus-actual numbers is just data, and both of you can plan from it.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I make timers work if Pomodoro never has?
+
+Tune the sprint to your actual attention instead of taking 25 minutes as given. Some people do better at 15, some at 45. Your estimation log will tell you which, and using the wrong number is the most common reason the technique bounces.
+
+Three adjustments fix most of the rest. Guard the break's end with its own alarm — the break is where Pomodoro dies, and an unguarded five minutes becomes forty. Commit to starting the sprint, not to finishing the task; you're not starting the thesis, you're starting 25 minutes, which is small enough for the starter motor to grab. And if hyperfocus arrives mid-sprint on the *right* task, let it run. The technique is a starter, not a governor.
+
+It's worth knowing why the ticking countdown helps at all: it manufactures urgency that a distant deadline can't supply. [Chapter 2](chapters/02-the-adhd-brain/index.md) explains the discount curve that makes far-off consequences feel weightless — the timer artificially steepens it.
+
+If sprints still don't fit, use timers the other way: as transition warnings and wear-off alarms, making duration visible rather than structuring work. A visible countdown that turns abstract time into a shrinking shape does real work even when no sprint is involved.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I body-double if I live alone or work from home?
+
+Use a video call with the camera on and both people muted, each working on their own thing. That's the standard remote form, and it works because mere presence is what supplies the effect — not help, not supervision.
+
+Other options that cost nothing: a café or library, where the ambient population does the job; a scheduled call with a friend who also has admin to grind through; or one of the online body-doubling rooms where strangers work alongside each other on camera. Some people get most of the benefit from a phone propped against the monitor with a sibling on the other end doing dishes.
+
+Why presence works maps onto the brain science: another person supplies mild arousal that lifts you out of the under-stimulated fog, a whiff of social accountability, and a little interest-currency — even a boring task becomes slightly performed. It costs nothing and converts some people's worst task categories from impossible to routine, which makes it the first thing to try on any chronically stalled chore.
+
+For the family reader, note carefully what body doubling asks of you and what it doesn't. Sit nearby with your own book. Resist narrating, correcting, or checking progress — that converts a body double into a foreman and cancels the effect entirely.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I set up an accountability partner without it turning into policing?
+
+Make the commitment concrete and dated, keep the stakes friendly, and pick a peer rather than your spouse.
+
+Concrete and dated means "Casey is standing outside at 7 on Tuesday," not "let's keep each other on track." The mechanism is external deadline manufacture — the reward system that ignores "someday" responds to a specific person expecting a specific thing at a specific time. Vague mutual encouragement supplies none of that.
+
+Friendly stakes matter more than they sound. Shame-based accountability gets avoided along with the task, and a partner you've started dodging has become a second deadline problem rather than a solution. The check-in should be a text you can answer honestly with "nope, didn't happen" without bracing first.
+
+The peer-not-spouse rule is the one people resist and later wish they'd taken. Recurring task accountability inside a marriage converts one partner into the household's compliance officer, and [Chapter 14](chapters/14-family-life/index.md) is blunt about what that role does to a relationship over years. A gym friend, a writing group, or a Sunday "did we both do our admin?" text with a sibling carries the same physics without the cost.
+
+**See:** [Chapter 9: Building Daily Systems](chapters/09-building-daily-systems/index.md)
+
+### How do I run a weekly review that survives?
+
+Ten minutes, one anchored slot, its own alarm. The review is itself a system, so it inherits every failure mode in the book — including being forgotten — which is why it gets an anchor ("Sunday coffee") and an alarm rather than good intentions.
+
+Ask three questions. What worked this week? What's quietly decaying — the reminder that's become wallpaper, the planner nobody opened, the blocker that got uninstalled? What does next week actually need?
+
+Then patch small, on the spot. Move the note, shrink the routine, re-anchor the stack. Five-minute fixes during the review beat rebuilds after a collapse, and catching a decaying system while it's still limping is the entire point.
+
+Keep it short enough that you'd still do it on a bad week. A review that has died twice and been restarted smaller each time is working as designed — one family's current version is five minutes and two questions, and it's kept four recurring fights from coming back for two years.
+
+**See:** [Chapter 10: Tools And Keeping Systems Alive](chapters/10-tools-and-system-upkeep/index.md)
+
+### How do I prepare for an ADHD evaluation?
+
+Gather evidence before you go, because the evaluation asks for more than how you feel today.
+
+Bring what you can find from childhood: old report cards (teacher comments are often more useful than grades), and anyone who knew you before age twelve who'll answer a few questions. The diagnostic criteria require symptoms present in childhood, and this is where late-diagnosed adults most often stall — not because the symptoms weren't there, but because nobody wrote them down.
+
+Then document the present concretely. Instead of "I'm disorganized," bring specifics: missed deadlines this quarter, the renewal that lapsed, what a typical morning costs. Note where it shows up — work, home, driving, money — because impairment across settings is part of what's being assessed.
+
+Write your questions down in advance and take them in. You will forget them otherwise, which is a little on the nose but genuinely happens.
+
+Expect the evaluation to also screen for the conditions that look like ADHD or travel with it — anxiety, depression, sleep disorders, trauma. That's thoroughness, not doubt about you.
+
+For the family member coming along: your job is collateral information, offered when asked. Bring your own observations, and let the person answer for themselves.
+
+**See:** [Chapter 5: Getting A Diagnosis](chapters/05-getting-a-diagnosis/index.md) and the [Evaluation Anatomy Map](sims/evaluation-anatomy-map/index.md)
+
+### How do I tell whether a new medication is working?
+
+Track it, using the same one or two measures every day, and decide in advance what "working" would look like.
+
+Pick concrete targets before you start — not "feel better" but the specific things you'd expect to change: homework started before 8pm, tasks finished without three restarts, fewer interruptions in meetings. Rate them daily on a simple scale. Note side effects the same way, especially appetite and sleep, along with the time of day things shift.
+
+Two weeks of that gives your prescriber something to work with, and it protects you from two opposite errors: abandoning a medication that's helping in ways you stopped noticing, and staying on one that isn't doing much because stopping feels like failure.
+
+Watch for the daily arc as well as the overall level. Many people find the useful window is shorter than the dose is meant to last, or that a late-afternoon cliff is what's actually wrecking evenings — that's a timing conversation, not a dose-raising one.
+
+Finding the right medication and dose is a process of deliberate adjustment, usually taking several rounds. Slow is normal. The [Titration Response Tracker](sims/titration-response-tracker/index.md) walks through eight weeks of one person's data and the decisions at each step.
+
+**See:** [Chapter 7: Medication](chapters/07-medication/index.md)
+
+### How do I actually request accommodations at school or work?
+
+The two systems work differently, so start by knowing which one you're in.
+
+In K-12, the parent can drive it: put the request for evaluation **in writing** to the school, which starts a legal timeline, and ask specifically for a 504 plan or an IEP. Verbal requests to a teacher are goodwill, not process.
+
+In college, the student must drive it — the school will not contact them, and parents generally can't act on their behalf. The student registers with disability services, provides documentation, and then, critically, **activates the letters each term**. Getting approved once is not the same as having accommodations in a given semester, and this is where the most support gets lost.
+
+At work, the ADA framework applies. Request the specific adjustment you need — noise-canceling headphones, written follow-ups after verbal instructions, a flexible start time — rather than disclosing a diagnosis and hoping. You generally don't have to name the condition to ask for a change, and asking for a concrete accommodation is a much easier conversation than a disclosure.
+
+Whether to disclose at all is a separate strategic decision, not a confession. The [Disclosure Decision Navigator](sims/disclosure-decision-navigator/index.md) walks through the factors, and the [Accommodations Pathway Navigator](sims/accommodations-pathway-navigator/index.md) maps who drives each step.
+
+**See:** [Chapter 12: School And College](chapters/12-school-and-college/index.md) and [Chapter 13: Work And Career](chapters/13-work-and-career/index.md)
+
+### How do I give a reminder that doesn't land as nagging?
+
+The difference is mechanical, not moral. A reminder is requested, specific, and delivered through an agreed channel. A nag is unrequested, repeated, and delivered with rising emotional interest.
+
+So agree on the channel in advance, while nobody is annoyed. Decide together which two or three domains the person actually wants verbal reminders for, and route everything else to a shared list or calendar. Then the sentence that replaces a fourth "did you do it yet?" becomes "want me to add it to the board?"
+
+The escalation you're trying to avoid runs like this: an unrequested verbal reminder lands on the same leaky working memory that dropped the original task, so it gets repeated, so irritation loads onto the repetition, so the person starts responding to the tone instead of the content, so reminders get tuned out wholesale, so the reminder-giver escalates. Six months later one person is "a nag" and the other is "impossible to live with." Both are right, and neither caused it.
+
+The exit is structural: reminders move from people to systems, by agreement. The person with ADHD owns the alarms, lists, and launchpads. The family's role shrinks to the negotiated minimum.
+
+Both sides win, and it's the same redesign — the family member gets to retire from the reminder business, and the person with ADHD gets to stop being reminded.
+
+**See:** [Chapter 14: Family Life And Communication](chapters/14-family-life/index.md)
+
+### How do we run a family meeting that doesn't turn into a trial?
+
+Twenty minutes, same time weekly, food helps, and a fixed agenda in this order.
+
+Wins first — name what went right, out loud, before anything else. Then the week ahead: calendar review, who needs what, rides and forms and deadlines. Then exactly one system patch — what's decaying, and never more than one, because a meeting that redesigns everything weekly becomes a meeting people dread. Then anything anyone parked during the week.
+
+Three mechanics keep it alive. It ends on time. Actions leave in the capture system, not in heads. And it audits systems, never people — the first time the meeting is used to prosecute someone's week is the last week they honestly attend.
+
+Half the value is what it abolishes. "While I have you..." is the meeting's natural predator, and giving every "we should talk about" a scheduled place to wait means it stops ambushing people at 9:30 at night.
+
+Pair it with a shared calendar, which is the single highest-value piece of shared infrastructure in this book: every family commitment in one place, every entry alerted, added at the moment of commitment by whoever made it. It retires a whole genre of fight — "I told you weeks ago" versus "this is the first I'm hearing of it" — in which both people are usually telling the truth.
+
+**See:** [Chapter 14: Family Life And Communication](chapters/14-family-life/index.md)
 
 ## Advanced Topic Questions
 
