@@ -57,6 +57,11 @@ Two people sit in the same clinic waiting room with the same diagnosis. One is a
 
 The chapter's goal is vocabulary. Families who can say "that's time blindness" or "she's masking" have something to work on; families without the words argue about character instead. By the end, both readers should be able to watch a week of ordinary life and narrate it in terms this book can build on.
 
+!!! mascot-welcome "Words for what you're seeing"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This is the chapter that gives names to the things you argue about at home — time blindness, hyperfocus, the keys, the maddening "you did it fine yesterday." Families who have the words work on the problem. Families without them work on each other. I'll sit with you.
+
 ## The Official Sorting: Symptoms, Thresholds, Presentations
 
 Chapter 1 gave you the DSM-5's structure; here's the layer of it that determines what a diagnosis actually *says*. The **symptom criteria** are the eighteen specific behaviors the DSM-5 recognizes — nine inattentive (careless mistakes, difficulty sustaining attention, not seeming to listen, not following through, poor organization, avoiding sustained mental effort, losing things, distractibility, forgetfulness) and nine hyperactive-impulsive (fidgeting, leaving the seat, inappropriate running or restlessness, inability to be quiet in leisure, "driven by a motor," excessive talking, blurting answers, trouble waiting turns, interrupting). Everything the evaluator counts, every rating scale a school sends home, every checkbox in the report — it's all built from these eighteen. Notice what you can now see that a checklist reader can't: each symptom is an executive function from Chapter 2 failing in public. "Doesn't follow through" is task initiation and prospective memory; "loses things" is working memory; "blurts" is response inhibition. The DSM counts surface behaviors because surfaces can be counted — but you know the machinery underneath.
@@ -108,6 +113,12 @@ Implementation: p5.js, responsive layout, chips reflow on resize.
 
 ## The Inconsistency That Drives Everyone Crazy
 
+!!! mascot-thinking "Variability is the signature, not the exception"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Symptoms genuinely shrink when interest, novelty, or urgency show up. So "she focused for four hours on her art" isn't evidence against ADHD — it's a textbook illustration of it. Consistency is what would be surprising.
+
+
 Before the everyday traits, one concept that frames all of them. **Situational variability** is the well-documented fact that ADHD symptoms change strength with the situation: the same child who can't sit through five minutes of homework plays chess for an hour; the same adult who misses every internal deadline never misses a client's. This follows directly from Chapter 2's machinery — interest, novelty, urgency, one-on-one attention, and immediate feedback all raise the reward system's pull and lower the load, so symptoms genuinely shrink in situations that supply them. Video games are the canonical example: constant novelty, instant feedback, escalating challenge — a machine purpose-built to fit an interest-based nervous system. A child focusing on Fortnite proves nothing about what he can do with a worksheet.
 
 Its cousin is **performance inconsistency** — the same task, wildly different results on different days: Tuesday's flawless essay, Thursday's disaster; the monthly report done brilliantly one month and forgotten the next. Chapter 2 predicted this too (regulation is inconsistent by nature; sleep, load, and interest move daily), but here's the family consequence spelled out: *the good day gets weaponized*. "You did it perfectly last week, so I know you can" feels like encouragement and lands like an accusation, because it converts the best-ever performance into the new minimum standard. The accurate reading of a great day is "conditions lined up" — and the useful move is asking *which* conditions, so you can line them up on purpose. Write that question down; it's half of Chapter 9.
@@ -116,6 +127,12 @@ Its cousin is **performance inconsistency** — the same task, wildly different 
     Variability is the signature of ADHD, not evidence against it. If someone says "she can't have ADHD — I've seen her focus for hours," you now have the answer: uneven-by-situation is exactly what the condition looks like. Consistency is what would be surprising.
 
 ## The Traits Families Actually See
+
+!!! mascot-warning "How the good day gets weaponized"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    "You did it perfectly last week, so I know you can" feels like encouragement and lands like an accusation, because it turns a best-ever performance into the new floor. The useful question is which conditions lined up that week — those can be arranged on purpose.
+
 
 The DSM's eighteen symptoms are what evaluators count. What families live with is a different list — traits with no diagnostic checkbox that fill the actual arguments. Each gets its working definition here, grouped the way they show up.
 
@@ -221,6 +238,11 @@ Here's the whole toolkit of traits in one reference table — the prose above is
 | Procrastination / decision paralysis | Starter motor + threshold + frozen choice | "Lazy, doesn't care" |
 | Sensory sensitivity | Input arrives at painful volume | "Dramatic, picky" |
 
+!!! mascot-tip "Try this over one real week"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Instead of sorting the week's forgotten things by "did they care?", sort them by whether a cue existed — was it written down, did something fire at the right moment? Every data point lands where the machinery predicts, and the "you'd remember if you loved me" fight loses its footing.
+
 ## Masking: Working Hard to Look Fine
 
 One trait gets its own section because the rest of the book keeps returning to it. **Masking** is the continuous, effortful concealment of symptoms — suppressing the fidget, rehearsing the sentence to avoid blurting, triple-checking everything to hide the forgetting, arriving painfully early to hide time blindness, mimicking calm while internally revving. And **compensation strategies** are masking's constructive twin: the self-built workarounds — obsessive list-making, staying late to redo work, using raw intelligence to reconstruct missed instructions — that deliver normal-looking *results* at abnormal private cost. Together they explain the most confusing sentence families say: "But she does fine."
@@ -231,6 +253,11 @@ The worked example that ties this chapter shut: Grace, 34, is the colleague ever
 
 ??? question "Check yourself: 'He sat through his sister's whole two-hour recital, so the fidgeting in class is clearly a choice.' What three concepts from this chapter answer this? Click to check."
     (1) Situational variability — symptom strength genuinely changes with setting; a one-off high-stakes event with novelty and social pressure supplies conditions a daily classroom doesn't. (2) Masking — sitting still for two hours is likely effortful suppression, not comfort; the cost was paid invisibly and probably came due afterward. (3) Performance inconsistency — one good performance sets what's *possible* under ideal conditions, never what's *sustainable* under ordinary ones. Bonus: internal restlessness — stillness on the outside says nothing about what it took on the inside.
+
+!!! mascot-celebration "You can narrate a week now"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    Between Chapters 1 through 3 you have the mechanism, the machinery, and the vocabulary. That's the whole foundation — everything from here is what to do about it.
 
 ## What to Carry Out of This Chapter
 

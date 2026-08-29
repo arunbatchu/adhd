@@ -56,6 +56,11 @@ This chapter builds on concepts from:
 
 ADHD is one condition, but it never looks the same twice — Chapter 3 showed you that across people, and this chapter shows it across a single life. The same brain that couldn't sit through second-grade circle time later can't sit through quarterly planning meetings; the machinery is continuous, but the demands, the supports, and the costumes all change. Understanding the whole arc matters to both readers for one urgent reason: at every stage, the people around the person are watching for the *previous* stage's picture, which is how ADHD keeps slipping past everyone — and why this chapter's second half belongs to the people it slips past most: girls, women, and everyone diagnosed decades late.
 
+!!! mascot-welcome "One condition, one whole life"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    ADHD never looks the same twice, and this chapter follows it across a single lifetime. The reason that matters: at every stage the people around the person are watching for the previous stage's picture, which is exactly how it slips past everyone. I'll sit with you.
+
 ## Childhood: The Picture Everyone Knows (and Its Blind Spot)
 
 **ADHD in childhood** is the textbook picture, because childhood is where the textbooks were written. Symptoms are at their most visible: motor hyperactivity at its lifetime peak, impulsivity in a body with no social brakes yet, inattention colliding with school's first sit-still demands. This is when most hyperactive and combined presentations get flagged — typically between ages six and nine, typically by a teacher, because school is the first environment that demands sustained, uninteresting, seated work from every child on the same schedule and then measures compliance daily. Chapter 2's maturation lag explains what school is detecting: demands calibrated to average self-regulation, arriving on a fixed schedule, meeting a child whose self-regulation is running years behind his age on its own healthy trajectory.
@@ -71,6 +76,12 @@ The childhood stage also sets a pattern both readers will track through this cha
 Two facts about this stage deserve their own sentences. Adolescence is where the *gap* between a teen with ADHD and their peers often looks widest, because peers' prefrontal development is accelerating while the maturation lag holds — the "everyone else can manage a planner, why can't you" years. And adolescence is where untreated ADHD starts compounding into the secondary problems Chapter 6 covers: the anxiety of always being behind, the low mood of constant correction, self-medication with substances or screens. A worked example for the family side: Marcus (Chapter 2's tired sixteen-year-old) gets a D in history for missing assignments he *did* — they're in his backpack, unsubmitted. His parents' instinct is surveillance: check the portal nightly, confiscate the phone, escalate consequences. It helps for two weeks, then war. What the stage actually calls for is the harder middle path this book keeps returning to: scaffolding *with* him rather than *around* him — a weekly backpack-and-portal review he runs while a parent sits nearby, systems he'll own pieces of, because the graduations keep coming and the goal is transfer, never permanent control. That balance — support without takeover — becomes the entire theme of Chapter 14.
 
 ## The Transitions: Where the Scaffolding Comes Off
+
+!!! mascot-thinking "The pattern under every transition"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    At each step up — middle school, high school, college, work — external scaffolding drops away while executive demands jump. For most students that stretches a developing skill. For a student with ADHD, that skill is the impaired one, so each transition is a cliff edge rather than a step.
+
 
 Here is the single most useful pattern in this chapter. **Academic transitions** — elementary to middle school, middle to high, high school to college — share one structure: at each step, *external scaffolding drops while executive demands jump*. Elementary school gives one teacher, one room, and daily parent contact; middle school gives seven teachers and a locker; high school gives a permanent record and homework measured in hours; college gives nothing at all and calls it freedom. For neurotypical students each step stretches developing executive functions. For students with ADHD, whose executive functions are the impaired part, each transition is a cliff edge — and the research shows it: symptoms that looked managed reappear at transitions, grades that held for years drop in the first semester of the new level.
 
@@ -119,6 +130,12 @@ Implementation: p5.js, responsive, stepped series with clickable regions.
 
 ## Adulthood: The Invisible Load
 
+!!! mascot-warning "Why adult ADHD gets missed"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    It rarely looks like crisis. It looks like a tax on everything, collected daily and invisibly — the late fees, the quiet dread, the reputation for brilliant-but-flaky. Nothing on that list would alarm a doctor, and all of it compounds.
+
+
 **ADHD in adulthood** was barely acknowledged a generation ago; longitudinal research settled the question — a substantial majority of childhood cases carry impairing symptoms into adult life, and adult prevalence runs around 2.5 to 4 percent. What defines the adult stage isn't symptom strength; it's *load meets invisibility*. The adult with ADHD runs a job, a household, finances, relationships, and often children — the heaviest executive load of the lifespan — with zero institutional scaffolding, while looking (Chapter 3's masking) approximately fine. The traits wear grown-up clothes: hyperactivity is Priya's reorganized closet and three side projects; impulsivity is the sent email and the impulse purchase; inattention is the drowning inbox, the double-booked calendar, the unopened mail drawer. And the consequences wear grown-up price tags: performance reviews instead of report cards, late fees instead of lost folders, a partner's accumulated resentment instead of a teacher's note — which is why Chapters 13 through 15 exist.
 
 A worked example of the adult stage in one ordinary Tuesday. Ray, 36, diagnosed at 8 and long since "graduated" from treatment, gets both kids to school on time (a triumph nobody sees), forgets the 9:30 standup because the calendar alert fired while he was mid-task (prospective memory), works brilliantly from 10 to 1 on the interesting project and not at all on the expense report now three weeks overdue (interest-based steering), grabs $23 of takeout because dinner planning never happened (load), and at 9 pm — kids down, house quiet, executive battery at zero — faces the choice between the expense report and collapse, chooses collapse, and adds one more day of quiet dread. Nothing on this list would alarm a doctor. Everything on it compounds: the dread, the late fees, the reputation for brilliance-but-flaky, his partner's slow shift from teammate to case manager. Adult ADHD rarely looks like crisis; it looks like a tax on everything, collected daily, invisibly — which is exactly why treatment and systems (Parts Two and Three) are worth revisiting at every stage of adulthood, including for people who "already did that" as kids.
@@ -128,6 +145,12 @@ Parenting deserves one honest sentence here: it's the adult stage's perfect stor
 **ADHD in older adults** is the frontier the research is only now reaching, and three points cover what's known. Symptoms persist for many people past sixty, though hyperactivity keeps fading. Diagnosis gets tricky because normal cognitive aging, and everyone's fear of it, mimics and masks ADHD — a seventy-year-old's new complaints of forgetfulness get one differential; her *lifelong* pattern of it, if anyone asks about her school days, tells another story. And retirement is one last unmarked transition: it removes work's structure — the deadlines and meetings that were carrying the schedule — and some older adults' symptoms bloom precisely when life "should" have gotten easier. The clinical rule of thumb travels here too: ADHD doesn't start at seventy, but it can certainly be *found* at seventy.
 
 ## Girls and Women: The Ones the Nets Miss
+
+!!! mascot-tip "For parents, one thing to watch"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Referral runs on disruption, so the child who quietly bothers only herself never trips it. If a girl is holding it together on visible effort — all-nighters, heroic recoveries, exhaustion behind good grades — ask what the grades are costing her. That question is the one that finds her.
+
 
 Now the section this chapter has been building toward, and the one this book promised in its first pages.
 

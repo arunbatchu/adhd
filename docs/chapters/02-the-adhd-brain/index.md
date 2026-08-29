@@ -56,6 +56,11 @@ Chapter 1 gave you the regulation lens: ADHD is difficulty steering attention an
 
 Why bother with the machinery at all? Because families argue about intentions when the actual dispute is about hardware. "He'd remember if he cared" is a claim about intentions. "Prospective memory fails without external cues" is a claim about hardware — and it comes with a fix. Every section of this chapter converts one intention-argument into one hardware-fact.
 
+!!! mascot-welcome "Under the hood"
+
+    ![Bhindi](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This chapter is the one that converts arguments into engineering. Every section swaps an intention-argument ("he'd remember if he cared") for a hardware fact that comes with a fix. It's the most technical chapter in the book, and nothing after it is harder. I'll sit with you.
+
 ## How Brains Get Built
 
 **Brain development** is the decades-long construction project that turns an infant brain into an adult one. Two facts about the project matter here. First, it's staggeringly long: the brain isn't finished at birth, at 18, or at 21 — construction runs into the mid-to-late twenties. Second, it runs in a strict order, roughly back to front. The regions handling vision, movement, and basic emotion mature early. The frontmost region — the one handling planning, self-control, and judgment — is the last major area to come online, finishing well after high school and college have already demanded everything it does.
@@ -126,6 +131,12 @@ The prefrontal cortex doesn't work alone — it coordinates with the rest of the
 The **default mode network** (DMN) is the network that activates when your mind is *not* on a task: daydreaming, remembering, imagining the future, replaying conversations. It's the brain's screensaver, and everyone's runs constantly in idle moments. The relevant finding: on-task brains normally *suppress* the DMN — the screensaver switches off when work begins. In ADHD, that suppression is less reliable, so the screensaver keeps flickering on mid-task. If you have ADHD, you know this from inside: you're reading, and suddenly you're three minutes into recasting an argument from 2019 with no memory of leaving the page. That intrusion has a network name. It also explains a strength — that idling network is where unexpected connections and creative leaps come from, a thread Chapter 11 picks up.
 
 ## Executive Function: The Skill Set
+
+!!! mascot-thinking "The umbrella term"
+
+    ![Bhindi](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Executive function is the set of skills that manage your other skills. Knowing how to do the homework is one thing; getting yourself to start it is a different function entirely. That's why "but she knows how to do this" misses — knowing was never the part that failed.
+
 
 Now the term that organizes the rest of the book. **Executive function** is the umbrella name for the set of mental skills the prefrontal systems provide — the skills that manage *other* skills. Knowing how to do homework is a skill; getting yourself to start it, keeping the instructions in mind, resisting the phone, noticing you're off track, and switching subjects when the timer rings are all executive functions. ADHD is, in practical terms, executive function running inconsistently — which is why two people with ADHD can look so different (different functions hit hardest) and why "but she *knows* how to do this" misses the point (knowing was never the failing part).
 
@@ -205,6 +216,12 @@ The **reward system** is the brain circuit — heavily dopamine-driven, wired st
 
 ## Motivation: The Economist's Broken Discount Rate
 
+!!! mascot-warning "Where families read this wrong"
+
+    ![Bhindi](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    The same student who sprints through a paper due tomorrow can't touch one due in three weeks. Under effort-theory that looks like not caring. Under reward-math it's one brain behaving consistently — moving when the payoff gets close enough to see.
+
+
 Everyone discounts the future a little: $100 today beats $110 in a year for most people. **Delay aversion** is the research finding that in ADHD this discounting runs much steeper — rewards lose their motivational value unusually fast as they move away in time, and waiting itself registers as actively unpleasant, something to be escaped. A reward three weeks out isn't slightly less motivating to an ADHD reward system; it's motivationally almost invisible.
 
 This is the engine under **motivation and ADHD** — the observed pattern that ADHD motivation is inconsistent in a way effort-explanations can't predict but reward-math can. The worked example every family eventually lives: two assignments, identical difficulty. The first is due tomorrow — done tonight, in ninety focused minutes. The second is due in three weeks and worth half the grade — untouched for twenty days, then done in a panicked all-nighter... ninety focused minutes, the night before. Same student, same ability, same actual work. The only variable was *when the reward (or consequence) arrived*. Under effort-theory, this student is unmotivated — except the two ninety-minute sprints prove otherwise. Under reward-math, both performances are the same brain behaving completely consistently: it moves when payoff enters motivational range. Deadlines don't create the ability; they move the reward close enough to see.
@@ -276,12 +293,23 @@ Prospective memory failure is also the single greatest generator of relationship
 
 ## Cognitive Load: The Budget Everything Draws On
 
+!!! mascot-tip "A diagnostic question worth keeping"
+
+    ![Bhindi](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    When something goes wrong today, ask which of the six executive functions it was, not what kind of person it makes anyone. The strategies in Chapters 9 and 10 attach to named functions, so naming it correctly is what makes the fix findable.
+
+
 The last concept ties the chapter into one picture. **Cognitive load** is the total demand placed on working memory and executive systems at a given moment — every instruction held, decision pending, distraction resisted, and step tracked, all drawing on the same small budget. Everyone's budget is finite. ADHD's is smaller and drains faster — and, crucially, load is *invisible*, so observers routinely bill a person for failures of an overdrawn account they can't see.
 
 Run the example: "empty the dishwasher" sounds like one task. Under load-accounting it's dozens of micro-decisions (where does this go? is this clean?) executed amid competing noise, on top of whatever the day already spent. On a fresh budget, trivial. At 9 pm, after a day of masking symptoms at school or work — an expense you'll meet properly in Chapter 4 — the same request can arrive at a genuinely empty account, and the response (snapping, shutdown, "I'll do it later" that never comes) reads as attitude. The load lens converts whole categories of family fight into engineering problems: reduce simultaneous demands, shrink decision counts, put instructions on paper instead of in RAM, and stop scheduling hard asks for empty-account hours. If Chapter 1's gift was the regulation lens, this chapter's is the load lens — and nearly every tool in Part Three of this book is, one way or another, a load-reduction device.
 
 ??? question "Check yourself: your daughter aced yesterday's history test but left today's permission slip — signed, on the counter, by the door — at home. Name the two memory systems involved and why the outcomes differ. Click to check."
     The test drew on long-term memory — the filing cabinet, generally intact in ADHD. The slip needed prospective memory — remembering to act (grab it) at one specific unprompted moment (walking out), which routes through executive systems and is among ADHD's least reliable functions. High performance on one predicts nothing about the other; they're different machines. The fix is external: the slip goes in the backpack the moment it's signed, or a launchpad checklist lives on the door. (If you also said her working memory was busy with headphones-keys-lunch at exit time — cognitive load — full marks.)
+
+!!! mascot-celebration "You've read the machinery"
+
+    ![Bhindi](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    That was the densest science in the book, and you now have the vocabulary the next thirteen chapters keep using. From here it gets more practical, not more technical.
 
 ## What to Carry Out of This Chapter
 
