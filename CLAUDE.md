@@ -50,10 +50,23 @@ here.
 
 All 23 MicroSims are implemented and embedded (catalog: `docs/sims/index.md`;
 each sim dir has main.html, `<sim-id>.js` with a `// CANVAS_HEIGHT:` comment,
-index.md, metadata.json). Iframe heights are synced from CANVAS_HEIGHT by
-`sync-iframe-heights.py` (in Dan's microsim-utils skill) — rerun it after any
-height change. Catalog screenshots (`<sim-id>.png`) are still missing — no
-capture tool on this machine. Session logs are in `logs/`.
+index.md, metadata.json, and `<sim-id>.png` screenshot). Iframe heights are
+synced from CANVAS_HEIGHT by `sync-iframe-heights.py` (in Dan's microsim-utils
+skill) — rerun it after any height change. Session logs are in `logs/`.
+
+**Screenshots and the cover are reproducible on this machine** (2026-08-29).
+There is no `bk-capture-screenshot` here, so capture uses Playwright driving
+the *installed* Google Chrome — no browser download needed:
+
+```python
+p.chromium.launch(executable_path="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
+```
+
+Regenerate the cover with `python3 scripts/generate-cover.py` (renders the
+learning graph via `scripts/cover-graph-render.html`, then composites the
+title). To re-shoot a sim, load its `main.html` and clip to the iframe height
+from its `index.md`. Note `mkdocs serve`'s watcher often serves a **stale**
+build — restart it, or verify against `site/` after `mkdocs build`.
 
 Regenerating `learning-graph.json`: run from `docs/learning-graph/`
 
