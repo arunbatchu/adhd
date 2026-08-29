@@ -40,7 +40,7 @@ appears.
 
 -   **Here with an urgent question**
 
-    Try the [FAQ](faq.md) — 93 questions with answers that link back into the
+    Try the [FAQ](faq.md) — 108 questions with answers that link back into the
     chapters.
 
 </div>
@@ -55,8 +55,9 @@ appears.
 - **[A learning graph](learning-graph/index.md)** — all 300 concepts and how
   they depend on each other, explorable as a map.
 - **[Glossary](glossary.md)** — 300 terms in plain language.
-- **[FAQ](faq.md)** — 93 real questions, answered.
-- **Quizzes and annotated references** in every chapter.
+- **[FAQ](faq.md)** — 108 real questions, answered.
+- **Two quizzes per chapter** — one to check your reading, one that puts you in
+  real situations — plus annotated references throughout.
 
 ## How It Ends
 

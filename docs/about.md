@@ -79,8 +79,8 @@ the people around them. Chapter 15 walks through both.
 | Concepts in the learning graph | 300 |
 | Interactive MicroSims | 23 |
 | Glossary terms | 300 |
-| FAQ questions | 93 |
-| Quiz questions | 150 |
+| FAQ questions | 108 |
+| Quiz questions | 300 (two quizzes per chapter) |
 | Annotated references | 150 |
 
 This is an *intelligent textbook*: the concepts are organized as a

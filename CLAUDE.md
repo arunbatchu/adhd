@@ -46,7 +46,8 @@ here.
 | Chapter structure | `book-chapter-generator` v1.0.0 | done — 15 chapters, 0 dependency violations |
 | Chapter content | `chapter-content-generator` v1.09 | done — all 15 chapters, ~65k words, 300/300 concepts, 23 MicroSim specs |
 | MicroSim implementation | `microsim-generator` conventions | done — all 23 implemented (17 p5.js, 3 vis-network, 2 Chart.js, 1 HTML/JS), browser-QA'd |
-| Glossary, FAQ, quizzes, references | dedicated generator skills | done — 300-term glossary, 93-question FAQ (+chatbot JSON), 150 quiz questions (+quiz bank), 150 annotated references |
+| Glossary, FAQ, quizzes, references | dedicated generator skills | done — 300-term glossary, 108-question FAQ (+chatbot JSON), 300 quiz questions in two sets per chapter, 150 annotated references |
+| Front matter, cover, screenshots | 2026-08-29 polish pass | done — real landing/about/README, graph-derived cover, 23 sim screenshots, book metrics |
 
 All 23 MicroSims are implemented and embedded (catalog: `docs/sims/index.md`;
 each sim dir has main.html, `<sim-id>.js` with a `// CANVAS_HEIGHT:` comment,
@@ -78,6 +79,12 @@ python3 csv-to-json.py learning-graph.csv learning-graph.json color-config.json 
 names stay stable across regenerations. After regenerating, re-run the group
 reordering step from `book-installer/references/learning-graph-viewer.md` Step 4,
 or the legend order will no longer match `concept-taxonomy.md`.
+
+**Counting caveat:** `book-metrics.py` counts only `quiz.md`, so its Chapter
+Quizzes row reads 150. The real total is 300 — each chapter also has a
+`quiz-applied.md`, a scenario-based set weighted to Apply/Analyze/Evaluate that
+complements the recall-weighted original. Keep the reader-facing counts in
+`README.md`, `docs/about.md`, and `docs/index.md` in sync by hand.
 
 ## Working rules
 

@@ -35,8 +35,8 @@ people around them. Then they trade.
 | Concepts in the learning graph | 300 |
 | Interactive MicroSims | 23 |
 | Glossary terms | 300 |
-| FAQ questions | 93 |
-| Quiz questions | 150 |
+| FAQ questions | 108 |
+| Quiz questions | 300 (two quizzes per chapter) |
 | Annotated references | 150 |
 
 This is an **intelligent textbook**: concepts are organized as a dependency
@@ -52,8 +52,8 @@ docs/
 ├── about.md                  Audience, how to read, limits, citation
 ├── course-description.md     Seed document (Bloom's-organized outcomes)
 ├── glossary.md               300 ISO 11179-compliant terms
-├── faq.md                    93 questions
-├── chapters/                 15 chapters, each with index/quiz/references
+├── faq.md                    108 questions
+├── chapters/                 15 chapters, each with index, two quizzes, references
 ├── learning-graph/           Concept graph, taxonomy, quality reports
 │   ├── learning-graph.csv     Source of truth (300 concepts + dependencies)
 │   ├── learning-graph.json    Generated; includes Concept Impact Scores
