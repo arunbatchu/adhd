@@ -272,7 +272,7 @@ extra:
   # Book Composition element #12, read by bk-generate-book-metrics.
   development_stage: 'Complete draft - awaiting clinical review'
 
-  # Google Analytics — uncomment once a property ID exists:
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
+  # Google Analytics: account "Netrii" (arun@netrii.com), property "Understanding ADHD". Created 2026-11-07.
+  analytics:
+    provider: google
+    property: G-4KYRKZ6394
